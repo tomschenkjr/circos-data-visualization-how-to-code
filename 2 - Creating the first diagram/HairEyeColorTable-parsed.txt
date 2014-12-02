@@ -1,0 +1,277 @@
+scale atten_large 20 20
+scale atten_large 68 68
+scale atten_large 5 5
+scale atten_large 15 15
+scale atten_large 94 94
+scale atten_large 7 7
+scale atten_large 15 15
+scale atten_large 11 11
+scale atten_large 84 84
+scale atten_large 119 119
+scale atten_large 29 29
+scale atten_large 54 54
+scale atten_large 17 17
+scale atten_large 26 26
+scale atten_large 14 14
+scale atten_large 14 14
+hsvpercentile 0 0 1 1
+colorpercentile percentile00000 = 255,0,0
+hsvpercentile 5 15 1 1
+colorpercentile percentile00005 = 255,64,0
+hsvpercentile 10 30 1 1
+colorpercentile percentile00010 = 255,127,0
+hsvpercentile 15 45 1 1
+colorpercentile percentile00015 = 255,191,0
+hsvpercentile 20 60 1 1
+colorpercentile percentile00020 = 255,255,0
+hsvpercentile 25 75 1 1
+colorpercentile percentile00025 = 191,255,0
+hsvpercentile 30 90 1 1
+colorpercentile percentile00030 = 128,255,0
+hsvpercentile 35 105 1 1
+colorpercentile percentile00035 = 64,255,0
+hsvpercentile 40 120 1 1
+colorpercentile percentile00040 = 0,255,0
+hsvpercentile 45 135 1 1
+colorpercentile percentile00045 = 0,255,64
+hsvpercentile 50 150 1 1
+colorpercentile percentile00050 = 0,255,128
+hsvpercentile 55 165 1 1
+colorpercentile percentile00055 = 0,255,191
+hsvpercentile 60 180 1 1
+colorpercentile percentile00060 = 0,255,255
+hsvpercentile 65 195 1 1
+colorpercentile percentile00065 = 0,191,255
+hsvpercentile 70 210 1 1
+colorpercentile percentile00070 = 0,128,255
+hsvpercentile 75 225 1 1
+colorpercentile percentile00075 = 0,64,255
+hsvpercentile 80 240 1 1
+colorpercentile percentile00080 = 0,0,255
+hsvpercentile 85 255 1 1
+colorpercentile percentile00085 = 64,0,255
+hsvpercentile 90 270 1 1
+colorpercentile percentile00090 = 128,0,255
+hsvpercentile 95 285 1 1
+colorpercentile percentile00095 = 191,0,255
+hsvpercentile 100 300 1 1
+colorpercentile percentile00100 = 255,0,255
+table report row 0 Black_Hair 
+table report row 1 Blonde_Hair 
+table report row 2 Brown_Hair 
+table report row 3 Red_Hair 
+table report col 0 Blue_Eyes 
+table report col 1 Brown_Eyes 
+table report col 2 Green_Eyes 
+table report col 3 Hazel_Eyes 
+table report cell 0 Black_Hair 0 Blue_Eyes raw 20 cleaned/remapped 20* scaled 20 missing? 0 hidden? 0
+table report cell 0 Black_Hair 1 Brown_Eyes raw 68 cleaned/remapped 68* scaled 68 missing? 0 hidden? 0
+table report cell 0 Black_Hair 2 Green_Eyes raw 5 cleaned/remapped 5* scaled 5 missing? 0 hidden? 0
+table report cell 0 Black_Hair 3 Hazel_Eyes raw 15 cleaned/remapped 15* scaled 15 missing? 0 hidden? 0
+table report cell 1 Blonde_Hair 0 Blue_Eyes raw 94 cleaned/remapped 94* scaled 94 missing? 0 hidden? 0
+table report cell 1 Blonde_Hair 1 Brown_Eyes raw 7 cleaned/remapped 7* scaled 7 missing? 0 hidden? 0
+table report cell 1 Blonde_Hair 2 Green_Eyes raw 15 cleaned/remapped 15* scaled 15 missing? 0 hidden? 0
+table report cell 1 Blonde_Hair 3 Hazel_Eyes raw 11 cleaned/remapped 11* scaled 11 missing? 0 hidden? 0
+table report cell 2 Brown_Hair 0 Blue_Eyes raw 84 cleaned/remapped 84* scaled 84 missing? 0 hidden? 0
+table report cell 2 Brown_Hair 1 Brown_Eyes raw 119 cleaned/remapped 119* scaled 119 missing? 0 hidden? 0
+table report cell 2 Brown_Hair 2 Green_Eyes raw 29 cleaned/remapped 29* scaled 29 missing? 0 hidden? 0
+table report cell 2 Brown_Hair 3 Hazel_Eyes raw 54 cleaned/remapped 54* scaled 54 missing? 0 hidden? 0
+table report cell 3 Red_Hair 0 Blue_Eyes raw 17 cleaned/remapped 17* scaled 17 missing? 0 hidden? 0
+table report cell 3 Red_Hair 1 Brown_Eyes raw 26 cleaned/remapped 26* scaled 26 missing? 0 hidden? 0
+table report cell 3 Red_Hair 2 Green_Eyes raw 14 cleaned/remapped 14* scaled 14 missing? 0 hidden? 0
+table report cell 3 Red_Hair 3 Hazel_Eyes raw 14 cleaned/remapped 14* scaled 14 missing? 0 hidden? 0
+row/col/label stat row Black_Hair sum 108 n 4 min 5 max 68 avg 27
+row/col/label stat row Blonde_Hair sum 127 n 4 min 7 max 94 avg 31.75
+row/col/label stat row Brown_Hair sum 286 n 4 min 29 max 119 avg 71.5
+row/col/label stat row Red_Hair sum 71 n 4 min 14 max 26 avg 17.75
+row/col/label stat col Blue_Eyes sum 215 n 4 min 17 max 94 avg 53.75
+row/col/label stat col Brown_Eyes sum 220 n 4 min 7 max 119 avg 55
+row/col/label stat col Green_Eyes sum 63 n 4 min 5 max 29 avg 15.75
+row/col/label stat col Hazel_Eyes sum 94 n 4 min 11 max 54 avg 23.5
+row/col/label stat label Black_Hair sum 108 n 4 min 5 max 68 avg 27
+row/col/label stat label Blonde_Hair sum 127 n 4 min 7 max 94 avg 31.75
+row/col/label stat label Blue_Eyes sum 215 n 4 min 17 max 94 avg 53.75
+row/col/label stat label Brown_Eyes sum 220 n 4 min 7 max 119 avg 55
+row/col/label stat label Brown_Hair sum 286 n 4 min 29 max 119 avg 71.5
+row/col/label stat label Green_Eyes sum 63 n 4 min 5 max 29 avg 15.75
+row/col/label stat label Hazel_Eyes sum 94 n 4 min 11 max 54 avg 23.5
+row/col/label stat label Red_Hair sum 71 n 4 min 14 max 26 avg 17.75
+labels ordered Brown_Hair Brown_Eyes Blue_Eyes Blonde_Hair Black_Hair Hazel_Eyes Red_Hair Green_Eyes
+label2seg 0 Brown_Hair Brown_Hair
+label2seg 1 Brown_Eyes Brown_Eyes
+label2seg 2 Blue_Eyes Blue_Eyes
+label2seg 3 Blonde_Hair Blonde_Hair
+label2seg 4 Black_Hair Black_Hair
+label2seg 5 Hazel_Eyes Hazel_Eyes
+label2seg 6 Red_Hair Red_Hair
+label2seg 7 Green_Eyes Green_Eyes
+labels ordered Black_Hair Blonde_Hair Blue_Eyes Brown_Eyes Brown_Hair Green_Eyes Hazel_Eyes Red_Hair
+colordef colorgreen_eyes = 94,46,230
+colordef colorblack_hair = 230,46,46
+colordef colorblue_eyes = 171,230,46
+colordef colorbrown_hair = 46,144,230
+colordef colorbrown_eyes = 46,230,103
+colordef colorhazel_eyes = 160,46,230
+colordef colorred_hair = 230,46,230
+colordef colorblonde_hair = 230,144,46
+highlight row Black_Hair 0 68 fill_color=colorbrown_eyes
+highlight row Black_Hair 68 88 fill_color=colorblue_eyes
+highlight row Black_Hair 88 103 fill_color=colorhazel_eyes
+highlight row Black_Hair 103 108 fill_color=colorgreen_eyes
+highlight row Brown_Hair 0 119 fill_color=colorbrown_eyes
+highlight row Brown_Hair 119 203 fill_color=colorblue_eyes
+highlight row Brown_Hair 203 257 fill_color=colorhazel_eyes
+highlight row Brown_Hair 257 286 fill_color=colorgreen_eyes
+highlight row Red_Hair 0 26 fill_color=colorbrown_eyes
+highlight row Red_Hair 26 43 fill_color=colorblue_eyes
+highlight row Red_Hair 43 57 fill_color=colorgreen_eyes
+highlight row Red_Hair 57 71 fill_color=colorhazel_eyes
+highlight row Blonde_Hair 0 94 fill_color=colorblue_eyes
+highlight row Blonde_Hair 94 109 fill_color=colorgreen_eyes
+highlight row Blonde_Hair 109 120 fill_color=colorhazel_eyes
+highlight row Blonde_Hair 120 127 fill_color=colorbrown_eyes
+highlight col Blue_Eyes 0 94 fill_color=colorblonde_hair
+highlight col Blue_Eyes 94 178 fill_color=colorbrown_hair
+highlight col Blue_Eyes 178 198 fill_color=colorblack_hair
+highlight col Blue_Eyes 198 215 fill_color=colorred_hair
+highlight col Green_Eyes 0 29 fill_color=colorbrown_hair
+highlight col Green_Eyes 29 44 fill_color=colorblonde_hair
+highlight col Green_Eyes 44 58 fill_color=colorred_hair
+highlight col Green_Eyes 58 63 fill_color=colorblack_hair
+highlight col Brown_Eyes 0 119 fill_color=colorbrown_hair
+highlight col Brown_Eyes 119 187 fill_color=colorblack_hair
+highlight col Brown_Eyes 187 213 fill_color=colorred_hair
+highlight col Brown_Eyes 213 220 fill_color=colorblonde_hair
+highlight col Hazel_Eyes 0 54 fill_color=colorbrown_hair
+highlight col Hazel_Eyes 54 69 fill_color=colorblack_hair
+highlight col Hazel_Eyes 69 83 fill_color=colorred_hair
+highlight col Hazel_Eyes 83 94 fill_color=colorblonde_hair
+highlight all Brown_Hair 0 119 fill_color=colorbrown_eyes
+highlight all Brown_Hair 119 203 fill_color=colorblue_eyes
+highlight all Brown_Hair 203 257 fill_color=colorhazel_eyes
+highlight all Brown_Hair 257 286 fill_color=colorgreen_eyes
+highlight all Brown_Eyes 0 119 fill_color=colorbrown_hair
+highlight all Brown_Eyes 119 187 fill_color=colorblack_hair
+highlight all Brown_Eyes 187 213 fill_color=colorred_hair
+highlight all Brown_Eyes 213 220 fill_color=colorblonde_hair
+highlight all Blue_Eyes 0 94 fill_color=colorblonde_hair
+highlight all Blue_Eyes 94 178 fill_color=colorbrown_hair
+highlight all Blue_Eyes 178 198 fill_color=colorblack_hair
+highlight all Blue_Eyes 198 215 fill_color=colorred_hair
+highlight all Blonde_Hair 0 94 fill_color=colorblue_eyes
+highlight all Blonde_Hair 94 109 fill_color=colorgreen_eyes
+highlight all Blonde_Hair 109 120 fill_color=colorhazel_eyes
+highlight all Blonde_Hair 120 127 fill_color=colorbrown_eyes
+highlight all Black_Hair 0 68 fill_color=colorbrown_eyes
+highlight all Black_Hair 68 88 fill_color=colorblue_eyes
+highlight all Black_Hair 88 103 fill_color=colorhazel_eyes
+highlight all Black_Hair 103 108 fill_color=colorgreen_eyes
+highlight all Hazel_Eyes 0 54 fill_color=colorbrown_hair
+highlight all Hazel_Eyes 54 69 fill_color=colorblack_hair
+highlight all Hazel_Eyes 69 83 fill_color=colorred_hair
+highlight all Hazel_Eyes 83 94 fill_color=colorblonde_hair
+highlight all Red_Hair 0 26 fill_color=colorbrown_eyes
+highlight all Red_Hair 26 43 fill_color=colorblue_eyes
+highlight all Red_Hair 43 57 fill_color=colorgreen_eyes
+highlight all Red_Hair 57 71 fill_color=colorhazel_eyes
+highlight all Green_Eyes 0 29 fill_color=colorbrown_hair
+highlight all Green_Eyes 29 44 fill_color=colorblonde_hair
+highlight all Green_Eyes 44 58 fill_color=colorred_hair
+highlight all Green_Eyes 58 63 fill_color=colorblack_hair
+karyotype chr - Brown_Hair Brown_Hair 0 286 colorbrown_hair
+segmentlabel Brown_Hair 0 286 Brown_Hair
+karyotype chr - Brown_Eyes Brown_Eyes 0 220 colorbrown_eyes
+segmentlabel Brown_Eyes 0 220 Brown_Eyes
+karyotype chr - Blue_Eyes Blue_Eyes 0 215 colorblue_eyes
+segmentlabel Blue_Eyes 0 215 Blue_Eyes
+karyotype chr - Blonde_Hair Blonde_Hair 0 127 colorblonde_hair
+segmentlabel Blonde_Hair 0 127 Blonde_Hair
+karyotype chr - Black_Hair Black_Hair 0 108 colorblack_hair
+segmentlabel Black_Hair 0 108 Black_Hair
+karyotype chr - Hazel_Eyes Hazel_Eyes 0 94 colorhazel_eyes
+segmentlabel Hazel_Eyes 0 94 Hazel_Eyes
+karyotype chr - Red_Hair Red_Hair 0 71 colorred_hair
+segmentlabel Red_Hair 0 71 Red_Hair
+karyotype chr - Green_Eyes Green_Eyes 0 63 colorgreen_eyes
+segmentlabel Green_Eyes 0 63 Green_Eyes
+chromosomes_scale = Brown_Hair:1.0000,Brown_Eyes:1.0000,Blue_Eyes:1.0000,Blonde_Hair:1.0000,Black_Hair:1.0000,Hazel_Eyes:1.0000,Red_Hair:1.0000,Green_Eyes:1.0000
+loop Brown_Hair row
+loop Brown_Hair col
+loop Brown_Eyes row
+loop Brown_Eyes col
+loop Blue_Eyes row
+loop Blue_Eyes col
+loop Blonde_Hair row
+loop Blonde_Hair col
+loop Black_Hair row
+loop Black_Hair col
+loop Hazel_Eyes row
+loop Hazel_Eyes col
+loop Red_Hair row
+loop Red_Hair col
+loop Green_Eyes row
+loop Green_Eyes col
+link cell_0000 Black_Hair 20 40 color=colorblack_hair_a1,z=13
+link cell_0000 Blue_Eyes 17 37 color=colorblack_hair_a1,z=13
+colribboncap Blue_Eyes 17 37 fill_color=colorblack_hair
+rowribboncap Black_Hair 20 40 fill_color=colorblue_eyes
+link cell_0001 Black_Hair 40 108 color=colorblack_hair_a1,z=55
+link cell_0001 Brown_Eyes 26 94 color=colorblack_hair_a1,z=55
+colribboncap Brown_Eyes 26 94 fill_color=colorblack_hair
+rowribboncap Black_Hair 40 108 fill_color=colorbrown_eyes
+link cell_0002 Black_Hair 0 5 color=colorblack_hair_a1,z=0
+link cell_0002 Green_Eyes 14 19 color=colorblack_hair_a1,z=0
+colribboncap Green_Eyes 14 19 fill_color=colorblack_hair
+rowribboncap Black_Hair 0 5 fill_color=colorgreen_eyes
+link cell_0003 Black_Hair 5 20 color=colorblack_hair_a1,z=9
+link cell_0003 Hazel_Eyes 14 29 color=colorblack_hair_a1,z=9
+colribboncap Hazel_Eyes 14 29 fill_color=colorblack_hair
+rowribboncap Black_Hair 5 20 fill_color=colorhazel_eyes
+link cell_0004 Blonde_Hair 26 120 color=colorblonde_hair_a1,z=78
+link cell_0004 Blue_Eyes 37 131 color=colorblonde_hair_a1,z=78
+colribboncap Blue_Eyes 37 131 fill_color=colorblonde_hair
+rowribboncap Blonde_Hair 26 120 fill_color=colorblue_eyes
+link cell_0005 Blonde_Hair 120 127 color=colorblonde_hair_a1,z=2
+link cell_0005 Brown_Eyes 94 101 color=colorblonde_hair_a1,z=2
+colribboncap Brown_Eyes 94 101 fill_color=colorblonde_hair
+rowribboncap Blonde_Hair 120 127 fill_color=colorbrown_eyes
+link cell_0006 Blonde_Hair 0 15 color=colorblonde_hair_a1,z=9
+link cell_0006 Green_Eyes 19 34 color=colorblonde_hair_a1,z=9
+colribboncap Green_Eyes 19 34 fill_color=colorblonde_hair
+rowribboncap Blonde_Hair 0 15 fill_color=colorgreen_eyes
+link cell_0007 Blonde_Hair 15 26 color=colorblonde_hair_a1,z=5
+link cell_0007 Hazel_Eyes 29 40 color=colorblonde_hair_a1,z=5
+colribboncap Hazel_Eyes 29 40 fill_color=colorblonde_hair
+rowribboncap Blonde_Hair 15 26 fill_color=colorhazel_eyes
+link cell_0008 Brown_Hair 83 167 color=colorbrown_hair_a1,z=69
+link cell_0008 Blue_Eyes 131 215 color=colorbrown_hair_a1,z=69
+colribboncap Blue_Eyes 131 215 fill_color=colorbrown_hair
+rowribboncap Brown_Hair 83 167 fill_color=colorblue_eyes
+link cell_0009 Brown_Hair 167 286 color=colorbrown_hair_a1,z=100
+link cell_0009 Brown_Eyes 101 220 color=colorbrown_hair_a1,z=100
+colribboncap Brown_Eyes 101 220 fill_color=colorbrown_hair
+rowribboncap Brown_Hair 167 286 fill_color=colorbrown_eyes
+link cell_0010 Brown_Hair 0 29 color=colorbrown_hair_a1,z=21
+link cell_0010 Green_Eyes 34 63 color=colorbrown_hair_a1,z=21
+colribboncap Green_Eyes 34 63 fill_color=colorbrown_hair
+rowribboncap Brown_Hair 0 29 fill_color=colorgreen_eyes
+link cell_0011 Brown_Hair 29 83 color=colorbrown_hair_a1,z=43
+link cell_0011 Hazel_Eyes 40 94 color=colorbrown_hair_a1,z=43
+colribboncap Hazel_Eyes 40 94 fill_color=colorbrown_hair
+rowribboncap Brown_Hair 29 83 fill_color=colorhazel_eyes
+link cell_0012 Red_Hair 28 45 color=colorred_hair_a1,z=11
+link cell_0012 Blue_Eyes 0 17 color=colorred_hair_a1,z=11
+colribboncap Blue_Eyes 0 17 fill_color=colorred_hair
+rowribboncap Red_Hair 28 45 fill_color=colorblue_eyes
+link cell_0013 Red_Hair 45 71 color=colorred_hair_a1,z=18
+link cell_0013 Brown_Eyes 0 26 color=colorred_hair_a1,z=18
+colribboncap Brown_Eyes 0 26 fill_color=colorred_hair
+rowribboncap Red_Hair 45 71 fill_color=colorbrown_eyes
+link cell_0014 Red_Hair 0 14 color=colorred_hair_a1,z=8
+link cell_0014 Green_Eyes 0 14 color=colorred_hair_a1,z=8
+colribboncap Green_Eyes 0 14 fill_color=colorred_hair
+rowribboncap Red_Hair 0 14 fill_color=colorgreen_eyes
+link cell_0015 Red_Hair 14 28 color=colorred_hair_a1,z=8
+link cell_0015 Hazel_Eyes 0 14 color=colorred_hair_a1,z=8
+colribboncap Hazel_Eyes 0 14 fill_color=colorred_hair
+rowribboncap Red_Hair 14 28 fill_color=colorhazel_eyes

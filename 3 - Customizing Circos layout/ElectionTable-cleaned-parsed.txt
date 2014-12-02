@@ -1,0 +1,3255 @@
+scale atten_large 684387 684387
+scale atten_large 98950 98950
+scale atten_large 1000 1000
+scale atten_large 483105 483105
+scale atten_large 500 500
+scale atten_large 1854546 1854546
+scale atten_large 1250 1250
+scale atten_large 6000 6000
+scale atten_large 6286579 6286579
+scale atten_large 3000 3000
+scale atten_large 1609713 1609713
+scale atten_large 3425 3425
+scale atten_large 950 950
+scale atten_large 3501270 3501270
+scale atten_large 1000 1000
+scale atten_large 2200 2200
+scale atten_large 0 0
+scale atten_large 0 0
+scale atten_large 0 0
+scale atten_large 0 0
+scale atten_large 4276102 4276102
+scale atten_large 18290 18290
+scale atten_large 16911 16911
+scale atten_large 10906022 10906022
+scale atten_large 6667 6667
+scale atten_large 100180271 100180271
+scale atten_large 179233 179233
+scale atten_large 347269 347269
+scale atten_large 57137869 57137869
+scale atten_large 15810 15810
+scale atten_large 8309752 8309752
+scale atten_large 123284 123284
+scale atten_large 37545 37545
+scale atten_large 8652876 8652876
+scale atten_large 2750 2750
+scale atten_large 15345587 15345587
+scale atten_large 18425 18425
+scale atten_large 7150 7150
+scale atten_large 14192606 14192606
+scale atten_large 7867 7867
+scale atten_large 188759226 188759226
+scale atten_large 206133 206133
+scale atten_large 56836 56836
+scale atten_large 74638016 74638016
+scale atten_large 3750 3750
+scale atten_large 1842215 1842215
+scale atten_large 950 950
+scale atten_large 3201 3201
+scale atten_large 701019 701019
+scale atten_large 500 500
+scale atten_large 29766443 29766443
+scale atten_large 26976 26976
+scale atten_large 69306 69306
+scale atten_large 43250170 43250170
+scale atten_large 27728 27728
+scale atten_large 5153544 5153544
+scale atten_large 11450 11450
+scale atten_large 30150 30150
+scale atten_large 15325396 15325396
+scale atten_large 5166 5166
+scale atten_large 105950 105950
+scale atten_large 0 0
+scale atten_large 0 0
+scale atten_large 16752 16752
+scale atten_large 750 750
+scale atten_large 4016676 4016676
+scale atten_large 2500 2500
+scale atten_large 3650 3650
+scale atten_large 1316718 1316718
+scale atten_large 1667 1667
+scale atten_large 2997776 2997776
+scale atten_large 5650 5650
+scale atten_large 1050 1050
+scale atten_large 3033981 3033981
+scale atten_large 2500 2500
+scale atten_large 582543 582543
+scale atten_large 900 900
+scale atten_large 750 750
+scale atten_large 1646191 1646191
+scale atten_large 2000 2000
+scale atten_large 60672896 60672896
+scale atten_large 40235 40235
+scale atten_large 28473 28473
+scale atten_large 24201072 24201072
+scale atten_large 2700 2700
+scale atten_large 3028644 3028644
+scale atten_large 11450 11450
+scale atten_large 15246 15246
+scale atten_large 8459395 8459395
+scale atten_large 2500 2500
+scale atten_large 889088 889088
+scale atten_large 1760 1760
+scale atten_large 1500 1500
+scale atten_large 4023656 4023656
+scale atten_large 1500 1500
+scale atten_large 6397937 6397937
+scale atten_large 5500 5500
+scale atten_large 1000 1000
+scale atten_large 5347901 5347901
+scale atten_large 0 0
+scale atten_large 2202318 2202318
+scale atten_large 52200 52200
+scale atten_large 6351 6351
+scale atten_large 7670255 7670255
+scale atten_large 4300 4300
+scale atten_large 26003142 26003142
+scale atten_large 84810 84810
+scale atten_large 16341 16341
+scale atten_large 15466664 15466664
+scale atten_large 5916 5916
+scale atten_large 20439373 20439373
+scale atten_large 46075 46075
+scale atten_large 18382 18382
+scale atten_large 8877546 8877546
+scale atten_large 1000 1000
+scale atten_large 2601764 2601764
+scale atten_large 1950 1950
+scale atten_large 500 500
+scale atten_large 1210283 1210283
+scale atten_large 0 0
+scale atten_large 10131879 10131879
+scale atten_large 11250 11250
+scale atten_large 13060 13060
+scale atten_large 14881045 14881045
+scale atten_large 3217 3217
+scale atten_large 8117383 8117383
+scale atten_large 53755 53755
+scale atten_large 4100 4100
+scale atten_large 10952167 10952167
+scale atten_large 2250 2250
+scale atten_large 6269933 6269933
+scale atten_large 4600 4600
+scale atten_large 7200 7200
+scale atten_large 11733529 11733529
+scale atten_large 750 750
+scale atten_large 611432 611432
+scale atten_large 5088 5088
+scale atten_large 2550 2550
+scale atten_large 3612511 3612511
+scale atten_large 0 0
+scale atten_large 2425285 2425285
+scale atten_large 1000 1000
+scale atten_large 450 450
+scale atten_large 1993237 1993237
+scale atten_large 500 500
+scale atten_large 5654527 5654527
+scale atten_large 11325 11325
+scale atten_large 11137 11137
+scale atten_large 7576516 7576516
+scale atten_large 2700 2700
+scale atten_large 676499 676499
+scale atten_large 0 0
+scale atten_large 500 500
+scale atten_large 1309711 1309711
+scale atten_large 0 0
+scale atten_large 2867807 2867807
+scale atten_large 0 0
+scale atten_large 1000 1000
+scale atten_large 3166405 3166405
+scale atten_large 5250 5250
+scale atten_large 2872971 2872971
+scale atten_large 4550 4550
+scale atten_large 14250 14250
+scale atten_large 8932494 8932494
+scale atten_large 20025 20025
+scale atten_large 14033312 14033312
+scale atten_large 8700 8700
+scale atten_large 9951 9951
+scale atten_large 10300676 10300676
+scale atten_large 183817 183817
+scale atten_large 3595041 3595041
+scale atten_large 13450 13450
+scale atten_large 74900 74900
+scale atten_large 3756401 3756401
+scale atten_large 0 0
+scale atten_large 8629308 8629308
+scale atten_large 11950 11950
+scale atten_large 12302 12302
+scale atten_large 6925976 6925976
+scale atten_large 21867 21867
+scale atten_large 70535303 70535303
+scale atten_large 80233 80233
+scale atten_large 37923 37923
+scale atten_large 41829648 41829648
+scale atten_large 7684 7684
+scale atten_large 8749573 8749573
+scale atten_large 24184 24184
+scale atten_large 39376 39376
+scale atten_large 31162312 31162312
+scale atten_large 6299 6299
+scale atten_large 2068513 2068513
+scale atten_large 4320 4320
+scale atten_large 4700 4700
+scale atten_large 6890558 6890558
+scale atten_large 4622 4622
+scale atten_large 5502489 5502489
+scale atten_large 12825 12825
+scale atten_large 10700 10700
+scale atten_large 4494098 4494098
+scale atten_large 6600 6600
+scale atten_large 15507157 15507157
+scale atten_large 17883 17883
+scale atten_large 14250 14250
+scale atten_large 21038274 21038274
+scale atten_large 49337 49337
+scale atten_large 2115109 2115109
+scale atten_large 0 0
+scale atten_large 0 0
+scale atten_large 325355 325355
+scale atten_large 0 0
+scale atten_large 2412103 2412103
+scale atten_large 7225 7225
+scale atten_large 0 0
+scale atten_large 1197739 1197739
+scale atten_large 500 500
+scale atten_large 2625600 2625600
+scale atten_large 2300 2300
+scale atten_large 1952 1952
+scale atten_large 4960210 4960210
+scale atten_large 250 250
+scale atten_large 661710 661710
+scale atten_large 1100 1100
+scale atten_large 0 0
+scale atten_large 2244026 2244026
+scale atten_large 250 250
+scale atten_large 3260612 3260612
+scale atten_large 21107 21107
+scale atten_large 13700 13700
+scale atten_large 15795995 15795995
+scale atten_large 500 500
+scale atten_large 26500655 26500655
+scale atten_large 17925 17925
+scale atten_large 197181 197181
+scale atten_large 85977703 85977703
+scale atten_large 117010 117010
+scale atten_large 1640109 1640109
+scale atten_large 2544 2544
+scale atten_large 5102 5102
+scale atten_large 10432712 10432712
+scale atten_large 500 500
+scale atten_large 20284276 20284276
+scale atten_large 51415 51415
+scale atten_large 19777 19777
+scale atten_large 57574313 57574313
+scale atten_large 5523 5523
+scale atten_large 523200 523200
+scale atten_large 0 0
+scale atten_large 0 0
+scale atten_large 191691 191691
+scale atten_large 500 500
+scale atten_large 2803948 2803948
+scale atten_large 125220 125220
+scale atten_large 3050 3050
+scale atten_large 295913 295913
+scale atten_large 3000 3000
+scale atten_large 12504959 12504959
+scale atten_large 30950 30950
+scale atten_large 28015 28015
+scale atten_large 6370857 6370857
+scale atten_large 3500 3500
+scale atten_large 5022218 5022218
+scale atten_large 16864 16864
+scale atten_large 2750 2750
+scale atten_large 6426953 6426953
+scale atten_large 750 750
+scale atten_large 1391960 1391960
+scale atten_large 3625 3625
+scale atten_large 750 750
+scale atten_large 2850742 2850742
+scale atten_large 500 500
+scale atten_large 536708 536708
+scale atten_large 1750 1750
+scale atten_large 250 250
+scale atten_large 1489326 1489326
+scale atten_large 2750 2750
+hsvpercentile 0 0 1 1
+colorpercentile percentile00000 = 255,0,0
+hsvpercentile 5 15 1 1
+colorpercentile percentile00005 = 255,64,0
+hsvpercentile 10 30 1 1
+colorpercentile percentile00010 = 255,127,0
+hsvpercentile 15 45 1 1
+colorpercentile percentile00015 = 255,191,0
+hsvpercentile 20 60 1 1
+colorpercentile percentile00020 = 255,255,0
+hsvpercentile 25 75 1 1
+colorpercentile percentile00025 = 191,255,0
+hsvpercentile 30 90 1 1
+colorpercentile percentile00030 = 128,255,0
+hsvpercentile 35 105 1 1
+colorpercentile percentile00035 = 64,255,0
+hsvpercentile 40 120 1 1
+colorpercentile percentile00040 = 0,255,0
+hsvpercentile 45 135 1 1
+colorpercentile percentile00045 = 0,255,64
+hsvpercentile 50 150 1 1
+colorpercentile percentile00050 = 0,255,128
+hsvpercentile 55 165 1 1
+colorpercentile percentile00055 = 0,255,191
+hsvpercentile 60 180 1 1
+colorpercentile percentile00060 = 0,255,255
+hsvpercentile 65 195 1 1
+colorpercentile percentile00065 = 0,191,255
+hsvpercentile 70 210 1 1
+colorpercentile percentile00070 = 0,128,255
+hsvpercentile 75 225 1 1
+colorpercentile percentile00075 = 0,64,255
+hsvpercentile 80 240 1 1
+colorpercentile percentile00080 = 0,0,255
+hsvpercentile 85 255 1 1
+colorpercentile percentile00085 = 64,0,255
+hsvpercentile 90 270 1 1
+colorpercentile percentile00090 = 128,0,255
+hsvpercentile 95 285 1 1
+colorpercentile percentile00095 = 191,0,255
+hsvpercentile 100 300 1 1
+colorpercentile percentile00100 = 255,0,255
+table report row 0 AK 
+table report row 1 AL 
+table report row 2 AR 
+table report row 3 AS 
+table report row 4 AZ 
+table report row 5 CA 
+table report row 6 CO 
+table report row 7 CT 
+table report row 8 DC 
+table report row 9 DE 
+table report row 10 FL 
+table report row 11 GA 
+table report row 12 GU 
+table report row 13 HI 
+table report row 14 IA 
+table report row 15 ID 
+table report row 16 IL 
+table report row 17 IN 
+table report row 18 KS 
+table report row 19 KY 
+table report row 20 LA 
+table report row 21 MA 
+table report row 22 MD 
+table report row 23 ME 
+table report row 24 MI 
+table report row 25 MN 
+table report row 26 MO 
+table report row 27 MS 
+table report row 28 MT 
+table report row 29 NC 
+table report row 30 ND 
+table report row 31 NE 
+table report row 32 NH 
+table report row 33 NJ 
+table report row 34 NM 
+table report row 35 NV 
+table report row 36 NY 
+table report row 37 OH 
+table report row 38 OK 
+table report row 39 OR 
+table report row 40 PA 
+table report row 41 PR 
+table report row 42 RI 
+table report row 43 SC 
+table report row 44 SD 
+table report row 45 TN 
+table report row 46 TX 
+table report row 47 UT 
+table report row 48 VA 
+table report row 49 VI 
+table report row 50 VT 
+table report row 51 WA 
+table report row 52 WI 
+table report row 53 WV 
+table report row 54 WY 
+table report col 0 D 
+table report col 1 I 
+table report col 2 L 
+table report col 3 R 
+table report col 4 U 
+table report cell 0 AK 0 D raw 684387 cleaned/remapped 684387* scaled 684387 missing? 0 hidden? 0
+table report cell 0 AK 1 I raw 98950 cleaned/remapped 98950* scaled 98950 missing? 0 hidden? 0
+table report cell 0 AK 2 L raw 1000 cleaned/remapped 1000* scaled 1000 missing? 0 hidden? 0
+table report cell 0 AK 3 R raw 483105 cleaned/remapped 483105* scaled 483105 missing? 0 hidden? 0
+table report cell 0 AK 4 U raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 1 AL 0 D raw 1854546 cleaned/remapped 1854546* scaled 1854546 missing? 0 hidden? 0
+table report cell 1 AL 1 I raw 1250 cleaned/remapped 1250* scaled 1250 missing? 0 hidden? 0
+table report cell 1 AL 2 L raw 6000 cleaned/remapped 6000* scaled 6000 missing? 0 hidden? 0
+table report cell 1 AL 3 R raw 6286579 cleaned/remapped 6286579* scaled 6286579 missing? 0 hidden? 0
+table report cell 1 AL 4 U raw 3000 cleaned/remapped 3000* scaled 3000 missing? 0 hidden? 0
+table report cell 2 AR 0 D raw 1609713 cleaned/remapped 1609713* scaled 1609713 missing? 0 hidden? 0
+table report cell 2 AR 1 I raw 3425 cleaned/remapped 3425* scaled 3425 missing? 0 hidden? 0
+table report cell 2 AR 2 L raw 950 cleaned/remapped 950* scaled 950 missing? 0 hidden? 0
+table report cell 2 AR 3 R raw 3501270 cleaned/remapped 3501270* scaled 3501270 missing? 0 hidden? 0
+table report cell 2 AR 4 U raw 1000 cleaned/remapped 1000* scaled 1000 missing? 0 hidden? 0
+table report cell 3 AS 0 D raw 2200 cleaned/remapped 2200* scaled 2200 missing? 0 hidden? 0
+table report cell 3 AS 1 I raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 3 AS 2 L raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 3 AS 3 R raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 3 AS 4 U raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 4 AZ 0 D raw 4276102 cleaned/remapped 4276102* scaled 4276102 missing? 0 hidden? 0
+table report cell 4 AZ 1 I raw 18290 cleaned/remapped 18290* scaled 18290 missing? 0 hidden? 0
+table report cell 4 AZ 2 L raw 16911 cleaned/remapped 16911* scaled 16911 missing? 0 hidden? 0
+table report cell 4 AZ 3 R raw 10906022 cleaned/remapped 10906022* scaled 10906022 missing? 0 hidden? 0
+table report cell 4 AZ 4 U raw 6667 cleaned/remapped 6667* scaled 6667 missing? 0 hidden? 0
+table report cell 5 CA 0 D raw 100180271 cleaned/remapped 100180271* scaled 100180271 missing? 0 hidden? 0
+table report cell 5 CA 1 I raw 179233 cleaned/remapped 179233* scaled 179233 missing? 0 hidden? 0
+table report cell 5 CA 2 L raw 347269 cleaned/remapped 347269* scaled 347269 missing? 0 hidden? 0
+table report cell 5 CA 3 R raw 57137869 cleaned/remapped 57137869* scaled 57137869 missing? 0 hidden? 0
+table report cell 5 CA 4 U raw 15810 cleaned/remapped 15810* scaled 15810 missing? 0 hidden? 0
+table report cell 6 CO 0 D raw 8309752 cleaned/remapped 8309752* scaled 8309752 missing? 0 hidden? 0
+table report cell 6 CO 1 I raw 123284 cleaned/remapped 123284* scaled 123284 missing? 0 hidden? 0
+table report cell 6 CO 2 L raw 37545 cleaned/remapped 37545* scaled 37545 missing? 0 hidden? 0
+table report cell 6 CO 3 R raw 8652876 cleaned/remapped 8652876* scaled 8652876 missing? 0 hidden? 0
+table report cell 6 CO 4 U raw 2750 cleaned/remapped 2750* scaled 2750 missing? 0 hidden? 0
+table report cell 7 CT 0 D raw 15345587 cleaned/remapped 15345587* scaled 15345587 missing? 0 hidden? 0
+table report cell 7 CT 1 I raw 18425 cleaned/remapped 18425* scaled 18425 missing? 0 hidden? 0
+table report cell 7 CT 2 L raw 7150 cleaned/remapped 7150* scaled 7150 missing? 0 hidden? 0
+table report cell 7 CT 3 R raw 14192606 cleaned/remapped 14192606* scaled 14192606 missing? 0 hidden? 0
+table report cell 7 CT 4 U raw 7867 cleaned/remapped 7867* scaled 7867 missing? 0 hidden? 0
+table report cell 8 DC 0 D raw 188759226 cleaned/remapped 188759226* scaled 188759226 missing? 0 hidden? 0
+table report cell 8 DC 1 I raw 206133 cleaned/remapped 206133* scaled 206133 missing? 0 hidden? 0
+table report cell 8 DC 2 L raw 56836 cleaned/remapped 56836* scaled 56836 missing? 0 hidden? 0
+table report cell 8 DC 3 R raw 74638016 cleaned/remapped 74638016* scaled 74638016 missing? 0 hidden? 0
+table report cell 8 DC 4 U raw 3750 cleaned/remapped 3750* scaled 3750 missing? 0 hidden? 0
+table report cell 9 DE 0 D raw 1842215 cleaned/remapped 1842215* scaled 1842215 missing? 0 hidden? 0
+table report cell 9 DE 1 I raw 950 cleaned/remapped 950* scaled 950 missing? 0 hidden? 0
+table report cell 9 DE 2 L raw 3201 cleaned/remapped 3201* scaled 3201 missing? 0 hidden? 0
+table report cell 9 DE 3 R raw 701019 cleaned/remapped 701019* scaled 701019 missing? 0 hidden? 0
+table report cell 9 DE 4 U raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 10 FL 0 D raw 29766443 cleaned/remapped 29766443* scaled 29766443 missing? 0 hidden? 0
+table report cell 10 FL 1 I raw 26976 cleaned/remapped 26976* scaled 26976 missing? 0 hidden? 0
+table report cell 10 FL 2 L raw 69306 cleaned/remapped 69306* scaled 69306 missing? 0 hidden? 0
+table report cell 10 FL 3 R raw 43250170 cleaned/remapped 43250170* scaled 43250170 missing? 0 hidden? 0
+table report cell 10 FL 4 U raw 27728 cleaned/remapped 27728* scaled 27728 missing? 0 hidden? 0
+table report cell 11 GA 0 D raw 5153544 cleaned/remapped 5153544* scaled 5153544 missing? 0 hidden? 0
+table report cell 11 GA 1 I raw 11450 cleaned/remapped 11450* scaled 11450 missing? 0 hidden? 0
+table report cell 11 GA 2 L raw 30150 cleaned/remapped 30150* scaled 30150 missing? 0 hidden? 0
+table report cell 11 GA 3 R raw 15325396 cleaned/remapped 15325396* scaled 15325396 missing? 0 hidden? 0
+table report cell 11 GA 4 U raw 5166 cleaned/remapped 5166* scaled 5166 missing? 0 hidden? 0
+table report cell 12 GU 0 D raw 105950 cleaned/remapped 105950* scaled 105950 missing? 0 hidden? 0
+table report cell 12 GU 1 I raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 12 GU 2 L raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 12 GU 3 R raw 16752 cleaned/remapped 16752* scaled 16752 missing? 0 hidden? 0
+table report cell 12 GU 4 U raw 750 cleaned/remapped 750* scaled 750 missing? 0 hidden? 0
+table report cell 13 HI 0 D raw 4016676 cleaned/remapped 4016676* scaled 4016676 missing? 0 hidden? 0
+table report cell 13 HI 1 I raw 2500 cleaned/remapped 2500* scaled 2500 missing? 0 hidden? 0
+table report cell 13 HI 2 L raw 3650 cleaned/remapped 3650* scaled 3650 missing? 0 hidden? 0
+table report cell 13 HI 3 R raw 1316718 cleaned/remapped 1316718* scaled 1316718 missing? 0 hidden? 0
+table report cell 13 HI 4 U raw 1667 cleaned/remapped 1667* scaled 1667 missing? 0 hidden? 0
+table report cell 14 IA 0 D raw 2997776 cleaned/remapped 2997776* scaled 2997776 missing? 0 hidden? 0
+table report cell 14 IA 1 I raw 5650 cleaned/remapped 5650* scaled 5650 missing? 0 hidden? 0
+table report cell 14 IA 2 L raw 1050 cleaned/remapped 1050* scaled 1050 missing? 0 hidden? 0
+table report cell 14 IA 3 R raw 3033981 cleaned/remapped 3033981* scaled 3033981 missing? 0 hidden? 0
+table report cell 14 IA 4 U raw 2500 cleaned/remapped 2500* scaled 2500 missing? 0 hidden? 0
+table report cell 15 ID 0 D raw 582543 cleaned/remapped 582543* scaled 582543 missing? 0 hidden? 0
+table report cell 15 ID 1 I raw 900 cleaned/remapped 900* scaled 900 missing? 0 hidden? 0
+table report cell 15 ID 2 L raw 750 cleaned/remapped 750* scaled 750 missing? 0 hidden? 0
+table report cell 15 ID 3 R raw 1646191 cleaned/remapped 1646191* scaled 1646191 missing? 0 hidden? 0
+table report cell 15 ID 4 U raw 2000 cleaned/remapped 2000* scaled 2000 missing? 0 hidden? 0
+table report cell 16 IL 0 D raw 60672896 cleaned/remapped 60672896* scaled 60672896 missing? 0 hidden? 0
+table report cell 16 IL 1 I raw 40235 cleaned/remapped 40235* scaled 40235 missing? 0 hidden? 0
+table report cell 16 IL 2 L raw 28473 cleaned/remapped 28473* scaled 28473 missing? 0 hidden? 0
+table report cell 16 IL 3 R raw 24201072 cleaned/remapped 24201072* scaled 24201072 missing? 0 hidden? 0
+table report cell 16 IL 4 U raw 2700 cleaned/remapped 2700* scaled 2700 missing? 0 hidden? 0
+table report cell 17 IN 0 D raw 3028644 cleaned/remapped 3028644* scaled 3028644 missing? 0 hidden? 0
+table report cell 17 IN 1 I raw 11450 cleaned/remapped 11450* scaled 11450 missing? 0 hidden? 0
+table report cell 17 IN 2 L raw 15246 cleaned/remapped 15246* scaled 15246 missing? 0 hidden? 0
+table report cell 17 IN 3 R raw 8459395 cleaned/remapped 8459395* scaled 8459395 missing? 0 hidden? 0
+table report cell 17 IN 4 U raw 2500 cleaned/remapped 2500* scaled 2500 missing? 0 hidden? 0
+table report cell 18 KS 0 D raw 889088 cleaned/remapped 889088* scaled 889088 missing? 0 hidden? 0
+table report cell 18 KS 1 I raw 1760 cleaned/remapped 1760* scaled 1760 missing? 0 hidden? 0
+table report cell 18 KS 2 L raw 1500 cleaned/remapped 1500* scaled 1500 missing? 0 hidden? 0
+table report cell 18 KS 3 R raw 4023656 cleaned/remapped 4023656* scaled 4023656 missing? 0 hidden? 0
+table report cell 18 KS 4 U raw 1500 cleaned/remapped 1500* scaled 1500 missing? 0 hidden? 0
+table report cell 19 KY 0 D raw 6397937 cleaned/remapped 6397937* scaled 6397937 missing? 0 hidden? 0
+table report cell 19 KY 1 I raw 5500 cleaned/remapped 5500* scaled 5500 missing? 0 hidden? 0
+table report cell 19 KY 2 L raw 1000 cleaned/remapped 1000* scaled 1000 missing? 0 hidden? 0
+table report cell 19 KY 3 R raw 5347901 cleaned/remapped 5347901* scaled 5347901 missing? 0 hidden? 0
+table report cell 19 KY 4 U raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 20 LA 0 D raw 2202318 cleaned/remapped 2202318* scaled 2202318 missing? 0 hidden? 0
+table report cell 20 LA 1 I raw 52200 cleaned/remapped 52200* scaled 52200 missing? 0 hidden? 0
+table report cell 20 LA 2 L raw 6351 cleaned/remapped 6351* scaled 6351 missing? 0 hidden? 0
+table report cell 20 LA 3 R raw 7670255 cleaned/remapped 7670255* scaled 7670255 missing? 0 hidden? 0
+table report cell 20 LA 4 U raw 4300 cleaned/remapped 4300* scaled 4300 missing? 0 hidden? 0
+table report cell 21 MA 0 D raw 26003142 cleaned/remapped 26003142* scaled 26003142 missing? 0 hidden? 0
+table report cell 21 MA 1 I raw 84810 cleaned/remapped 84810* scaled 84810 missing? 0 hidden? 0
+table report cell 21 MA 2 L raw 16341 cleaned/remapped 16341* scaled 16341 missing? 0 hidden? 0
+table report cell 21 MA 3 R raw 15466664 cleaned/remapped 15466664* scaled 15466664 missing? 0 hidden? 0
+table report cell 21 MA 4 U raw 5916 cleaned/remapped 5916* scaled 5916 missing? 0 hidden? 0
+table report cell 22 MD 0 D raw 20439373 cleaned/remapped 20439373* scaled 20439373 missing? 0 hidden? 0
+table report cell 22 MD 1 I raw 46075 cleaned/remapped 46075* scaled 46075 missing? 0 hidden? 0
+table report cell 22 MD 2 L raw 18382 cleaned/remapped 18382* scaled 18382 missing? 0 hidden? 0
+table report cell 22 MD 3 R raw 8877546 cleaned/remapped 8877546* scaled 8877546 missing? 0 hidden? 0
+table report cell 22 MD 4 U raw 1000 cleaned/remapped 1000* scaled 1000 missing? 0 hidden? 0
+table report cell 23 ME 0 D raw 2601764 cleaned/remapped 2601764* scaled 2601764 missing? 0 hidden? 0
+table report cell 23 ME 1 I raw 1950 cleaned/remapped 1950* scaled 1950 missing? 0 hidden? 0
+table report cell 23 ME 2 L raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 23 ME 3 R raw 1210283 cleaned/remapped 1210283* scaled 1210283 missing? 0 hidden? 0
+table report cell 23 ME 4 U raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 24 MI 0 D raw 10131879 cleaned/remapped 10131879* scaled 10131879 missing? 0 hidden? 0
+table report cell 24 MI 1 I raw 11250 cleaned/remapped 11250* scaled 11250 missing? 0 hidden? 0
+table report cell 24 MI 2 L raw 13060 cleaned/remapped 13060* scaled 13060 missing? 0 hidden? 0
+table report cell 24 MI 3 R raw 14881045 cleaned/remapped 14881045* scaled 14881045 missing? 0 hidden? 0
+table report cell 24 MI 4 U raw 3217 cleaned/remapped 3217* scaled 3217 missing? 0 hidden? 0
+table report cell 25 MN 0 D raw 8117383 cleaned/remapped 8117383* scaled 8117383 missing? 0 hidden? 0
+table report cell 25 MN 1 I raw 53755 cleaned/remapped 53755* scaled 53755 missing? 0 hidden? 0
+table report cell 25 MN 2 L raw 4100 cleaned/remapped 4100* scaled 4100 missing? 0 hidden? 0
+table report cell 25 MN 3 R raw 10952167 cleaned/remapped 10952167* scaled 10952167 missing? 0 hidden? 0
+table report cell 25 MN 4 U raw 2250 cleaned/remapped 2250* scaled 2250 missing? 0 hidden? 0
+table report cell 26 MO 0 D raw 6269933 cleaned/remapped 6269933* scaled 6269933 missing? 0 hidden? 0
+table report cell 26 MO 1 I raw 4600 cleaned/remapped 4600* scaled 4600 missing? 0 hidden? 0
+table report cell 26 MO 2 L raw 7200 cleaned/remapped 7200* scaled 7200 missing? 0 hidden? 0
+table report cell 26 MO 3 R raw 11733529 cleaned/remapped 11733529* scaled 11733529 missing? 0 hidden? 0
+table report cell 26 MO 4 U raw 750 cleaned/remapped 750* scaled 750 missing? 0 hidden? 0
+table report cell 27 MS 0 D raw 611432 cleaned/remapped 611432* scaled 611432 missing? 0 hidden? 0
+table report cell 27 MS 1 I raw 5088 cleaned/remapped 5088* scaled 5088 missing? 0 hidden? 0
+table report cell 27 MS 2 L raw 2550 cleaned/remapped 2550* scaled 2550 missing? 0 hidden? 0
+table report cell 27 MS 3 R raw 3612511 cleaned/remapped 3612511* scaled 3612511 missing? 0 hidden? 0
+table report cell 27 MS 4 U raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 28 MT 0 D raw 2425285 cleaned/remapped 2425285* scaled 2425285 missing? 0 hidden? 0
+table report cell 28 MT 1 I raw 1000 cleaned/remapped 1000* scaled 1000 missing? 0 hidden? 0
+table report cell 28 MT 2 L raw 450 cleaned/remapped 450* scaled 450 missing? 0 hidden? 0
+table report cell 28 MT 3 R raw 1993237 cleaned/remapped 1993237* scaled 1993237 missing? 0 hidden? 0
+table report cell 28 MT 4 U raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 29 NC 0 D raw 5654527 cleaned/remapped 5654527* scaled 5654527 missing? 0 hidden? 0
+table report cell 29 NC 1 I raw 11325 cleaned/remapped 11325* scaled 11325 missing? 0 hidden? 0
+table report cell 29 NC 2 L raw 11137 cleaned/remapped 11137* scaled 11137 missing? 0 hidden? 0
+table report cell 29 NC 3 R raw 7576516 cleaned/remapped 7576516* scaled 7576516 missing? 0 hidden? 0
+table report cell 29 NC 4 U raw 2700 cleaned/remapped 2700* scaled 2700 missing? 0 hidden? 0
+table report cell 30 ND 0 D raw 676499 cleaned/remapped 676499* scaled 676499 missing? 0 hidden? 0
+table report cell 30 ND 1 I raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 30 ND 2 L raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 30 ND 3 R raw 1309711 cleaned/remapped 1309711* scaled 1309711 missing? 0 hidden? 0
+table report cell 30 ND 4 U raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 31 NE 0 D raw 2867807 cleaned/remapped 2867807* scaled 2867807 missing? 0 hidden? 0
+table report cell 31 NE 1 I raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 31 NE 2 L raw 1000 cleaned/remapped 1000* scaled 1000 missing? 0 hidden? 0
+table report cell 31 NE 3 R raw 3166405 cleaned/remapped 3166405* scaled 3166405 missing? 0 hidden? 0
+table report cell 31 NE 4 U raw 5250 cleaned/remapped 5250* scaled 5250 missing? 0 hidden? 0
+table report cell 32 NH 0 D raw 2872971 cleaned/remapped 2872971* scaled 2872971 missing? 0 hidden? 0
+table report cell 32 NH 1 I raw 4550 cleaned/remapped 4550* scaled 4550 missing? 0 hidden? 0
+table report cell 32 NH 2 L raw 14250 cleaned/remapped 14250* scaled 14250 missing? 0 hidden? 0
+table report cell 32 NH 3 R raw 8932494 cleaned/remapped 8932494* scaled 8932494 missing? 0 hidden? 0
+table report cell 32 NH 4 U raw 20025 cleaned/remapped 20025* scaled 20025 missing? 0 hidden? 0
+table report cell 33 NJ 0 D raw 14033312 cleaned/remapped 14033312* scaled 14033312 missing? 0 hidden? 0
+table report cell 33 NJ 1 I raw 8700 cleaned/remapped 8700* scaled 8700 missing? 0 hidden? 0
+table report cell 33 NJ 2 L raw 9951 cleaned/remapped 9951* scaled 9951 missing? 0 hidden? 0
+table report cell 33 NJ 3 R raw 10300676 cleaned/remapped 10300676* scaled 10300676 missing? 0 hidden? 0
+table report cell 33 NJ 4 U raw 183817 cleaned/remapped 183817* scaled 183817 missing? 0 hidden? 0
+table report cell 34 NM 0 D raw 3595041 cleaned/remapped 3595041* scaled 3595041 missing? 0 hidden? 0
+table report cell 34 NM 1 I raw 13450 cleaned/remapped 13450* scaled 13450 missing? 0 hidden? 0
+table report cell 34 NM 2 L raw 74900 cleaned/remapped 74900* scaled 74900 missing? 0 hidden? 0
+table report cell 34 NM 3 R raw 3756401 cleaned/remapped 3756401* scaled 3756401 missing? 0 hidden? 0
+table report cell 34 NM 4 U raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 35 NV 0 D raw 8629308 cleaned/remapped 8629308* scaled 8629308 missing? 0 hidden? 0
+table report cell 35 NV 1 I raw 11950 cleaned/remapped 11950* scaled 11950 missing? 0 hidden? 0
+table report cell 35 NV 2 L raw 12302 cleaned/remapped 12302* scaled 12302 missing? 0 hidden? 0
+table report cell 35 NV 3 R raw 6925976 cleaned/remapped 6925976* scaled 6925976 missing? 0 hidden? 0
+table report cell 35 NV 4 U raw 21867 cleaned/remapped 21867* scaled 21867 missing? 0 hidden? 0
+table report cell 36 NY 0 D raw 70535303 cleaned/remapped 70535303* scaled 70535303 missing? 0 hidden? 0
+table report cell 36 NY 1 I raw 80233 cleaned/remapped 80233* scaled 80233 missing? 0 hidden? 0
+table report cell 36 NY 2 L raw 37923 cleaned/remapped 37923* scaled 37923 missing? 0 hidden? 0
+table report cell 36 NY 3 R raw 41829648 cleaned/remapped 41829648* scaled 41829648 missing? 0 hidden? 0
+table report cell 36 NY 4 U raw 7684 cleaned/remapped 7684* scaled 7684 missing? 0 hidden? 0
+table report cell 37 OH 0 D raw 8749573 cleaned/remapped 8749573* scaled 8749573 missing? 0 hidden? 0
+table report cell 37 OH 1 I raw 24184 cleaned/remapped 24184* scaled 24184 missing? 0 hidden? 0
+table report cell 37 OH 2 L raw 39376 cleaned/remapped 39376* scaled 39376 missing? 0 hidden? 0
+table report cell 37 OH 3 R raw 31162312 cleaned/remapped 31162312* scaled 31162312 missing? 0 hidden? 0
+table report cell 37 OH 4 U raw 6299 cleaned/remapped 6299* scaled 6299 missing? 0 hidden? 0
+table report cell 38 OK 0 D raw 2068513 cleaned/remapped 2068513* scaled 2068513 missing? 0 hidden? 0
+table report cell 38 OK 1 I raw 4320 cleaned/remapped 4320* scaled 4320 missing? 0 hidden? 0
+table report cell 38 OK 2 L raw 4700 cleaned/remapped 4700* scaled 4700 missing? 0 hidden? 0
+table report cell 38 OK 3 R raw 6890558 cleaned/remapped 6890558* scaled 6890558 missing? 0 hidden? 0
+table report cell 38 OK 4 U raw 4622 cleaned/remapped 4622* scaled 4622 missing? 0 hidden? 0
+table report cell 39 OR 0 D raw 5502489 cleaned/remapped 5502489* scaled 5502489 missing? 0 hidden? 0
+table report cell 39 OR 1 I raw 12825 cleaned/remapped 12825* scaled 12825 missing? 0 hidden? 0
+table report cell 39 OR 2 L raw 10700 cleaned/remapped 10700* scaled 10700 missing? 0 hidden? 0
+table report cell 39 OR 3 R raw 4494098 cleaned/remapped 4494098* scaled 4494098 missing? 0 hidden? 0
+table report cell 39 OR 4 U raw 6600 cleaned/remapped 6600* scaled 6600 missing? 0 hidden? 0
+table report cell 40 PA 0 D raw 15507157 cleaned/remapped 15507157* scaled 15507157 missing? 0 hidden? 0
+table report cell 40 PA 1 I raw 17883 cleaned/remapped 17883* scaled 17883 missing? 0 hidden? 0
+table report cell 40 PA 2 L raw 14250 cleaned/remapped 14250* scaled 14250 missing? 0 hidden? 0
+table report cell 40 PA 3 R raw 21038274 cleaned/remapped 21038274* scaled 21038274 missing? 0 hidden? 0
+table report cell 40 PA 4 U raw 49337 cleaned/remapped 49337* scaled 49337 missing? 0 hidden? 0
+table report cell 41 PR 0 D raw 2115109 cleaned/remapped 2115109* scaled 2115109 missing? 0 hidden? 0
+table report cell 41 PR 1 I raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 41 PR 2 L raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 41 PR 3 R raw 325355 cleaned/remapped 325355* scaled 325355 missing? 0 hidden? 0
+table report cell 41 PR 4 U raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 42 RI 0 D raw 2412103 cleaned/remapped 2412103* scaled 2412103 missing? 0 hidden? 0
+table report cell 42 RI 1 I raw 7225 cleaned/remapped 7225* scaled 7225 missing? 0 hidden? 0
+table report cell 42 RI 2 L raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 42 RI 3 R raw 1197739 cleaned/remapped 1197739* scaled 1197739 missing? 0 hidden? 0
+table report cell 42 RI 4 U raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 43 SC 0 D raw 2625600 cleaned/remapped 2625600* scaled 2625600 missing? 0 hidden? 0
+table report cell 43 SC 1 I raw 2300 cleaned/remapped 2300* scaled 2300 missing? 0 hidden? 0
+table report cell 43 SC 2 L raw 1952 cleaned/remapped 1952* scaled 1952 missing? 0 hidden? 0
+table report cell 43 SC 3 R raw 4960210 cleaned/remapped 4960210* scaled 4960210 missing? 0 hidden? 0
+table report cell 43 SC 4 U raw 250 cleaned/remapped 250* scaled 250 missing? 0 hidden? 0
+table report cell 44 SD 0 D raw 661710 cleaned/remapped 661710* scaled 661710 missing? 0 hidden? 0
+table report cell 44 SD 1 I raw 1100 cleaned/remapped 1100* scaled 1100 missing? 0 hidden? 0
+table report cell 44 SD 2 L raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 44 SD 3 R raw 2244026 cleaned/remapped 2244026* scaled 2244026 missing? 0 hidden? 0
+table report cell 44 SD 4 U raw 250 cleaned/remapped 250* scaled 250 missing? 0 hidden? 0
+table report cell 45 TN 0 D raw 3260612 cleaned/remapped 3260612* scaled 3260612 missing? 0 hidden? 0
+table report cell 45 TN 1 I raw 21107 cleaned/remapped 21107* scaled 21107 missing? 0 hidden? 0
+table report cell 45 TN 2 L raw 13700 cleaned/remapped 13700* scaled 13700 missing? 0 hidden? 0
+table report cell 45 TN 3 R raw 15795995 cleaned/remapped 15795995* scaled 15795995 missing? 0 hidden? 0
+table report cell 45 TN 4 U raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 46 TX 0 D raw 26500655 cleaned/remapped 26500655* scaled 26500655 missing? 0 hidden? 0
+table report cell 46 TX 1 I raw 17925 cleaned/remapped 17925* scaled 17925 missing? 0 hidden? 0
+table report cell 46 TX 2 L raw 197181 cleaned/remapped 197181* scaled 197181 missing? 0 hidden? 0
+table report cell 46 TX 3 R raw 85977703 cleaned/remapped 85977703* scaled 85977703 missing? 0 hidden? 0
+table report cell 46 TX 4 U raw 117010 cleaned/remapped 117010* scaled 117010 missing? 0 hidden? 0
+table report cell 47 UT 0 D raw 1640109 cleaned/remapped 1640109* scaled 1640109 missing? 0 hidden? 0
+table report cell 47 UT 1 I raw 2544 cleaned/remapped 2544* scaled 2544 missing? 0 hidden? 0
+table report cell 47 UT 2 L raw 5102 cleaned/remapped 5102* scaled 5102 missing? 0 hidden? 0
+table report cell 47 UT 3 R raw 10432712 cleaned/remapped 10432712* scaled 10432712 missing? 0 hidden? 0
+table report cell 47 UT 4 U raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 48 VA 0 D raw 20284276 cleaned/remapped 20284276* scaled 20284276 missing? 0 hidden? 0
+table report cell 48 VA 1 I raw 51415 cleaned/remapped 51415* scaled 51415 missing? 0 hidden? 0
+table report cell 48 VA 2 L raw 19777 cleaned/remapped 19777* scaled 19777 missing? 0 hidden? 0
+table report cell 48 VA 3 R raw 57574313 cleaned/remapped 57574313* scaled 57574313 missing? 0 hidden? 0
+table report cell 48 VA 4 U raw 5523 cleaned/remapped 5523* scaled 5523 missing? 0 hidden? 0
+table report cell 49 VI 0 D raw 523200 cleaned/remapped 523200* scaled 523200 missing? 0 hidden? 0
+table report cell 49 VI 1 I raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 49 VI 2 L raw 0 cleaned/remapped 0* scaled 0 missing? 0 hidden? 0
+table report cell 49 VI 3 R raw 191691 cleaned/remapped 191691* scaled 191691 missing? 0 hidden? 0
+table report cell 49 VI 4 U raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 50 VT 0 D raw 2803948 cleaned/remapped 2803948* scaled 2803948 missing? 0 hidden? 0
+table report cell 50 VT 1 I raw 125220 cleaned/remapped 125220* scaled 125220 missing? 0 hidden? 0
+table report cell 50 VT 2 L raw 3050 cleaned/remapped 3050* scaled 3050 missing? 0 hidden? 0
+table report cell 50 VT 3 R raw 295913 cleaned/remapped 295913* scaled 295913 missing? 0 hidden? 0
+table report cell 50 VT 4 U raw 3000 cleaned/remapped 3000* scaled 3000 missing? 0 hidden? 0
+table report cell 51 WA 0 D raw 12504959 cleaned/remapped 12504959* scaled 12504959 missing? 0 hidden? 0
+table report cell 51 WA 1 I raw 30950 cleaned/remapped 30950* scaled 30950 missing? 0 hidden? 0
+table report cell 51 WA 2 L raw 28015 cleaned/remapped 28015* scaled 28015 missing? 0 hidden? 0
+table report cell 51 WA 3 R raw 6370857 cleaned/remapped 6370857* scaled 6370857 missing? 0 hidden? 0
+table report cell 51 WA 4 U raw 3500 cleaned/remapped 3500* scaled 3500 missing? 0 hidden? 0
+table report cell 52 WI 0 D raw 5022218 cleaned/remapped 5022218* scaled 5022218 missing? 0 hidden? 0
+table report cell 52 WI 1 I raw 16864 cleaned/remapped 16864* scaled 16864 missing? 0 hidden? 0
+table report cell 52 WI 2 L raw 2750 cleaned/remapped 2750* scaled 2750 missing? 0 hidden? 0
+table report cell 52 WI 3 R raw 6426953 cleaned/remapped 6426953* scaled 6426953 missing? 0 hidden? 0
+table report cell 52 WI 4 U raw 750 cleaned/remapped 750* scaled 750 missing? 0 hidden? 0
+table report cell 53 WV 0 D raw 1391960 cleaned/remapped 1391960* scaled 1391960 missing? 0 hidden? 0
+table report cell 53 WV 1 I raw 3625 cleaned/remapped 3625* scaled 3625 missing? 0 hidden? 0
+table report cell 53 WV 2 L raw 750 cleaned/remapped 750* scaled 750 missing? 0 hidden? 0
+table report cell 53 WV 3 R raw 2850742 cleaned/remapped 2850742* scaled 2850742 missing? 0 hidden? 0
+table report cell 53 WV 4 U raw 500 cleaned/remapped 500* scaled 500 missing? 0 hidden? 0
+table report cell 54 WY 0 D raw 536708 cleaned/remapped 536708* scaled 536708 missing? 0 hidden? 0
+table report cell 54 WY 1 I raw 1750 cleaned/remapped 1750* scaled 1750 missing? 0 hidden? 0
+table report cell 54 WY 2 L raw 250 cleaned/remapped 250* scaled 250 missing? 0 hidden? 0
+table report cell 54 WY 3 R raw 1489326 cleaned/remapped 1489326* scaled 1489326 missing? 0 hidden? 0
+table report cell 54 WY 4 U raw 2750 cleaned/remapped 2750* scaled 2750 missing? 0 hidden? 0
+row/col/label stat row AK sum 1267942 n 5 min 500 max 684387 avg 253588.4
+row/col/label stat row AL sum 8151375 n 5 min 1250 max 6286579 avg 1630275
+row/col/label stat row AR sum 5116358 n 5 min 950 max 3501270 avg 1023271.6
+row/col/label stat row AS sum 2200 n 5 min 0 max 2200 avg 440
+row/col/label stat row AZ sum 15223992 n 5 min 6667 max 10906022 avg 3044798.4
+row/col/label stat row CA sum 157860452 n 5 min 15810 max 100180271 avg 31572090.4
+row/col/label stat row CO sum 17126207 n 5 min 2750 max 8652876 avg 3425241.4
+row/col/label stat row CT sum 29571635 n 5 min 7150 max 15345587 avg 5914327
+row/col/label stat row DC sum 263663961 n 5 min 3750 max 188759226 avg 52732792.2
+row/col/label stat row DE sum 2547885 n 5 min 500 max 1842215 avg 509577
+row/col/label stat row FL sum 73140623 n 5 min 26976 max 43250170 avg 14628124.6
+row/col/label stat row GA sum 20525706 n 5 min 5166 max 15325396 avg 4105141.2
+row/col/label stat row GU sum 123452 n 5 min 0 max 105950 avg 24690.4
+row/col/label stat row HI sum 5341211 n 5 min 1667 max 4016676 avg 1068242.2
+row/col/label stat row IA sum 6040957 n 5 min 1050 max 3033981 avg 1208191.4
+row/col/label stat row ID sum 2232384 n 5 min 750 max 1646191 avg 446476.8
+row/col/label stat row IL sum 84945376 n 5 min 2700 max 60672896 avg 16989075.2
+row/col/label stat row IN sum 11517235 n 5 min 2500 max 8459395 avg 2303447
+row/col/label stat row KS sum 4917504 n 5 min 1500 max 4023656 avg 983500.8
+row/col/label stat row KY sum 11752338 n 5 min 0 max 6397937 avg 2350467.6
+row/col/label stat row LA sum 9935424 n 5 min 4300 max 7670255 avg 1987084.8
+row/col/label stat row MA sum 41576873 n 5 min 5916 max 26003142 avg 8315374.6
+row/col/label stat row MD sum 29382376 n 5 min 1000 max 20439373 avg 5876475.2
+row/col/label stat row ME sum 3814497 n 5 min 0 max 2601764 avg 762899.4
+row/col/label stat row MI sum 25040451 n 5 min 3217 max 14881045 avg 5008090.2
+row/col/label stat row MN sum 19129655 n 5 min 2250 max 10952167 avg 3825931
+row/col/label stat row MO sum 18016012 n 5 min 750 max 11733529 avg 3603202.4
+row/col/label stat row MS sum 4231581 n 5 min 0 max 3612511 avg 846316.2
+row/col/label stat row MT sum 4420472 n 5 min 450 max 2425285 avg 884094.4
+row/col/label stat row NC sum 13256205 n 5 min 2700 max 7576516 avg 2651241
+row/col/label stat row ND sum 1986710 n 5 min 0 max 1309711 avg 397342
+row/col/label stat row NE sum 6040462 n 5 min 0 max 3166405 avg 1208092.4
+row/col/label stat row NH sum 11844290 n 5 min 4550 max 8932494 avg 2368858
+row/col/label stat row NJ sum 24536456 n 5 min 8700 max 14033312 avg 4907291.2
+row/col/label stat row NM sum 7439792 n 5 min 0 max 3756401 avg 1487958.4
+row/col/label stat row NV sum 15601403 n 5 min 11950 max 8629308 avg 3120280.6
+row/col/label stat row NY sum 112490791 n 5 min 7684 max 70535303 avg 22498158.2
+row/col/label stat row OH sum 39981744 n 5 min 6299 max 31162312 avg 7996348.8
+row/col/label stat row OK sum 8972713 n 5 min 4320 max 6890558 avg 1794542.6
+row/col/label stat row OR sum 10026712 n 5 min 6600 max 5502489 avg 2005342.4
+row/col/label stat row PA sum 36626901 n 5 min 14250 max 21038274 avg 7325380.2
+row/col/label stat row PR sum 2440464 n 5 min 0 max 2115109 avg 488092.8
+row/col/label stat row RI sum 3617567 n 5 min 0 max 2412103 avg 723513.4
+row/col/label stat row SC sum 7590312 n 5 min 250 max 4960210 avg 1518062.4
+row/col/label stat row SD sum 2907086 n 5 min 0 max 2244026 avg 581417.2
+row/col/label stat row TN sum 19091914 n 5 min 500 max 15795995 avg 3818382.8
+row/col/label stat row TX sum 112810474 n 5 min 17925 max 85977703 avg 22562094.8
+row/col/label stat row UT sum 12080967 n 5 min 500 max 10432712 avg 2416193.4
+row/col/label stat row VA sum 77935304 n 5 min 5523 max 57574313 avg 15587060.8
+row/col/label stat row VI sum 715391 n 5 min 0 max 523200 avg 143078.2
+row/col/label stat row VT sum 3231131 n 5 min 3000 max 2803948 avg 646226.2
+row/col/label stat row WA sum 18938281 n 5 min 3500 max 12504959 avg 3787656.2
+row/col/label stat row WI sum 11469535 n 5 min 750 max 6426953 avg 2293907
+row/col/label stat row WV sum 4247577 n 5 min 500 max 2850742 avg 849515.4
+row/col/label stat row WY sum 2030784 n 5 min 250 max 1489326 avg 406156.8
+row/col/label stat col D sum 738253672 n 55 min 2200 max 188759226 avg 13422794.0363636
+row/col/label stat col I sum 1488534 n 55 min 0 max 206133 avg 27064.2545454545
+row/col/label stat col L sum 1200437 n 55 min 0 max 347269 avg 21826.1272727273
+row/col/label stat col R sum 703034435 n 55 min 0 max 85977703 avg 12782444.2727273
+row/col/label stat col U sum 550022 n 55 min 0 max 183817 avg 10000.4
+row/col/label stat label AK sum 1267942 n 5 min 500 max 684387 avg 253588.4
+row/col/label stat label AL sum 8151375 n 5 min 1250 max 6286579 avg 1630275
+row/col/label stat label AR sum 5116358 n 5 min 950 max 3501270 avg 1023271.6
+row/col/label stat label AS sum 2200 n 5 min 0 max 2200 avg 440
+row/col/label stat label AZ sum 15223992 n 5 min 6667 max 10906022 avg 3044798.4
+row/col/label stat label CA sum 157860452 n 5 min 15810 max 100180271 avg 31572090.4
+row/col/label stat label CO sum 17126207 n 5 min 2750 max 8652876 avg 3425241.4
+row/col/label stat label CT sum 29571635 n 5 min 7150 max 15345587 avg 5914327
+row/col/label stat label D sum 738253672 n 55 min 2200 max 188759226 avg 13422794.0363636
+row/col/label stat label DC sum 263663961 n 5 min 3750 max 188759226 avg 52732792.2
+row/col/label stat label DE sum 2547885 n 5 min 500 max 1842215 avg 509577
+row/col/label stat label FL sum 73140623 n 5 min 26976 max 43250170 avg 14628124.6
+row/col/label stat label GA sum 20525706 n 5 min 5166 max 15325396 avg 4105141.2
+row/col/label stat label GU sum 123452 n 5 min 0 max 105950 avg 24690.4
+row/col/label stat label HI sum 5341211 n 5 min 1667 max 4016676 avg 1068242.2
+row/col/label stat label I sum 1488534 n 55 min 0 max 206133 avg 27064.2545454545
+row/col/label stat label IA sum 6040957 n 5 min 1050 max 3033981 avg 1208191.4
+row/col/label stat label ID sum 2232384 n 5 min 750 max 1646191 avg 446476.8
+row/col/label stat label IL sum 84945376 n 5 min 2700 max 60672896 avg 16989075.2
+row/col/label stat label IN sum 11517235 n 5 min 2500 max 8459395 avg 2303447
+row/col/label stat label KS sum 4917504 n 5 min 1500 max 4023656 avg 983500.8
+row/col/label stat label KY sum 11752338 n 5 min 0 max 6397937 avg 2350467.6
+row/col/label stat label L sum 1200437 n 55 min 0 max 347269 avg 21826.1272727273
+row/col/label stat label LA sum 9935424 n 5 min 4300 max 7670255 avg 1987084.8
+row/col/label stat label MA sum 41576873 n 5 min 5916 max 26003142 avg 8315374.6
+row/col/label stat label MD sum 29382376 n 5 min 1000 max 20439373 avg 5876475.2
+row/col/label stat label ME sum 3814497 n 5 min 0 max 2601764 avg 762899.4
+row/col/label stat label MI sum 25040451 n 5 min 3217 max 14881045 avg 5008090.2
+row/col/label stat label MN sum 19129655 n 5 min 2250 max 10952167 avg 3825931
+row/col/label stat label MO sum 18016012 n 5 min 750 max 11733529 avg 3603202.4
+row/col/label stat label MS sum 4231581 n 5 min 0 max 3612511 avg 846316.2
+row/col/label stat label MT sum 4420472 n 5 min 450 max 2425285 avg 884094.4
+row/col/label stat label NC sum 13256205 n 5 min 2700 max 7576516 avg 2651241
+row/col/label stat label ND sum 1986710 n 5 min 0 max 1309711 avg 397342
+row/col/label stat label NE sum 6040462 n 5 min 0 max 3166405 avg 1208092.4
+row/col/label stat label NH sum 11844290 n 5 min 4550 max 8932494 avg 2368858
+row/col/label stat label NJ sum 24536456 n 5 min 8700 max 14033312 avg 4907291.2
+row/col/label stat label NM sum 7439792 n 5 min 0 max 3756401 avg 1487958.4
+row/col/label stat label NV sum 15601403 n 5 min 11950 max 8629308 avg 3120280.6
+row/col/label stat label NY sum 112490791 n 5 min 7684 max 70535303 avg 22498158.2
+row/col/label stat label OH sum 39981744 n 5 min 6299 max 31162312 avg 7996348.8
+row/col/label stat label OK sum 8972713 n 5 min 4320 max 6890558 avg 1794542.6
+row/col/label stat label OR sum 10026712 n 5 min 6600 max 5502489 avg 2005342.4
+row/col/label stat label PA sum 36626901 n 5 min 14250 max 21038274 avg 7325380.2
+row/col/label stat label PR sum 2440464 n 5 min 0 max 2115109 avg 488092.8
+row/col/label stat label R sum 703034435 n 55 min 0 max 85977703 avg 12782444.2727273
+row/col/label stat label RI sum 3617567 n 5 min 0 max 2412103 avg 723513.4
+row/col/label stat label SC sum 7590312 n 5 min 250 max 4960210 avg 1518062.4
+row/col/label stat label SD sum 2907086 n 5 min 0 max 2244026 avg 581417.2
+row/col/label stat label TN sum 19091914 n 5 min 500 max 15795995 avg 3818382.8
+row/col/label stat label TX sum 112810474 n 5 min 17925 max 85977703 avg 22562094.8
+row/col/label stat label U sum 550022 n 55 min 0 max 183817 avg 10000.4
+row/col/label stat label UT sum 12080967 n 5 min 500 max 10432712 avg 2416193.4
+row/col/label stat label VA sum 77935304 n 5 min 5523 max 57574313 avg 15587060.8
+row/col/label stat label VI sum 715391 n 5 min 0 max 523200 avg 143078.2
+row/col/label stat label VT sum 3231131 n 5 min 3000 max 2803948 avg 646226.2
+row/col/label stat label WA sum 18938281 n 5 min 3500 max 12504959 avg 3787656.2
+row/col/label stat label WI sum 11469535 n 5 min 750 max 6426953 avg 2293907
+row/col/label stat label WV sum 4247577 n 5 min 500 max 2850742 avg 849515.4
+row/col/label stat label WY sum 2030784 n 5 min 250 max 1489326 avg 406156.8
+labels ordered D R DC CA TX NY IL VA FL MA OH PA CT MD MI NJ GA MN TN WA MO CO NV AZ NC UT NH KY IN WI OR LA OK AL SC NM IA NE HI AR KS MT WV MS ME RI VT SD DE PR ID WY ND I AK L VI U GU AS
+label2seg 0 D D
+label2seg 1 R R
+label2seg 2 DC DC
+label2seg 3 CA CA
+label2seg 4 TX TX
+label2seg 5 NY NY
+label2seg 6 IL IL
+label2seg 7 VA VA
+label2seg 8 FL FL
+label2seg 9 MA MA
+label2seg 10 OH OH
+label2seg 11 PA PA
+label2seg 12 CT CT
+label2seg 13 MD MD
+label2seg 14 MI MI
+label2seg 15 NJ NJ
+label2seg 16 GA GA
+label2seg 17 MN MN
+label2seg 18 TN TN
+label2seg 19 WA WA
+label2seg 20 MO MO
+label2seg 21 CO CO
+label2seg 22 NV NV
+label2seg 23 AZ AZ
+label2seg 24 NC NC
+label2seg 25 UT UT
+label2seg 26 NH NH
+label2seg 27 KY KY
+label2seg 28 IN IN
+label2seg 29 WI WI
+label2seg 30 OR OR
+label2seg 31 LA LA
+label2seg 32 OK OK
+label2seg 33 AL AL
+label2seg 34 SC SC
+label2seg 35 NM NM
+label2seg 36 IA IA
+label2seg 37 NE NE
+label2seg 38 HI HI
+label2seg 39 AR AR
+label2seg 40 KS KS
+label2seg 41 MT MT
+label2seg 42 WV WV
+label2seg 43 MS MS
+label2seg 44 ME ME
+label2seg 45 RI RI
+label2seg 46 VT VT
+label2seg 47 SD SD
+label2seg 48 DE DE
+label2seg 49 PR PR
+label2seg 50 ID ID
+label2seg 51 WY WY
+label2seg 52 ND ND
+label2seg 53 I I
+label2seg 54 AK AK
+label2seg 55 L L
+label2seg 56 VI VI
+label2seg 57 U U
+label2seg 58 GU GU
+label2seg 59 AS AS
+labels ordered AK AL AR AS AZ CA CO CT D DC DE FL GA GU HI I IA ID IL IN KS KY L LA MA MD ME MI MN MO MS MT NC ND NE NH NJ NM NV NY OH OK OR PA PR R RI SC SD TN TX U UT VA VI VT WA WI WV WY
+colordef colorsc = 144,46,230
+colordef colorla = 46,229,145
+colordef colornc = 46,229,195
+colordef colorms = 46,229,191
+colordef colorgu = 46,230,102
+colordef colorok = 46,191,230
+colordef colorny = 46,223,230
+colordef colorva = 205,46,230
+colordef colorhi = 46,229,103
+colordef colorpa = 46,180,230
+colordef colorne = 46,229,199
+colordef colorsd = 146,46,230
+colordef colorpr = 46,174,230
+colordef colordc = 62,230,46
+colordef coloroh = 46,198,230
+colordef colorwv = 229,46,230
+colordef colorwi = 226,46,230
+colordef colornm = 46,230,212
+colordef colormo = 46,229,187
+colordef colornh = 46,229,201
+colordef coloraz = 230,53,46
+colordef colorma = 46,229,153
+colordef colormt = 46,230,192
+colordef colormn = 46,229,181
+colordef colortx = 170,46,230
+colordef colorme = 46,229,170
+colordef colornj = 46,229,207
+colordef colorwy = 230,46,230
+colordef colord = 221,230,46
+colordef colori = 46,229,104
+colordef colornv = 46,229,216
+colordef colorwa = 221,46,230
+colordef coloror = 46,188,230
+colordef coloru = 188,46,230
+colordef colorid = 46,229,107
+colordef colorri = 142,46,230
+colordef coloral = 230,47,46
+colordef colorut = 190,46,230
+colordef colortn = 149,46,230
+colordef colorks = 46,229,138
+colordef colornd = 46,229,197
+colordef colorfl = 46,229,84
+colordef colorct = 230,115,46
+colordef coloras = 230,50,46
+colordef colormd = 46,229,164
+colordef colorca = 230,80,46
+colordef colorl = 46,230,143
+colordef colorde = 46,230,72
+colordef coloria = 46,229,105
+colordef colorco = 230,108,46
+colordef colormi = 46,229,174
+colordef colorvt = 218,46,230
+colordef colorvi = 217,46,230
+colordef colorar = 230,50,46
+colordef colorin = 46,229,136
+colordef colorga = 46,229,99
+colordef colorr = 46,62,230
+colordef colorak = 230,46,46
+colordef coloril = 46,229,120
+colordef colorky = 46,229,141
+highlight row LA 0 7670255 fill_color=colorr
+highlight row LA 7670255 9872573 fill_color=colord
+highlight row LA 9872573 9924773 fill_color=colori
+highlight row LA 9924773 9931124 fill_color=colorl
+highlight row LA 9931124 9935424 fill_color=coloru
+highlight row SC 0 4960210 fill_color=colorr
+highlight row SC 4960210 7585810 fill_color=colord
+highlight row SC 7585810 7588110 fill_color=colori
+highlight row SC 7588110 7590062 fill_color=colorl
+highlight row SC 7590062 7590312 fill_color=coloru
+highlight row GU 0 105950 fill_color=colord
+highlight row GU 105950 122702 fill_color=colorr
+highlight row GU 122702 123452 fill_color=coloru
+highlight row GU 123452 123452 fill_color=colori
+highlight row GU 123452 123452 fill_color=colorl
+highlight row MS 0 3612511 fill_color=colorr
+highlight row MS 3612511 4223943 fill_color=colord
+highlight row MS 4223943 4229031 fill_color=colori
+highlight row MS 4229031 4231581 fill_color=colorl
+highlight row MS 4231581 4231581 fill_color=coloru
+highlight row NC 0 7576516 fill_color=colorr
+highlight row NC 7576516 13231043 fill_color=colord
+highlight row NC 13231043 13242368 fill_color=colori
+highlight row NC 13242368 13253505 fill_color=colorl
+highlight row NC 13253505 13256205 fill_color=coloru
+highlight row OK 0 6890558 fill_color=colorr
+highlight row OK 6890558 8959071 fill_color=colord
+highlight row OK 8959071 8963771 fill_color=colorl
+highlight row OK 8963771 8968393 fill_color=coloru
+highlight row OK 8968393 8972713 fill_color=colori
+highlight row NY 0 70535303 fill_color=colord
+highlight row NY 70535303 112364951 fill_color=colorr
+highlight row NY 112364951 112445184 fill_color=colori
+highlight row NY 112445184 112483107 fill_color=colorl
+highlight row NY 112483107 112490791 fill_color=coloru
+highlight row VA 0 57574313 fill_color=colorr
+highlight row VA 57574313 77858589 fill_color=colord
+highlight row VA 77858589 77910004 fill_color=colori
+highlight row VA 77910004 77929781 fill_color=colorl
+highlight row VA 77929781 77935304 fill_color=coloru
+highlight row HI 0 4016676 fill_color=colord
+highlight row HI 4016676 5333394 fill_color=colorr
+highlight row HI 5333394 5337044 fill_color=colorl
+highlight row HI 5337044 5339544 fill_color=colori
+highlight row HI 5339544 5341211 fill_color=coloru
+highlight row PA 0 21038274 fill_color=colorr
+highlight row PA 21038274 36545431 fill_color=colord
+highlight row PA 36545431 36594768 fill_color=coloru
+highlight row PA 36594768 36612651 fill_color=colori
+highlight row PA 36612651 36626901 fill_color=colorl
+highlight row NE 0 3166405 fill_color=colorr
+highlight row NE 3166405 6034212 fill_color=colord
+highlight row NE 6034212 6039462 fill_color=coloru
+highlight row NE 6039462 6040462 fill_color=colorl
+highlight row NE 6040462 6040462 fill_color=colori
+highlight row DC 0 188759226 fill_color=colord
+highlight row DC 188759226 263397242 fill_color=colorr
+highlight row DC 263397242 263603375 fill_color=colori
+highlight row DC 263603375 263660211 fill_color=colorl
+highlight row DC 263660211 263663961 fill_color=coloru
+highlight row PR 0 2115109 fill_color=colord
+highlight row PR 2115109 2440464 fill_color=colorr
+highlight row PR 2440464 2440464 fill_color=colori
+highlight row PR 2440464 2440464 fill_color=colorl
+highlight row PR 2440464 2440464 fill_color=coloru
+highlight row SD 0 2244026 fill_color=colorr
+highlight row SD 2244026 2905736 fill_color=colord
+highlight row SD 2905736 2906836 fill_color=colori
+highlight row SD 2906836 2907086 fill_color=coloru
+highlight row SD 2907086 2907086 fill_color=colorl
+highlight row OH 0 31162312 fill_color=colorr
+highlight row OH 31162312 39911885 fill_color=colord
+highlight row OH 39911885 39951261 fill_color=colorl
+highlight row OH 39951261 39975445 fill_color=colori
+highlight row OH 39975445 39981744 fill_color=coloru
+highlight row WV 0 2850742 fill_color=colorr
+highlight row WV 2850742 4242702 fill_color=colord
+highlight row WV 4242702 4246327 fill_color=colori
+highlight row WV 4246327 4247077 fill_color=colorl
+highlight row WV 4247077 4247577 fill_color=coloru
+highlight row NM 0 3756401 fill_color=colorr
+highlight row NM 3756401 7351442 fill_color=colord
+highlight row NM 7351442 7426342 fill_color=colorl
+highlight row NM 7426342 7439792 fill_color=colori
+highlight row NM 7439792 7439792 fill_color=coloru
+highlight row WI 0 6426953 fill_color=colorr
+highlight row WI 6426953 11449171 fill_color=colord
+highlight row WI 11449171 11466035 fill_color=colori
+highlight row WI 11466035 11468785 fill_color=colorl
+highlight row WI 11468785 11469535 fill_color=coloru
+highlight row MO 0 11733529 fill_color=colorr
+highlight row MO 11733529 18003462 fill_color=colord
+highlight row MO 18003462 18010662 fill_color=colorl
+highlight row MO 18010662 18015262 fill_color=colori
+highlight row MO 18015262 18016012 fill_color=coloru
+highlight row AZ 0 10906022 fill_color=colorr
+highlight row AZ 10906022 15182124 fill_color=colord
+highlight row AZ 15182124 15200414 fill_color=colori
+highlight row AZ 15200414 15217325 fill_color=colorl
+highlight row AZ 15217325 15223992 fill_color=coloru
+highlight row NH 0 8932494 fill_color=colorr
+highlight row NH 8932494 11805465 fill_color=colord
+highlight row NH 11805465 11825490 fill_color=coloru
+highlight row NH 11825490 11839740 fill_color=colorl
+highlight row NH 11839740 11844290 fill_color=colori
+highlight row MA 0 26003142 fill_color=colord
+highlight row MA 26003142 41469806 fill_color=colorr
+highlight row MA 41469806 41554616 fill_color=colori
+highlight row MA 41554616 41570957 fill_color=colorl
+highlight row MA 41570957 41576873 fill_color=coloru
+highlight row MT 0 2425285 fill_color=colord
+highlight row MT 2425285 4418522 fill_color=colorr
+highlight row MT 4418522 4419522 fill_color=colori
+highlight row MT 4419522 4420022 fill_color=coloru
+highlight row MT 4420022 4420472 fill_color=colorl
+highlight row MN 0 10952167 fill_color=colorr
+highlight row MN 10952167 19069550 fill_color=colord
+highlight row MN 19069550 19123305 fill_color=colori
+highlight row MN 19123305 19127405 fill_color=colorl
+highlight row MN 19127405 19129655 fill_color=coloru
+highlight row TX 0 85977703 fill_color=colorr
+highlight row TX 85977703 112478358 fill_color=colord
+highlight row TX 112478358 112675539 fill_color=colorl
+highlight row TX 112675539 112792549 fill_color=coloru
+highlight row TX 112792549 112810474 fill_color=colori
+highlight row ME 0 2601764 fill_color=colord
+highlight row ME 2601764 3812047 fill_color=colorr
+highlight row ME 3812047 3813997 fill_color=colori
+highlight row ME 3813997 3814497 fill_color=colorl
+highlight row ME 3814497 3814497 fill_color=coloru
+highlight row NJ 0 14033312 fill_color=colord
+highlight row NJ 14033312 24333988 fill_color=colorr
+highlight row NJ 24333988 24517805 fill_color=coloru
+highlight row NJ 24517805 24527756 fill_color=colorl
+highlight row NJ 24527756 24536456 fill_color=colori
+highlight row WY 0 1489326 fill_color=colorr
+highlight row WY 1489326 2026034 fill_color=colord
+highlight row WY 2026034 2028784 fill_color=coloru
+highlight row WY 2028784 2030534 fill_color=colori
+highlight row WY 2030534 2030784 fill_color=colorl
+highlight row NV 0 8629308 fill_color=colord
+highlight row NV 8629308 15555284 fill_color=colorr
+highlight row NV 15555284 15577151 fill_color=coloru
+highlight row NV 15577151 15589453 fill_color=colorl
+highlight row NV 15589453 15601403 fill_color=colori
+highlight row OR 0 5502489 fill_color=colord
+highlight row OR 5502489 9996587 fill_color=colorr
+highlight row OR 9996587 10009412 fill_color=colori
+highlight row OR 10009412 10020112 fill_color=colorl
+highlight row OR 10020112 10026712 fill_color=coloru
+highlight row WA 0 12504959 fill_color=colord
+highlight row WA 12504959 18875816 fill_color=colorr
+highlight row WA 18875816 18906766 fill_color=colori
+highlight row WA 18906766 18934781 fill_color=colorl
+highlight row WA 18934781 18938281 fill_color=coloru
+highlight row ID 0 1646191 fill_color=colorr
+highlight row ID 1646191 2228734 fill_color=colord
+highlight row ID 2228734 2230734 fill_color=coloru
+highlight row ID 2230734 2231634 fill_color=colori
+highlight row ID 2231634 2232384 fill_color=colorl
+highlight row RI 0 2412103 fill_color=colord
+highlight row RI 2412103 3609842 fill_color=colorr
+highlight row RI 3609842 3617067 fill_color=colori
+highlight row RI 3617067 3617567 fill_color=coloru
+highlight row RI 3617567 3617567 fill_color=colorl
+highlight row AL 0 6286579 fill_color=colorr
+highlight row AL 6286579 8141125 fill_color=colord
+highlight row AL 8141125 8147125 fill_color=colorl
+highlight row AL 8147125 8150125 fill_color=coloru
+highlight row AL 8150125 8151375 fill_color=colori
+highlight row KS 0 4023656 fill_color=colorr
+highlight row KS 4023656 4912744 fill_color=colord
+highlight row KS 4912744 4914504 fill_color=colori
+highlight row KS 4914504 4916004 fill_color=colorl
+highlight row KS 4916004 4917504 fill_color=coloru
+highlight row TN 0 15795995 fill_color=colorr
+highlight row TN 15795995 19056607 fill_color=colord
+highlight row TN 19056607 19077714 fill_color=colori
+highlight row TN 19077714 19091414 fill_color=colorl
+highlight row TN 19091414 19091914 fill_color=coloru
+highlight row UT 0 10432712 fill_color=colorr
+highlight row UT 10432712 12072821 fill_color=colord
+highlight row UT 12072821 12077923 fill_color=colorl
+highlight row UT 12077923 12080467 fill_color=colori
+highlight row UT 12080467 12080967 fill_color=coloru
+highlight row ND 0 1309711 fill_color=colorr
+highlight row ND 1309711 1986210 fill_color=colord
+highlight row ND 1986210 1986710 fill_color=colorl
+highlight row ND 1986710 1986710 fill_color=colori
+highlight row ND 1986710 1986710 fill_color=coloru
+highlight row FL 0 43250170 fill_color=colorr
+highlight row FL 43250170 73016613 fill_color=colord
+highlight row FL 73016613 73085919 fill_color=colorl
+highlight row FL 73085919 73113647 fill_color=coloru
+highlight row FL 73113647 73140623 fill_color=colori
+highlight row AS 0 2200 fill_color=colord
+highlight row AS 2200 2200 fill_color=colorr
+highlight row AS 2200 2200 fill_color=colori
+highlight row AS 2200 2200 fill_color=colorl
+highlight row AS 2200 2200 fill_color=coloru
+highlight row CT 0 15345587 fill_color=colord
+highlight row CT 15345587 29538193 fill_color=colorr
+highlight row CT 29538193 29556618 fill_color=colori
+highlight row CT 29556618 29564485 fill_color=coloru
+highlight row CT 29564485 29571635 fill_color=colorl
+highlight row MD 0 20439373 fill_color=colord
+highlight row MD 20439373 29316919 fill_color=colorr
+highlight row MD 29316919 29362994 fill_color=colori
+highlight row MD 29362994 29381376 fill_color=colorl
+highlight row MD 29381376 29382376 fill_color=coloru
+highlight row CA 0 100180271 fill_color=colord
+highlight row CA 100180271 157318140 fill_color=colorr
+highlight row CA 157318140 157665409 fill_color=colorl
+highlight row CA 157665409 157844642 fill_color=colori
+highlight row CA 157844642 157860452 fill_color=coloru
+highlight row DE 0 1842215 fill_color=colord
+highlight row DE 1842215 2543234 fill_color=colorr
+highlight row DE 2543234 2546435 fill_color=colorl
+highlight row DE 2546435 2547385 fill_color=colori
+highlight row DE 2547385 2547885 fill_color=coloru
+highlight row IA 0 3033981 fill_color=colorr
+highlight row IA 3033981 6031757 fill_color=colord
+highlight row IA 6031757 6037407 fill_color=colori
+highlight row IA 6037407 6039907 fill_color=coloru
+highlight row IA 6039907 6040957 fill_color=colorl
+highlight row CO 0 8652876 fill_color=colorr
+highlight row CO 8652876 16962628 fill_color=colord
+highlight row CO 16962628 17085912 fill_color=colori
+highlight row CO 17085912 17123457 fill_color=colorl
+highlight row CO 17123457 17126207 fill_color=coloru
+highlight row MI 0 14881045 fill_color=colorr
+highlight row MI 14881045 25012924 fill_color=colord
+highlight row MI 25012924 25025984 fill_color=colorl
+highlight row MI 25025984 25037234 fill_color=colori
+highlight row MI 25037234 25040451 fill_color=coloru
+highlight row IN 0 8459395 fill_color=colorr
+highlight row IN 8459395 11488039 fill_color=colord
+highlight row IN 11488039 11503285 fill_color=colorl
+highlight row IN 11503285 11514735 fill_color=colori
+highlight row IN 11514735 11517235 fill_color=coloru
+highlight row AR 0 3501270 fill_color=colorr
+highlight row AR 3501270 5110983 fill_color=colord
+highlight row AR 5110983 5114408 fill_color=colori
+highlight row AR 5114408 5115408 fill_color=coloru
+highlight row AR 5115408 5116358 fill_color=colorl
+highlight row VI 0 523200 fill_color=colord
+highlight row VI 523200 714891 fill_color=colorr
+highlight row VI 714891 715391 fill_color=coloru
+highlight row VI 715391 715391 fill_color=colori
+highlight row VI 715391 715391 fill_color=colorl
+highlight row VT 0 2803948 fill_color=colord
+highlight row VT 2803948 3099861 fill_color=colorr
+highlight row VT 3099861 3225081 fill_color=colori
+highlight row VT 3225081 3228131 fill_color=colorl
+highlight row VT 3228131 3231131 fill_color=coloru
+highlight row GA 0 15325396 fill_color=colorr
+highlight row GA 15325396 20478940 fill_color=colord
+highlight row GA 20478940 20509090 fill_color=colorl
+highlight row GA 20509090 20520540 fill_color=colori
+highlight row GA 20520540 20525706 fill_color=coloru
+highlight row KY 0 6397937 fill_color=colord
+highlight row KY 6397937 11745838 fill_color=colorr
+highlight row KY 11745838 11751338 fill_color=colori
+highlight row KY 11751338 11752338 fill_color=colorl
+highlight row KY 11752338 11752338 fill_color=coloru
+highlight row IL 0 60672896 fill_color=colord
+highlight row IL 60672896 84873968 fill_color=colorr
+highlight row IL 84873968 84914203 fill_color=colori
+highlight row IL 84914203 84942676 fill_color=colorl
+highlight row IL 84942676 84945376 fill_color=coloru
+highlight row AK 0 684387 fill_color=colord
+highlight row AK 684387 1167492 fill_color=colorr
+highlight row AK 1167492 1266442 fill_color=colori
+highlight row AK 1266442 1267442 fill_color=colorl
+highlight row AK 1267442 1267942 fill_color=coloru
+highlight col D 0 188759226 fill_color=colordc
+highlight col D 188759226 288939497 fill_color=colorca
+highlight col D 288939497 359474800 fill_color=colorny
+highlight col D 359474800 420147696 fill_color=coloril
+highlight col D 420147696 449914139 fill_color=colorfl
+highlight col D 449914139 476414794 fill_color=colortx
+highlight col D 476414794 502417936 fill_color=colorma
+highlight col D 502417936 522857309 fill_color=colormd
+highlight col D 522857309 543141585 fill_color=colorva
+highlight col D 543141585 558648742 fill_color=colorpa
+highlight col D 558648742 573994329 fill_color=colorct
+highlight col D 573994329 588027641 fill_color=colornj
+highlight col D 588027641 600532600 fill_color=colorwa
+highlight col D 600532600 610664479 fill_color=colormi
+highlight col D 610664479 619414052 fill_color=coloroh
+highlight col D 619414052 628043360 fill_color=colornv
+highlight col D 628043360 636353112 fill_color=colorco
+highlight col D 636353112 644470495 fill_color=colormn
+highlight col D 644470495 650868432 fill_color=colorky
+highlight col D 650868432 657138365 fill_color=colormo
+highlight col D 657138365 662792892 fill_color=colornc
+highlight col D 662792892 668295381 fill_color=coloror
+highlight col D 668295381 673448925 fill_color=colorga
+highlight col D 673448925 678471143 fill_color=colorwi
+highlight col D 678471143 682747245 fill_color=coloraz
+highlight col D 682747245 686763921 fill_color=colorhi
+highlight col D 686763921 690358962 fill_color=colornm
+highlight col D 690358962 693619574 fill_color=colortn
+highlight col D 693619574 696648218 fill_color=colorin
+highlight col D 696648218 699645994 fill_color=coloria
+highlight col D 699645994 702518965 fill_color=colornh
+highlight col D 702518965 705386772 fill_color=colorne
+highlight col D 705386772 708190720 fill_color=colorvt
+highlight col D 708190720 710816320 fill_color=colorsc
+highlight col D 710816320 713418084 fill_color=colorme
+highlight col D 713418084 715843369 fill_color=colormt
+highlight col D 715843369 718255472 fill_color=colorri
+highlight col D 718255472 720457790 fill_color=colorla
+highlight col D 720457790 722572899 fill_color=colorpr
+highlight col D 722572899 724641412 fill_color=colorok
+highlight col D 724641412 726495958 fill_color=coloral
+highlight col D 726495958 728338173 fill_color=colorde
+highlight col D 728338173 729978282 fill_color=colorut
+highlight col D 729978282 731587995 fill_color=colorar
+highlight col D 731587995 732979955 fill_color=colorwv
+highlight col D 732979955 733869043 fill_color=colorks
+highlight col D 733869043 734553430 fill_color=colorak
+highlight col D 734553430 735229929 fill_color=colornd
+highlight col D 735229929 735891639 fill_color=colorsd
+highlight col D 735891639 736503071 fill_color=colorms
+highlight col D 736503071 737085614 fill_color=colorid
+highlight col D 737085614 737622322 fill_color=colorwy
+highlight col D 737622322 738145522 fill_color=colorvi
+highlight col D 738145522 738251472 fill_color=colorgu
+highlight col D 738251472 738253672 fill_color=coloras
+highlight col I 0 206133 fill_color=colordc
+highlight col I 206133 385366 fill_color=colorca
+highlight col I 385366 510586 fill_color=colorvt
+highlight col I 510586 633870 fill_color=colorco
+highlight col I 633870 732820 fill_color=colorak
+highlight col I 732820 817630 fill_color=colorma
+highlight col I 817630 897863 fill_color=colorny
+highlight col I 897863 951618 fill_color=colormn
+highlight col I 951618 1003818 fill_color=colorla
+highlight col I 1003818 1055233 fill_color=colorva
+highlight col I 1055233 1101308 fill_color=colormd
+highlight col I 1101308 1141543 fill_color=coloril
+highlight col I 1141543 1172493 fill_color=colorwa
+highlight col I 1172493 1199469 fill_color=colorfl
+highlight col I 1199469 1223653 fill_color=coloroh
+highlight col I 1223653 1244760 fill_color=colortn
+highlight col I 1244760 1263185 fill_color=colorct
+highlight col I 1263185 1281475 fill_color=coloraz
+highlight col I 1281475 1299400 fill_color=colortx
+highlight col I 1299400 1317283 fill_color=colorpa
+highlight col I 1317283 1334147 fill_color=colorwi
+highlight col I 1334147 1347597 fill_color=colornm
+highlight col I 1347597 1360422 fill_color=coloror
+highlight col I 1360422 1372372 fill_color=colornv
+highlight col I 1372372 1383822 fill_color=colorin
+highlight col I 1383822 1395272 fill_color=colorga
+highlight col I 1395272 1406597 fill_color=colornc
+highlight col I 1406597 1417847 fill_color=colormi
+highlight col I 1417847 1426547 fill_color=colornj
+highlight col I 1426547 1433772 fill_color=colorri
+highlight col I 1433772 1439422 fill_color=coloria
+highlight col I 1439422 1444922 fill_color=colorky
+highlight col I 1444922 1450010 fill_color=colorms
+highlight col I 1450010 1454610 fill_color=colormo
+highlight col I 1454610 1459160 fill_color=colornh
+highlight col I 1459160 1463480 fill_color=colorok
+highlight col I 1463480 1467105 fill_color=colorwv
+highlight col I 1467105 1470530 fill_color=colorar
+highlight col I 1470530 1473074 fill_color=colorut
+highlight col I 1473074 1475574 fill_color=colorhi
+highlight col I 1475574 1477874 fill_color=colorsc
+highlight col I 1477874 1479824 fill_color=colorme
+highlight col I 1479824 1481584 fill_color=colorks
+highlight col I 1481584 1483334 fill_color=colorwy
+highlight col I 1483334 1484584 fill_color=coloral
+highlight col I 1484584 1485684 fill_color=colorsd
+highlight col I 1485684 1486684 fill_color=colormt
+highlight col I 1486684 1487634 fill_color=colorde
+highlight col I 1487634 1488534 fill_color=colorid
+highlight col I 1488534 1488534 fill_color=colorgu
+highlight col I 1488534 1488534 fill_color=colorne
+highlight col I 1488534 1488534 fill_color=colorpr
+highlight col I 1488534 1488534 fill_color=colornd
+highlight col I 1488534 1488534 fill_color=coloras
+highlight col I 1488534 1488534 fill_color=colorvi
+highlight col U 0 183817 fill_color=colornj
+highlight col U 183817 300827 fill_color=colortx
+highlight col U 300827 350164 fill_color=colorpa
+highlight col U 350164 377892 fill_color=colorfl
+highlight col U 377892 399759 fill_color=colornv
+highlight col U 399759 419784 fill_color=colornh
+highlight col U 419784 435594 fill_color=colorca
+highlight col U 435594 443461 fill_color=colorct
+highlight col U 443461 451145 fill_color=colorny
+highlight col U 451145 457812 fill_color=coloraz
+highlight col U 457812 464412 fill_color=coloror
+highlight col U 464412 470711 fill_color=coloroh
+highlight col U 470711 476627 fill_color=colorma
+highlight col U 476627 482150 fill_color=colorva
+highlight col U 482150 487400 fill_color=colorne
+highlight col U 487400 492566 fill_color=colorga
+highlight col U 492566 497188 fill_color=colorok
+highlight col U 497188 501488 fill_color=colorla
+highlight col U 501488 505238 fill_color=colordc
+highlight col U 505238 508738 fill_color=colorwa
+highlight col U 508738 511955 fill_color=colormi
+highlight col U 511955 514955 fill_color=coloral
+highlight col U 514955 517955 fill_color=colorvt
+highlight col U 517955 520705 fill_color=colorwy
+highlight col U 520705 523455 fill_color=colorco
+highlight col U 523455 526155 fill_color=colornc
+highlight col U 526155 528855 fill_color=coloril
+highlight col U 528855 531355 fill_color=coloria
+highlight col U 531355 533855 fill_color=colorin
+highlight col U 533855 536105 fill_color=colormn
+highlight col U 536105 538105 fill_color=colorid
+highlight col U 538105 539772 fill_color=colorhi
+highlight col U 539772 541272 fill_color=colorks
+highlight col U 541272 542272 fill_color=colormd
+highlight col U 542272 543272 fill_color=colorar
+highlight col U 543272 544022 fill_color=colorgu
+highlight col U 544022 544772 fill_color=colorwi
+highlight col U 544772 545522 fill_color=colormo
+highlight col U 545522 546022 fill_color=colorwv
+highlight col U 546022 546522 fill_color=colormt
+highlight col U 546522 547022 fill_color=colorri
+highlight col U 547022 547522 fill_color=colorut
+highlight col U 547522 548022 fill_color=colortn
+highlight col U 548022 548522 fill_color=colorde
+highlight col U 548522 549022 fill_color=colorvi
+highlight col U 549022 549522 fill_color=colorak
+highlight col U 549522 549772 fill_color=colorsc
+highlight col U 549772 550022 fill_color=colorsd
+highlight col U 550022 550022 fill_color=colorms
+highlight col U 550022 550022 fill_color=colorpr
+highlight col U 550022 550022 fill_color=colornm
+highlight col U 550022 550022 fill_color=colorme
+highlight col U 550022 550022 fill_color=colornd
+highlight col U 550022 550022 fill_color=coloras
+highlight col U 550022 550022 fill_color=colorky
+highlight col L 0 347269 fill_color=colorca
+highlight col L 347269 544450 fill_color=colortx
+highlight col L 544450 619350 fill_color=colornm
+highlight col L 619350 688656 fill_color=colorfl
+highlight col L 688656 745492 fill_color=colordc
+highlight col L 745492 784868 fill_color=coloroh
+highlight col L 784868 822791 fill_color=colorny
+highlight col L 822791 860336 fill_color=colorco
+highlight col L 860336 890486 fill_color=colorga
+highlight col L 890486 918959 fill_color=coloril
+highlight col L 918959 946974 fill_color=colorwa
+highlight col L 946974 966751 fill_color=colorva
+highlight col L 966751 985133 fill_color=colormd
+highlight col L 985133 1002044 fill_color=coloraz
+highlight col L 1002044 1018385 fill_color=colorma
+highlight col L 1018385 1033631 fill_color=colorin
+highlight col L 1033631 1047881 fill_color=colorpa
+highlight col L 1047881 1062131 fill_color=colornh
+highlight col L 1062131 1075831 fill_color=colortn
+highlight col L 1075831 1088891 fill_color=colormi
+highlight col L 1088891 1101193 fill_color=colornv
+highlight col L 1101193 1112330 fill_color=colornc
+highlight col L 1112330 1123030 fill_color=coloror
+highlight col L 1123030 1132981 fill_color=colornj
+highlight col L 1132981 1140181 fill_color=colormo
+highlight col L 1140181 1147331 fill_color=colorct
+highlight col L 1147331 1153682 fill_color=colorla
+highlight col L 1153682 1159682 fill_color=coloral
+highlight col L 1159682 1164784 fill_color=colorut
+highlight col L 1164784 1169484 fill_color=colorok
+highlight col L 1169484 1173584 fill_color=colormn
+highlight col L 1173584 1177234 fill_color=colorhi
+highlight col L 1177234 1180435 fill_color=colorde
+highlight col L 1180435 1183485 fill_color=colorvt
+highlight col L 1183485 1186235 fill_color=colorwi
+highlight col L 1186235 1188785 fill_color=colorms
+highlight col L 1188785 1190737 fill_color=colorsc
+highlight col L 1190737 1192237 fill_color=colorks
+highlight col L 1192237 1193287 fill_color=coloria
+highlight col L 1193287 1194287 fill_color=colorne
+highlight col L 1194287 1195287 fill_color=colorak
+highlight col L 1195287 1196287 fill_color=colorky
+highlight col L 1196287 1197237 fill_color=colorar
+highlight col L 1197237 1197987 fill_color=colorwv
+highlight col L 1197987 1198737 fill_color=colorid
+highlight col L 1198737 1199237 fill_color=colorme
+highlight col L 1199237 1199737 fill_color=colornd
+highlight col L 1199737 1200187 fill_color=colormt
+highlight col L 1200187 1200437 fill_color=colorwy
+highlight col L 1200437 1200437 fill_color=colorgu
+highlight col L 1200437 1200437 fill_color=colorsd
+highlight col L 1200437 1200437 fill_color=colorpr
+highlight col L 1200437 1200437 fill_color=colorri
+highlight col L 1200437 1200437 fill_color=coloras
+highlight col L 1200437 1200437 fill_color=colorvi
+highlight col R 0 85977703 fill_color=colortx
+highlight col R 85977703 160615719 fill_color=colordc
+highlight col R 160615719 218190032 fill_color=colorva
+highlight col R 218190032 275327901 fill_color=colorca
+highlight col R 275327901 318578071 fill_color=colorfl
+highlight col R 318578071 360407719 fill_color=colorny
+highlight col R 360407719 391570031 fill_color=coloroh
+highlight col R 391570031 415771103 fill_color=coloril
+highlight col R 415771103 436809377 fill_color=colorpa
+highlight col R 436809377 452605372 fill_color=colortn
+highlight col R 452605372 468072036 fill_color=colorma
+highlight col R 468072036 483397432 fill_color=colorga
+highlight col R 483397432 498278477 fill_color=colormi
+highlight col R 498278477 512471083 fill_color=colorct
+highlight col R 512471083 524204612 fill_color=colormo
+highlight col R 524204612 535156779 fill_color=colormn
+highlight col R 535156779 546062801 fill_color=coloraz
+highlight col R 546062801 556495513 fill_color=colorut
+highlight col R 556495513 566796189 fill_color=colornj
+highlight col R 566796189 575728683 fill_color=colornh
+highlight col R 575728683 584606229 fill_color=colormd
+highlight col R 584606229 593259105 fill_color=colorco
+highlight col R 593259105 601718500 fill_color=colorin
+highlight col R 601718500 609388755 fill_color=colorla
+highlight col R 609388755 616965271 fill_color=colornc
+highlight col R 616965271 623891247 fill_color=colornv
+highlight col R 623891247 630781805 fill_color=colorok
+highlight col R 630781805 637208758 fill_color=colorwi
+highlight col R 637208758 643579615 fill_color=colorwa
+highlight col R 643579615 649866194 fill_color=coloral
+highlight col R 649866194 655214095 fill_color=colorky
+highlight col R 655214095 660174305 fill_color=colorsc
+highlight col R 660174305 664668403 fill_color=coloror
+highlight col R 664668403 668692059 fill_color=colorks
+highlight col R 668692059 672448460 fill_color=colornm
+highlight col R 672448460 676060971 fill_color=colorms
+highlight col R 676060971 679562241 fill_color=colorar
+highlight col R 679562241 682728646 fill_color=colorne
+highlight col R 682728646 685762627 fill_color=coloria
+highlight col R 685762627 688613369 fill_color=colorwv
+highlight col R 688613369 690857395 fill_color=colorsd
+highlight col R 690857395 692850632 fill_color=colormt
+highlight col R 692850632 694496823 fill_color=colorid
+highlight col R 694496823 695986149 fill_color=colorwy
+highlight col R 695986149 697302867 fill_color=colorhi
+highlight col R 697302867 698612578 fill_color=colornd
+highlight col R 698612578 699822861 fill_color=colorme
+highlight col R 699822861 701020600 fill_color=colorri
+highlight col R 701020600 701721619 fill_color=colorde
+highlight col R 701721619 702204724 fill_color=colorak
+highlight col R 702204724 702530079 fill_color=colorpr
+highlight col R 702530079 702825992 fill_color=colorvt
+highlight col R 702825992 703017683 fill_color=colorvi
+highlight col R 703017683 703034435 fill_color=colorgu
+highlight col R 703034435 703034435 fill_color=coloras
+highlight all D 0 188759226 fill_color=colordc
+highlight all D 188759226 288939497 fill_color=colorca
+highlight all D 288939497 359474800 fill_color=colorny
+highlight all D 359474800 420147696 fill_color=coloril
+highlight all D 420147696 449914139 fill_color=colorfl
+highlight all D 449914139 476414794 fill_color=colortx
+highlight all D 476414794 502417936 fill_color=colorma
+highlight all D 502417936 522857309 fill_color=colormd
+highlight all D 522857309 543141585 fill_color=colorva
+highlight all D 543141585 558648742 fill_color=colorpa
+highlight all D 558648742 573994329 fill_color=colorct
+highlight all D 573994329 588027641 fill_color=colornj
+highlight all D 588027641 600532600 fill_color=colorwa
+highlight all D 600532600 610664479 fill_color=colormi
+highlight all D 610664479 619414052 fill_color=coloroh
+highlight all D 619414052 628043360 fill_color=colornv
+highlight all D 628043360 636353112 fill_color=colorco
+highlight all D 636353112 644470495 fill_color=colormn
+highlight all D 644470495 650868432 fill_color=colorky
+highlight all D 650868432 657138365 fill_color=colormo
+highlight all D 657138365 662792892 fill_color=colornc
+highlight all D 662792892 668295381 fill_color=coloror
+highlight all D 668295381 673448925 fill_color=colorga
+highlight all D 673448925 678471143 fill_color=colorwi
+highlight all D 678471143 682747245 fill_color=coloraz
+highlight all D 682747245 686763921 fill_color=colorhi
+highlight all D 686763921 690358962 fill_color=colornm
+highlight all D 690358962 693619574 fill_color=colortn
+highlight all D 693619574 696648218 fill_color=colorin
+highlight all D 696648218 699645994 fill_color=coloria
+highlight all D 699645994 702518965 fill_color=colornh
+highlight all D 702518965 705386772 fill_color=colorne
+highlight all D 705386772 708190720 fill_color=colorvt
+highlight all D 708190720 710816320 fill_color=colorsc
+highlight all D 710816320 713418084 fill_color=colorme
+highlight all D 713418084 715843369 fill_color=colormt
+highlight all D 715843369 718255472 fill_color=colorri
+highlight all D 718255472 720457790 fill_color=colorla
+highlight all D 720457790 722572899 fill_color=colorpr
+highlight all D 722572899 724641412 fill_color=colorok
+highlight all D 724641412 726495958 fill_color=coloral
+highlight all D 726495958 728338173 fill_color=colorde
+highlight all D 728338173 729978282 fill_color=colorut
+highlight all D 729978282 731587995 fill_color=colorar
+highlight all D 731587995 732979955 fill_color=colorwv
+highlight all D 732979955 733869043 fill_color=colorks
+highlight all D 733869043 734553430 fill_color=colorak
+highlight all D 734553430 735229929 fill_color=colornd
+highlight all D 735229929 735891639 fill_color=colorsd
+highlight all D 735891639 736503071 fill_color=colorms
+highlight all D 736503071 737085614 fill_color=colorid
+highlight all D 737085614 737622322 fill_color=colorwy
+highlight all D 737622322 738145522 fill_color=colorvi
+highlight all D 738145522 738251472 fill_color=colorgu
+highlight all D 738251472 738253672 fill_color=coloras
+highlight all R 0 85977703 fill_color=colortx
+highlight all R 85977703 160615719 fill_color=colordc
+highlight all R 160615719 218190032 fill_color=colorva
+highlight all R 218190032 275327901 fill_color=colorca
+highlight all R 275327901 318578071 fill_color=colorfl
+highlight all R 318578071 360407719 fill_color=colorny
+highlight all R 360407719 391570031 fill_color=coloroh
+highlight all R 391570031 415771103 fill_color=coloril
+highlight all R 415771103 436809377 fill_color=colorpa
+highlight all R 436809377 452605372 fill_color=colortn
+highlight all R 452605372 468072036 fill_color=colorma
+highlight all R 468072036 483397432 fill_color=colorga
+highlight all R 483397432 498278477 fill_color=colormi
+highlight all R 498278477 512471083 fill_color=colorct
+highlight all R 512471083 524204612 fill_color=colormo
+highlight all R 524204612 535156779 fill_color=colormn
+highlight all R 535156779 546062801 fill_color=coloraz
+highlight all R 546062801 556495513 fill_color=colorut
+highlight all R 556495513 566796189 fill_color=colornj
+highlight all R 566796189 575728683 fill_color=colornh
+highlight all R 575728683 584606229 fill_color=colormd
+highlight all R 584606229 593259105 fill_color=colorco
+highlight all R 593259105 601718500 fill_color=colorin
+highlight all R 601718500 609388755 fill_color=colorla
+highlight all R 609388755 616965271 fill_color=colornc
+highlight all R 616965271 623891247 fill_color=colornv
+highlight all R 623891247 630781805 fill_color=colorok
+highlight all R 630781805 637208758 fill_color=colorwi
+highlight all R 637208758 643579615 fill_color=colorwa
+highlight all R 643579615 649866194 fill_color=coloral
+highlight all R 649866194 655214095 fill_color=colorky
+highlight all R 655214095 660174305 fill_color=colorsc
+highlight all R 660174305 664668403 fill_color=coloror
+highlight all R 664668403 668692059 fill_color=colorks
+highlight all R 668692059 672448460 fill_color=colornm
+highlight all R 672448460 676060971 fill_color=colorms
+highlight all R 676060971 679562241 fill_color=colorar
+highlight all R 679562241 682728646 fill_color=colorne
+highlight all R 682728646 685762627 fill_color=coloria
+highlight all R 685762627 688613369 fill_color=colorwv
+highlight all R 688613369 690857395 fill_color=colorsd
+highlight all R 690857395 692850632 fill_color=colormt
+highlight all R 692850632 694496823 fill_color=colorid
+highlight all R 694496823 695986149 fill_color=colorwy
+highlight all R 695986149 697302867 fill_color=colorhi
+highlight all R 697302867 698612578 fill_color=colornd
+highlight all R 698612578 699822861 fill_color=colorme
+highlight all R 699822861 701020600 fill_color=colorri
+highlight all R 701020600 701721619 fill_color=colorde
+highlight all R 701721619 702204724 fill_color=colorak
+highlight all R 702204724 702530079 fill_color=colorpr
+highlight all R 702530079 702825992 fill_color=colorvt
+highlight all R 702825992 703017683 fill_color=colorvi
+highlight all R 703017683 703034435 fill_color=colorgu
+highlight all R 703034435 703034435 fill_color=coloras
+highlight all DC 0 188759226 fill_color=colord
+highlight all DC 188759226 263397242 fill_color=colorr
+highlight all DC 263397242 263603375 fill_color=colori
+highlight all DC 263603375 263660211 fill_color=colorl
+highlight all DC 263660211 263663961 fill_color=coloru
+highlight all CA 0 100180271 fill_color=colord
+highlight all CA 100180271 157318140 fill_color=colorr
+highlight all CA 157318140 157665409 fill_color=colorl
+highlight all CA 157665409 157844642 fill_color=colori
+highlight all CA 157844642 157860452 fill_color=coloru
+highlight all TX 0 85977703 fill_color=colorr
+highlight all TX 85977703 112478358 fill_color=colord
+highlight all TX 112478358 112675539 fill_color=colorl
+highlight all TX 112675539 112792549 fill_color=coloru
+highlight all TX 112792549 112810474 fill_color=colori
+highlight all NY 0 70535303 fill_color=colord
+highlight all NY 70535303 112364951 fill_color=colorr
+highlight all NY 112364951 112445184 fill_color=colori
+highlight all NY 112445184 112483107 fill_color=colorl
+highlight all NY 112483107 112490791 fill_color=coloru
+highlight all IL 0 60672896 fill_color=colord
+highlight all IL 60672896 84873968 fill_color=colorr
+highlight all IL 84873968 84914203 fill_color=colori
+highlight all IL 84914203 84942676 fill_color=colorl
+highlight all IL 84942676 84945376 fill_color=coloru
+highlight all VA 0 57574313 fill_color=colorr
+highlight all VA 57574313 77858589 fill_color=colord
+highlight all VA 77858589 77910004 fill_color=colori
+highlight all VA 77910004 77929781 fill_color=colorl
+highlight all VA 77929781 77935304 fill_color=coloru
+highlight all FL 0 43250170 fill_color=colorr
+highlight all FL 43250170 73016613 fill_color=colord
+highlight all FL 73016613 73085919 fill_color=colorl
+highlight all FL 73085919 73113647 fill_color=coloru
+highlight all FL 73113647 73140623 fill_color=colori
+highlight all MA 0 26003142 fill_color=colord
+highlight all MA 26003142 41469806 fill_color=colorr
+highlight all MA 41469806 41554616 fill_color=colori
+highlight all MA 41554616 41570957 fill_color=colorl
+highlight all MA 41570957 41576873 fill_color=coloru
+highlight all OH 0 31162312 fill_color=colorr
+highlight all OH 31162312 39911885 fill_color=colord
+highlight all OH 39911885 39951261 fill_color=colorl
+highlight all OH 39951261 39975445 fill_color=colori
+highlight all OH 39975445 39981744 fill_color=coloru
+highlight all PA 0 21038274 fill_color=colorr
+highlight all PA 21038274 36545431 fill_color=colord
+highlight all PA 36545431 36594768 fill_color=coloru
+highlight all PA 36594768 36612651 fill_color=colori
+highlight all PA 36612651 36626901 fill_color=colorl
+highlight all CT 0 15345587 fill_color=colord
+highlight all CT 15345587 29538193 fill_color=colorr
+highlight all CT 29538193 29556618 fill_color=colori
+highlight all CT 29556618 29564485 fill_color=coloru
+highlight all CT 29564485 29571635 fill_color=colorl
+highlight all MD 0 20439373 fill_color=colord
+highlight all MD 20439373 29316919 fill_color=colorr
+highlight all MD 29316919 29362994 fill_color=colori
+highlight all MD 29362994 29381376 fill_color=colorl
+highlight all MD 29381376 29382376 fill_color=coloru
+highlight all MI 0 14881045 fill_color=colorr
+highlight all MI 14881045 25012924 fill_color=colord
+highlight all MI 25012924 25025984 fill_color=colorl
+highlight all MI 25025984 25037234 fill_color=colori
+highlight all MI 25037234 25040451 fill_color=coloru
+highlight all NJ 0 14033312 fill_color=colord
+highlight all NJ 14033312 24333988 fill_color=colorr
+highlight all NJ 24333988 24517805 fill_color=coloru
+highlight all NJ 24517805 24527756 fill_color=colorl
+highlight all NJ 24527756 24536456 fill_color=colori
+highlight all GA 0 15325396 fill_color=colorr
+highlight all GA 15325396 20478940 fill_color=colord
+highlight all GA 20478940 20509090 fill_color=colorl
+highlight all GA 20509090 20520540 fill_color=colori
+highlight all GA 20520540 20525706 fill_color=coloru
+highlight all MN 0 10952167 fill_color=colorr
+highlight all MN 10952167 19069550 fill_color=colord
+highlight all MN 19069550 19123305 fill_color=colori
+highlight all MN 19123305 19127405 fill_color=colorl
+highlight all MN 19127405 19129655 fill_color=coloru
+highlight all TN 0 15795995 fill_color=colorr
+highlight all TN 15795995 19056607 fill_color=colord
+highlight all TN 19056607 19077714 fill_color=colori
+highlight all TN 19077714 19091414 fill_color=colorl
+highlight all TN 19091414 19091914 fill_color=coloru
+highlight all WA 0 12504959 fill_color=colord
+highlight all WA 12504959 18875816 fill_color=colorr
+highlight all WA 18875816 18906766 fill_color=colori
+highlight all WA 18906766 18934781 fill_color=colorl
+highlight all WA 18934781 18938281 fill_color=coloru
+highlight all MO 0 11733529 fill_color=colorr
+highlight all MO 11733529 18003462 fill_color=colord
+highlight all MO 18003462 18010662 fill_color=colorl
+highlight all MO 18010662 18015262 fill_color=colori
+highlight all MO 18015262 18016012 fill_color=coloru
+highlight all CO 0 8652876 fill_color=colorr
+highlight all CO 8652876 16962628 fill_color=colord
+highlight all CO 16962628 17085912 fill_color=colori
+highlight all CO 17085912 17123457 fill_color=colorl
+highlight all CO 17123457 17126207 fill_color=coloru
+highlight all NV 0 8629308 fill_color=colord
+highlight all NV 8629308 15555284 fill_color=colorr
+highlight all NV 15555284 15577151 fill_color=coloru
+highlight all NV 15577151 15589453 fill_color=colorl
+highlight all NV 15589453 15601403 fill_color=colori
+highlight all AZ 0 10906022 fill_color=colorr
+highlight all AZ 10906022 15182124 fill_color=colord
+highlight all AZ 15182124 15200414 fill_color=colori
+highlight all AZ 15200414 15217325 fill_color=colorl
+highlight all AZ 15217325 15223992 fill_color=coloru
+highlight all NC 0 7576516 fill_color=colorr
+highlight all NC 7576516 13231043 fill_color=colord
+highlight all NC 13231043 13242368 fill_color=colori
+highlight all NC 13242368 13253505 fill_color=colorl
+highlight all NC 13253505 13256205 fill_color=coloru
+highlight all UT 0 10432712 fill_color=colorr
+highlight all UT 10432712 12072821 fill_color=colord
+highlight all UT 12072821 12077923 fill_color=colorl
+highlight all UT 12077923 12080467 fill_color=colori
+highlight all UT 12080467 12080967 fill_color=coloru
+highlight all NH 0 8932494 fill_color=colorr
+highlight all NH 8932494 11805465 fill_color=colord
+highlight all NH 11805465 11825490 fill_color=coloru
+highlight all NH 11825490 11839740 fill_color=colorl
+highlight all NH 11839740 11844290 fill_color=colori
+highlight all KY 0 6397937 fill_color=colord
+highlight all KY 6397937 11745838 fill_color=colorr
+highlight all KY 11745838 11751338 fill_color=colori
+highlight all KY 11751338 11752338 fill_color=colorl
+highlight all KY 11752338 11752338 fill_color=coloru
+highlight all IN 0 8459395 fill_color=colorr
+highlight all IN 8459395 11488039 fill_color=colord
+highlight all IN 11488039 11503285 fill_color=colorl
+highlight all IN 11503285 11514735 fill_color=colori
+highlight all IN 11514735 11517235 fill_color=coloru
+highlight all WI 0 6426953 fill_color=colorr
+highlight all WI 6426953 11449171 fill_color=colord
+highlight all WI 11449171 11466035 fill_color=colori
+highlight all WI 11466035 11468785 fill_color=colorl
+highlight all WI 11468785 11469535 fill_color=coloru
+highlight all OR 0 5502489 fill_color=colord
+highlight all OR 5502489 9996587 fill_color=colorr
+highlight all OR 9996587 10009412 fill_color=colori
+highlight all OR 10009412 10020112 fill_color=colorl
+highlight all OR 10020112 10026712 fill_color=coloru
+highlight all LA 0 7670255 fill_color=colorr
+highlight all LA 7670255 9872573 fill_color=colord
+highlight all LA 9872573 9924773 fill_color=colori
+highlight all LA 9924773 9931124 fill_color=colorl
+highlight all LA 9931124 9935424 fill_color=coloru
+highlight all OK 0 6890558 fill_color=colorr
+highlight all OK 6890558 8959071 fill_color=colord
+highlight all OK 8959071 8963771 fill_color=colorl
+highlight all OK 8963771 8968393 fill_color=coloru
+highlight all OK 8968393 8972713 fill_color=colori
+highlight all AL 0 6286579 fill_color=colorr
+highlight all AL 6286579 8141125 fill_color=colord
+highlight all AL 8141125 8147125 fill_color=colorl
+highlight all AL 8147125 8150125 fill_color=coloru
+highlight all AL 8150125 8151375 fill_color=colori
+highlight all SC 0 4960210 fill_color=colorr
+highlight all SC 4960210 7585810 fill_color=colord
+highlight all SC 7585810 7588110 fill_color=colori
+highlight all SC 7588110 7590062 fill_color=colorl
+highlight all SC 7590062 7590312 fill_color=coloru
+highlight all NM 0 3756401 fill_color=colorr
+highlight all NM 3756401 7351442 fill_color=colord
+highlight all NM 7351442 7426342 fill_color=colorl
+highlight all NM 7426342 7439792 fill_color=colori
+highlight all NM 7439792 7439792 fill_color=coloru
+highlight all IA 0 3033981 fill_color=colorr
+highlight all IA 3033981 6031757 fill_color=colord
+highlight all IA 6031757 6037407 fill_color=colori
+highlight all IA 6037407 6039907 fill_color=coloru
+highlight all IA 6039907 6040957 fill_color=colorl
+highlight all NE 0 3166405 fill_color=colorr
+highlight all NE 3166405 6034212 fill_color=colord
+highlight all NE 6034212 6039462 fill_color=coloru
+highlight all NE 6039462 6040462 fill_color=colorl
+highlight all NE 6040462 6040462 fill_color=colori
+highlight all HI 0 4016676 fill_color=colord
+highlight all HI 4016676 5333394 fill_color=colorr
+highlight all HI 5333394 5337044 fill_color=colorl
+highlight all HI 5337044 5339544 fill_color=colori
+highlight all HI 5339544 5341211 fill_color=coloru
+highlight all AR 0 3501270 fill_color=colorr
+highlight all AR 3501270 5110983 fill_color=colord
+highlight all AR 5110983 5114408 fill_color=colori
+highlight all AR 5114408 5115408 fill_color=coloru
+highlight all AR 5115408 5116358 fill_color=colorl
+highlight all KS 0 4023656 fill_color=colorr
+highlight all KS 4023656 4912744 fill_color=colord
+highlight all KS 4912744 4914504 fill_color=colori
+highlight all KS 4914504 4916004 fill_color=coloru
+highlight all KS 4916004 4917504 fill_color=colorl
+highlight all MT 0 2425285 fill_color=colord
+highlight all MT 2425285 4418522 fill_color=colorr
+highlight all MT 4418522 4419522 fill_color=colori
+highlight all MT 4419522 4420022 fill_color=coloru
+highlight all MT 4420022 4420472 fill_color=colorl
+highlight all WV 0 2850742 fill_color=colorr
+highlight all WV 2850742 4242702 fill_color=colord
+highlight all WV 4242702 4246327 fill_color=colori
+highlight all WV 4246327 4247077 fill_color=colorl
+highlight all WV 4247077 4247577 fill_color=coloru
+highlight all MS 0 3612511 fill_color=colorr
+highlight all MS 3612511 4223943 fill_color=colord
+highlight all MS 4223943 4229031 fill_color=colori
+highlight all MS 4229031 4231581 fill_color=colorl
+highlight all MS 4231581 4231581 fill_color=coloru
+highlight all ME 0 2601764 fill_color=colord
+highlight all ME 2601764 3812047 fill_color=colorr
+highlight all ME 3812047 3813997 fill_color=colori
+highlight all ME 3813997 3814497 fill_color=colorl
+highlight all ME 3814497 3814497 fill_color=coloru
+highlight all RI 0 2412103 fill_color=colord
+highlight all RI 2412103 3609842 fill_color=colorr
+highlight all RI 3609842 3617067 fill_color=colori
+highlight all RI 3617067 3617567 fill_color=coloru
+highlight all RI 3617567 3617567 fill_color=colorl
+highlight all VT 0 2803948 fill_color=colord
+highlight all VT 2803948 3099861 fill_color=colorr
+highlight all VT 3099861 3225081 fill_color=colori
+highlight all VT 3225081 3228131 fill_color=colorl
+highlight all VT 3228131 3231131 fill_color=coloru
+highlight all SD 0 2244026 fill_color=colorr
+highlight all SD 2244026 2905736 fill_color=colord
+highlight all SD 2905736 2906836 fill_color=colori
+highlight all SD 2906836 2907086 fill_color=coloru
+highlight all SD 2907086 2907086 fill_color=colorl
+highlight all DE 0 1842215 fill_color=colord
+highlight all DE 1842215 2543234 fill_color=colorr
+highlight all DE 2543234 2546435 fill_color=colorl
+highlight all DE 2546435 2547385 fill_color=colori
+highlight all DE 2547385 2547885 fill_color=coloru
+highlight all PR 0 2115109 fill_color=colord
+highlight all PR 2115109 2440464 fill_color=colorr
+highlight all PR 2440464 2440464 fill_color=colori
+highlight all PR 2440464 2440464 fill_color=coloru
+highlight all PR 2440464 2440464 fill_color=colorl
+highlight all ID 0 1646191 fill_color=colorr
+highlight all ID 1646191 2228734 fill_color=colord
+highlight all ID 2228734 2230734 fill_color=coloru
+highlight all ID 2230734 2231634 fill_color=colori
+highlight all ID 2231634 2232384 fill_color=colorl
+highlight all WY 0 1489326 fill_color=colorr
+highlight all WY 1489326 2026034 fill_color=colord
+highlight all WY 2026034 2028784 fill_color=coloru
+highlight all WY 2028784 2030534 fill_color=colori
+highlight all WY 2030534 2030784 fill_color=colorl
+highlight all ND 0 1309711 fill_color=colorr
+highlight all ND 1309711 1986210 fill_color=colord
+highlight all ND 1986210 1986710 fill_color=colorl
+highlight all ND 1986710 1986710 fill_color=colori
+highlight all ND 1986710 1986710 fill_color=coloru
+highlight all I 0 206133 fill_color=colordc
+highlight all I 206133 385366 fill_color=colorca
+highlight all I 385366 510586 fill_color=colorvt
+highlight all I 510586 633870 fill_color=colorco
+highlight all I 633870 732820 fill_color=colorak
+highlight all I 732820 817630 fill_color=colorma
+highlight all I 817630 897863 fill_color=colorny
+highlight all I 897863 951618 fill_color=colormn
+highlight all I 951618 1003818 fill_color=colorla
+highlight all I 1003818 1055233 fill_color=colorva
+highlight all I 1055233 1101308 fill_color=colormd
+highlight all I 1101308 1141543 fill_color=coloril
+highlight all I 1141543 1172493 fill_color=colorwa
+highlight all I 1172493 1199469 fill_color=colorfl
+highlight all I 1199469 1223653 fill_color=coloroh
+highlight all I 1223653 1244760 fill_color=colortn
+highlight all I 1244760 1263185 fill_color=colorct
+highlight all I 1263185 1281475 fill_color=coloraz
+highlight all I 1281475 1299400 fill_color=colortx
+highlight all I 1299400 1317283 fill_color=colorpa
+highlight all I 1317283 1334147 fill_color=colorwi
+highlight all I 1334147 1347597 fill_color=colornm
+highlight all I 1347597 1360422 fill_color=coloror
+highlight all I 1360422 1372372 fill_color=colornv
+highlight all I 1372372 1383822 fill_color=colorin
+highlight all I 1383822 1395272 fill_color=colorga
+highlight all I 1395272 1406597 fill_color=colornc
+highlight all I 1406597 1417847 fill_color=colormi
+highlight all I 1417847 1426547 fill_color=colornj
+highlight all I 1426547 1433772 fill_color=colorri
+highlight all I 1433772 1439422 fill_color=coloria
+highlight all I 1439422 1444922 fill_color=colorky
+highlight all I 1444922 1450010 fill_color=colorms
+highlight all I 1450010 1454610 fill_color=colormo
+highlight all I 1454610 1459160 fill_color=colornh
+highlight all I 1459160 1463480 fill_color=colorok
+highlight all I 1463480 1467105 fill_color=colorwv
+highlight all I 1467105 1470530 fill_color=colorar
+highlight all I 1470530 1473074 fill_color=colorut
+highlight all I 1473074 1475574 fill_color=colorhi
+highlight all I 1475574 1477874 fill_color=colorsc
+highlight all I 1477874 1479824 fill_color=colorme
+highlight all I 1479824 1481584 fill_color=colorks
+highlight all I 1481584 1483334 fill_color=colorwy
+highlight all I 1483334 1484584 fill_color=coloral
+highlight all I 1484584 1485684 fill_color=colorsd
+highlight all I 1485684 1486684 fill_color=colormt
+highlight all I 1486684 1487634 fill_color=colorde
+highlight all I 1487634 1488534 fill_color=colorid
+highlight all I 1488534 1488534 fill_color=colorgu
+highlight all I 1488534 1488534 fill_color=colorne
+highlight all I 1488534 1488534 fill_color=colorpr
+highlight all I 1488534 1488534 fill_color=colornd
+highlight all I 1488534 1488534 fill_color=coloras
+highlight all I 1488534 1488534 fill_color=colorvi
+highlight all AK 0 684387 fill_color=colord
+highlight all AK 684387 1167492 fill_color=colorr
+highlight all AK 1167492 1266442 fill_color=colori
+highlight all AK 1266442 1267442 fill_color=colorl
+highlight all AK 1267442 1267942 fill_color=coloru
+highlight all L 0 347269 fill_color=colorca
+highlight all L 347269 544450 fill_color=colortx
+highlight all L 544450 619350 fill_color=colornm
+highlight all L 619350 688656 fill_color=colorfl
+highlight all L 688656 745492 fill_color=colordc
+highlight all L 745492 784868 fill_color=coloroh
+highlight all L 784868 822791 fill_color=colorny
+highlight all L 822791 860336 fill_color=colorco
+highlight all L 860336 890486 fill_color=colorga
+highlight all L 890486 918959 fill_color=coloril
+highlight all L 918959 946974 fill_color=colorwa
+highlight all L 946974 966751 fill_color=colorva
+highlight all L 966751 985133 fill_color=colormd
+highlight all L 985133 1002044 fill_color=coloraz
+highlight all L 1002044 1018385 fill_color=colorma
+highlight all L 1018385 1033631 fill_color=colorin
+highlight all L 1033631 1047881 fill_color=colorpa
+highlight all L 1047881 1062131 fill_color=colornh
+highlight all L 1062131 1075831 fill_color=colortn
+highlight all L 1075831 1088891 fill_color=colormi
+highlight all L 1088891 1101193 fill_color=colornv
+highlight all L 1101193 1112330 fill_color=colornc
+highlight all L 1112330 1123030 fill_color=coloror
+highlight all L 1123030 1132981 fill_color=colornj
+highlight all L 1132981 1140181 fill_color=colormo
+highlight all L 1140181 1147331 fill_color=colorct
+highlight all L 1147331 1153682 fill_color=colorla
+highlight all L 1153682 1159682 fill_color=coloral
+highlight all L 1159682 1164784 fill_color=colorut
+highlight all L 1164784 1169484 fill_color=colorok
+highlight all L 1169484 1173584 fill_color=colormn
+highlight all L 1173584 1177234 fill_color=colorhi
+highlight all L 1177234 1180435 fill_color=colorde
+highlight all L 1180435 1183485 fill_color=colorvt
+highlight all L 1183485 1186235 fill_color=colorwi
+highlight all L 1186235 1188785 fill_color=colorms
+highlight all L 1188785 1190737 fill_color=colorsc
+highlight all L 1190737 1192237 fill_color=colorks
+highlight all L 1192237 1193287 fill_color=coloria
+highlight all L 1193287 1194287 fill_color=colorne
+highlight all L 1194287 1195287 fill_color=colorky
+highlight all L 1195287 1196287 fill_color=colorak
+highlight all L 1196287 1197237 fill_color=colorar
+highlight all L 1197237 1197987 fill_color=colorwv
+highlight all L 1197987 1198737 fill_color=colorid
+highlight all L 1198737 1199237 fill_color=colorme
+highlight all L 1199237 1199737 fill_color=colornd
+highlight all L 1199737 1200187 fill_color=colormt
+highlight all L 1200187 1200437 fill_color=colorwy
+highlight all L 1200437 1200437 fill_color=colorgu
+highlight all L 1200437 1200437 fill_color=colorsd
+highlight all L 1200437 1200437 fill_color=colorpr
+highlight all L 1200437 1200437 fill_color=colorri
+highlight all L 1200437 1200437 fill_color=coloras
+highlight all L 1200437 1200437 fill_color=colorvi
+highlight all VI 0 523200 fill_color=colord
+highlight all VI 523200 714891 fill_color=colorr
+highlight all VI 714891 715391 fill_color=coloru
+highlight all VI 715391 715391 fill_color=colori
+highlight all VI 715391 715391 fill_color=colorl
+highlight all U 0 183817 fill_color=colornj
+highlight all U 183817 300827 fill_color=colortx
+highlight all U 300827 350164 fill_color=colorpa
+highlight all U 350164 377892 fill_color=colorfl
+highlight all U 377892 399759 fill_color=colornv
+highlight all U 399759 419784 fill_color=colornh
+highlight all U 419784 435594 fill_color=colorca
+highlight all U 435594 443461 fill_color=colorct
+highlight all U 443461 451145 fill_color=colorny
+highlight all U 451145 457812 fill_color=coloraz
+highlight all U 457812 464412 fill_color=coloror
+highlight all U 464412 470711 fill_color=coloroh
+highlight all U 470711 476627 fill_color=colorma
+highlight all U 476627 482150 fill_color=colorva
+highlight all U 482150 487400 fill_color=colorne
+highlight all U 487400 492566 fill_color=colorga
+highlight all U 492566 497188 fill_color=colorok
+highlight all U 497188 501488 fill_color=colorla
+highlight all U 501488 505238 fill_color=colordc
+highlight all U 505238 508738 fill_color=colorwa
+highlight all U 508738 511955 fill_color=colormi
+highlight all U 511955 514955 fill_color=coloral
+highlight all U 514955 517955 fill_color=colorvt
+highlight all U 517955 520705 fill_color=colorwy
+highlight all U 520705 523455 fill_color=colorco
+highlight all U 523455 526155 fill_color=colornc
+highlight all U 526155 528855 fill_color=coloril
+highlight all U 528855 531355 fill_color=coloria
+highlight all U 531355 533855 fill_color=colorin
+highlight all U 533855 536105 fill_color=colormn
+highlight all U 536105 538105 fill_color=colorid
+highlight all U 538105 539772 fill_color=colorhi
+highlight all U 539772 541272 fill_color=colorks
+highlight all U 541272 542272 fill_color=colormd
+highlight all U 542272 543272 fill_color=colorar
+highlight all U 543272 544022 fill_color=colorgu
+highlight all U 544022 544772 fill_color=colorwi
+highlight all U 544772 545522 fill_color=colormo
+highlight all U 545522 546022 fill_color=colorwv
+highlight all U 546022 546522 fill_color=colormt
+highlight all U 546522 547022 fill_color=colorri
+highlight all U 547022 547522 fill_color=colorut
+highlight all U 547522 548022 fill_color=colortn
+highlight all U 548022 548522 fill_color=colorde
+highlight all U 548522 549022 fill_color=colorvi
+highlight all U 549022 549522 fill_color=colorak
+highlight all U 549522 549772 fill_color=colorsc
+highlight all U 549772 550022 fill_color=colorsd
+highlight all U 550022 550022 fill_color=colorms
+highlight all U 550022 550022 fill_color=colorpr
+highlight all U 550022 550022 fill_color=colornm
+highlight all U 550022 550022 fill_color=colorme
+highlight all U 550022 550022 fill_color=colornd
+highlight all U 550022 550022 fill_color=coloras
+highlight all U 550022 550022 fill_color=colorky
+highlight all GU 0 105950 fill_color=colord
+highlight all GU 105950 122702 fill_color=colorr
+highlight all GU 122702 123452 fill_color=coloru
+highlight all GU 123452 123452 fill_color=colori
+highlight all GU 123452 123452 fill_color=colorl
+highlight all AS 0 2200 fill_color=colord
+highlight all AS 2200 2200 fill_color=colori
+highlight all AS 2200 2200 fill_color=coloru
+highlight all AS 2200 2200 fill_color=colorl
+highlight all AS 2200 2200 fill_color=colorr
+karyotype chr - D D 0 738253672 colord
+segmentlabel D 0 738253672 D
+karyotype chr - R R 0 703034435 colorr
+segmentlabel R 0 703034435 R
+karyotype chr - DC DC 0 263663961 colordc
+segmentlabel DC 0 263663961 DC
+karyotype chr - CA CA 0 157860452 colorca
+segmentlabel CA 0 157860452 CA
+karyotype chr - TX TX 0 112810474 colortx
+segmentlabel TX 0 112810474 TX
+karyotype chr - NY NY 0 112490791 colorny
+segmentlabel NY 0 112490791 NY
+karyotype chr - IL IL 0 84945376 coloril
+segmentlabel IL 0 84945376 IL
+karyotype chr - VA VA 0 77935304 colorva
+segmentlabel VA 0 77935304 VA
+karyotype chr - FL FL 0 73140623 colorfl
+segmentlabel FL 0 73140623 FL
+karyotype chr - MA MA 0 41576873 colorma
+segmentlabel MA 0 41576873 MA
+karyotype chr - OH OH 0 39981744 coloroh
+segmentlabel OH 0 39981744 OH
+karyotype chr - PA PA 0 36626901 colorpa
+segmentlabel PA 0 36626901 PA
+karyotype chr - CT CT 0 29571635 colorct
+segmentlabel CT 0 29571635 CT
+karyotype chr - MD MD 0 29382376 colormd
+segmentlabel MD 0 29382376 MD
+karyotype chr - MI MI 0 25040451 colormi
+segmentlabel MI 0 25040451 MI
+karyotype chr - NJ NJ 0 24536456 colornj
+segmentlabel NJ 0 24536456 NJ
+karyotype chr - GA GA 0 20525706 colorga
+segmentlabel GA 0 20525706 GA
+karyotype chr - MN MN 0 19129655 colormn
+segmentlabel MN 0 19129655 MN
+karyotype chr - TN TN 0 19091914 colortn
+segmentlabel TN 0 19091914 TN
+karyotype chr - WA WA 0 18938281 colorwa
+segmentlabel WA 0 18938281 WA
+karyotype chr - MO MO 0 18016012 colormo
+segmentlabel MO 0 18016012 MO
+karyotype chr - CO CO 0 17126207 colorco
+segmentlabel CO 0 17126207 CO
+karyotype chr - NV NV 0 15601403 colornv
+segmentlabel NV 0 15601403 NV
+karyotype chr - AZ AZ 0 15223992 coloraz
+segmentlabel AZ 0 15223992 AZ
+karyotype chr - NC NC 0 13256205 colornc
+segmentlabel NC 0 13256205 NC
+karyotype chr - UT UT 0 12080967 colorut
+segmentlabel UT 0 12080967 UT
+karyotype chr - NH NH 0 11844290 colornh
+segmentlabel NH 0 11844290 NH
+karyotype chr - KY KY 0 11752338 colorky
+segmentlabel KY 0 11752338 KY
+karyotype chr - IN IN 0 11517235 colorin
+segmentlabel IN 0 11517235 IN
+karyotype chr - WI WI 0 11469535 colorwi
+segmentlabel WI 0 11469535 WI
+karyotype chr - OR OR 0 10026712 coloror
+segmentlabel OR 0 10026712 OR
+karyotype chr - LA LA 0 9935424 colorla
+segmentlabel LA 0 9935424 LA
+karyotype chr - OK OK 0 8972713 colorok
+segmentlabel OK 0 8972713 OK
+karyotype chr - AL AL 0 8151375 coloral
+segmentlabel AL 0 8151375 AL
+karyotype chr - SC SC 0 7590312 colorsc
+segmentlabel SC 0 7590312 SC
+karyotype chr - NM NM 0 7439792 colornm
+segmentlabel NM 0 7439792 NM
+karyotype chr - IA IA 0 6040957 coloria
+segmentlabel IA 0 6040957 IA
+karyotype chr - NE NE 0 6040462 colorne
+segmentlabel NE 0 6040462 NE
+karyotype chr - HI HI 0 5341211 colorhi
+segmentlabel HI 0 5341211 HI
+karyotype chr - AR AR 0 5116358 colorar
+segmentlabel AR 0 5116358 AR
+karyotype chr - KS KS 0 4917504 colorks
+segmentlabel KS 0 4917504 KS
+karyotype chr - MT MT 0 4420472 colormt
+segmentlabel MT 0 4420472 MT
+karyotype chr - WV WV 0 4247577 colorwv
+segmentlabel WV 0 4247577 WV
+karyotype chr - MS MS 0 4231581 colorms
+segmentlabel MS 0 4231581 MS
+karyotype chr - ME ME 0 3814497 colorme
+segmentlabel ME 0 3814497 ME
+karyotype chr - RI RI 0 3617567 colorri
+segmentlabel RI 0 3617567 RI
+karyotype chr - VT VT 0 3231131 colorvt
+segmentlabel VT 0 3231131 VT
+karyotype chr - SD SD 0 2907086 colorsd
+segmentlabel SD 0 2907086 SD
+karyotype chr - DE DE 0 2547885 colorde
+segmentlabel DE 0 2547885 DE
+karyotype chr - PR PR 0 2440464 colorpr
+segmentlabel PR 0 2440464 PR
+karyotype chr - ID ID 0 2232384 colorid
+segmentlabel ID 0 2232384 ID
+karyotype chr - WY WY 0 2030784 colorwy
+segmentlabel WY 0 2030784 WY
+karyotype chr - ND ND 0 1986710 colornd
+segmentlabel ND 0 1986710 ND
+karyotype chr - I I 0 1488534 colori
+segmentlabel I 0 1488534 I
+karyotype chr - AK AK 0 1267942 colorak
+segmentlabel AK 0 1267942 AK
+karyotype chr - L L 0 1200437 colorl
+segmentlabel L 0 1200437 L
+karyotype chr - VI VI 0 715391 colorvi
+segmentlabel VI 0 715391 VI
+karyotype chr - U U 0 550022 coloru
+segmentlabel U 0 550022 U
+karyotype chr - GU GU 0 123452 colorgu
+segmentlabel GU 0 123452 GU
+karyotype chr - AS AS 0 2200 coloras
+segmentlabel AS 0 2200 AS
+chromosomes_scale = D:1.0000,R:1.0000,DC:1.0000,CA:1.0000,TX:1.0000,NY:1.0000,IL:1.0000,VA:1.0000,FL:1.0000,MA:1.0000,OH:1.0000,PA:1.0000,CT:1.0000,MD:1.0000,MI:1.0000,NJ:1.0000,GA:1.0000,MN:1.0000,TN:1.0000,WA:1.0000,MO:1.0000,CO:1.0000,NV:1.0000,AZ:1.0000,NC:1.0000,UT:1.0000,NH:1.0000,KY:1.0000,IN:1.0000,WI:1.0000,OR:1.0000,LA:1.0000,OK:1.0000,AL:1.0000,SC:1.0000,NM:1.0000,IA:1.0000,NE:1.0000,HI:1.0000,AR:1.0000,KS:1.0000,MT:1.0000,WV:1.0000,MS:1.0000,ME:1.0000,RI:1.0000,VT:1.0000,SD:1.0000,DE:1.0000,PR:1.0000,ID:1.0000,WY:1.0000,ND:1.0000,I:1.0000,AK:1.0000,L:1.0000,VI:1.0000,U:1.0000,GU:1.0000,AS:1.0000
+loop D row
+loop D col
+loop R row
+loop R col
+loop DC row
+loop DC col
+loop CA row
+loop CA col
+loop TX row
+loop TX col
+loop NY row
+loop NY col
+loop IL row
+loop IL col
+loop VA row
+loop VA col
+loop FL row
+loop FL col
+loop MA row
+loop MA col
+loop OH row
+loop OH col
+loop PA row
+loop PA col
+loop CT row
+loop CT col
+loop MD row
+loop MD col
+loop MI row
+loop MI col
+loop NJ row
+loop NJ col
+loop GA row
+loop GA col
+loop MN row
+loop MN col
+loop TN row
+loop TN col
+loop WA row
+loop WA col
+loop MO row
+loop MO col
+loop CO row
+loop CO col
+loop NV row
+loop NV col
+loop AZ row
+loop AZ col
+loop NC row
+loop NC col
+loop UT row
+loop UT col
+loop NH row
+loop NH col
+loop KY row
+loop KY col
+loop IN row
+loop IN col
+loop WI row
+loop WI col
+loop OR row
+loop OR col
+loop LA row
+loop LA col
+loop OK row
+loop OK col
+loop AL row
+loop AL col
+loop SC row
+loop SC col
+loop NM row
+loop NM col
+loop IA row
+loop IA col
+loop NE row
+loop NE col
+loop HI row
+loop HI col
+loop AR row
+loop AR col
+loop KS row
+loop KS col
+loop MT row
+loop MT col
+loop WV row
+loop WV col
+loop MS row
+loop MS col
+loop ME row
+loop ME col
+loop RI row
+loop RI col
+loop VT row
+loop VT col
+loop SD row
+loop SD col
+loop DE row
+loop DE col
+loop PR row
+loop PR col
+loop ID row
+loop ID col
+loop WY row
+loop WY col
+loop ND row
+loop ND col
+loop I row
+loop I col
+loop AK row
+loop AK col
+loop L row
+loop L col
+loop VI row
+loop VI col
+loop U row
+loop U col
+loop GU row
+loop GU col
+loop AS row
+loop AS col
+link cell_0000 AK 583555 1267942 color=colorak_a1,z=0
+link cell_0000 D 631350 1315737 color=colorak_a1,z=0
+colribboncap D 631350 1315737 fill_color=colorak
+rowribboncap AK 583555 1267942 fill_color=colord
+link cell_0001 AK 1500 100450 color=colorak_a1,z=0
+link cell_0001 I 0 98950 color=colorak_a1,z=0
+colribboncap I 0 98950 fill_color=colorak
+rowribboncap AK 1500 100450 fill_color=colori
+link cell_0002 AK 500 1500 color=colorak_a1,z=0
+link cell_0002 L 0 1000 color=colorak_a1,z=0
+colribboncap L 0 1000 fill_color=colorak
+rowribboncap AK 500 1500 fill_color=colorl
+link cell_0003 AK 100450 583555 color=colorak_a1,z=0
+link cell_0003 R 208443 691548 color=colorak_a1,z=0
+colribboncap R 208443 691548 fill_color=colorak
+rowribboncap AK 100450 583555 fill_color=colorr
+link cell_0004 AK 0 500 color=colorak_a1,z=0
+link cell_0004 U 1250 1750 color=colorak_a1,z=0
+colribboncap U 1250 1750 fill_color=colorak
+rowribboncap AK 0 500 fill_color=coloru
+link cell_0005 AL 6296829 8151375 color=coloral_a1,z=1
+link cell_0005 D 38578714 40433260 color=coloral_a1,z=1
+colribboncap D 38578714 40433260 fill_color=coloral
+rowribboncap AL 6296829 8151375 fill_color=colord
+link cell_0006 AL 9000 10250 color=coloral_a1,z=0
+link cell_0006 I 276843 278093 color=coloral_a1,z=0
+colribboncap I 276843 278093 fill_color=coloral
+rowribboncap AL 9000 10250 fill_color=colori
+link cell_0007 AL 3000 9000 color=coloral_a1,z=0
+link cell_0007 L 98003 104003 color=coloral_a1,z=0
+colribboncap L 98003 104003 fill_color=coloral
+rowribboncap AL 3000 9000 fill_color=colorl
+link cell_0008 AL 10250 6296829 color=coloral_a1,z=3
+link cell_0008 R 43326242 49612821 color=coloral_a1,z=3
+colribboncap R 43326242 49612821 fill_color=coloral
+rowribboncap AL 10250 6296829 fill_color=colorr
+link cell_0009 AL 0 3000 color=coloral_a1,z=0
+link cell_0009 U 23917 26917 color=coloral_a1,z=0
+colribboncap U 23917 26917 fill_color=coloral
+rowribboncap AL 0 3000 fill_color=coloru
+link cell_0010 AR 3506645 5116358 color=colorar_a1,z=1
+link cell_0010 D 20866101 22475814 color=colorar_a1,z=1
+colribboncap D 20866101 22475814 fill_color=colorar
+rowribboncap AR 3506645 5116358 fill_color=colord
+link cell_0011 AR 1950 5375 color=colorar_a1,z=0
+link cell_0011 I 249518 252943 color=colorar_a1,z=0
+colribboncap I 249518 252943 fill_color=colorar
+rowribboncap AR 1950 5375 fill_color=colori
+link cell_0012 AR 1000 1950 color=colorar_a1,z=0
+link cell_0012 L 14501 15451 color=colorar_a1,z=0
+colribboncap L 14501 15451 fill_color=colorar
+rowribboncap AR 1000 1950 fill_color=colorl
+link cell_0013 AR 5375 3506645 color=colorar_a1,z=2
+link cell_0013 R 23591257 27092527 color=colorar_a1,z=2
+colribboncap R 23591257 27092527 fill_color=colorar
+rowribboncap AR 5375 3506645 fill_color=colorr
+link cell_0014 AR 0 1000 color=colorar_a1,z=0
+link cell_0014 U 13250 14250 color=colorar_a1,z=0
+colribboncap U 13250 14250 fill_color=colorar
+rowribboncap AR 0 1000 fill_color=coloru
+link cell_0015 AS 0 2200 color=coloras_a1,z=0
+link cell_0015 D 0 2200 color=coloras_a1,z=0
+colribboncap D 0 2200 fill_color=coloras
+rowribboncap AS 0 2200 fill_color=colord
+link cell_0016 AZ 10947890 15223992 color=coloraz_a1,z=2
+link cell_0016 D 74822986 79099088 color=coloraz_a1,z=2
+colribboncap D 74822986 79099088 fill_color=coloraz
+rowribboncap AZ 10947890 15223992 fill_color=colord
+link cell_0017 AZ 23578 41868 color=coloraz_a1,z=0
+link cell_0017 I 399671 417961 color=coloraz_a1,z=0
+colribboncap I 399671 417961 fill_color=coloraz
+rowribboncap AZ 23578 41868 fill_color=colori
+link cell_0018 AZ 6667 23578 color=coloraz_a1,z=0
+link cell_0018 L 175239 192150 color=coloraz_a1,z=0
+colribboncap L 175239 192150 fill_color=coloraz
+rowribboncap AZ 6667 23578 fill_color=colorl
+link cell_0019 AZ 41868 10947890 color=coloraz_a1,z=6
+link cell_0019 R 115843703 126749725 color=coloraz_a1,z=6
+colribboncap R 115843703 126749725 fill_color=coloraz
+rowribboncap AZ 41868 10947890 fill_color=colorr
+link cell_0020 AZ 0 6667 color=coloraz_a1,z=0
+link cell_0020 U 68914 75581 color=coloraz_a1,z=0
+colribboncap U 68914 75581 fill_color=coloraz
+rowribboncap AZ 0 6667 fill_color=coloru
+link cell_0021 CA 57680181 157860452 color=colorca_a1,z=53
+link cell_0021 D 449314175 549494446 color=colorca_a1,z=53
+colribboncap D 449314175 549494446 fill_color=colorca
+rowribboncap CA 57680181 157860452 fill_color=colord
+link cell_0022 CA 363079 542312 color=colorca_a1,z=0
+link cell_0022 I 1103168 1282401 color=colorca_a1,z=0
+colribboncap I 1103168 1282401 fill_color=colorca
+rowribboncap CA 363079 542312 fill_color=colori
+link cell_0023 CA 15810 363079 color=colorca_a1,z=0
+link cell_0023 L 796332 1143601 color=colorca_a1,z=0
+colribboncap L 796332 1143601 fill_color=colorca
+rowribboncap CA 15810 363079 fill_color=colorl
+link cell_0024 CA 542312 57680181 color=colorca_a1,z=30
+link cell_0024 R 571258550 628396419 color=colorca_a1,z=30
+colribboncap R 571258550 628396419 fill_color=colorca
+rowribboncap CA 542312 57680181 fill_color=colorr
+link cell_0025 CA 0 15810 color=colorca_a1,z=0
+link cell_0025 U 530462 546272 color=colorca_a1,z=0
+colribboncap U 530462 546272 fill_color=colorca
+rowribboncap CA 0 15810 fill_color=coloru
+link cell_0026 CO 8816455 17126207 color=colorco_a1,z=4
+link cell_0026 D 87728396 96038148 color=colorco_a1,z=4
+colribboncap D 87728396 96038148 fill_color=colorco
+rowribboncap CO 8816455 17126207 fill_color=colord
+link cell_0027 CO 40295 163579 color=colorco_a1,z=0
+link cell_0027 I 429911 553195 color=colorco_a1,z=0
+colribboncap I 429911 553195 fill_color=colorco
+rowribboncap CO 40295 163579 fill_color=colori
+link cell_0028 CO 2750 40295 color=colorco_a1,z=0
+link cell_0028 L 204452 241997 color=colorco_a1,z=0
+colribboncap L 204452 241997 fill_color=colorco
+rowribboncap CO 2750 40295 fill_color=colorl
+link cell_0029 CO 163579 8816455 color=colorco_a1,z=5
+link cell_0029 R 133675701 142328577 color=colorco_a1,z=5
+colribboncap R 133675701 142328577 fill_color=colorco
+rowribboncap CO 163579 8816455 fill_color=colorr
+link cell_0030 CO 0 2750 color=colorco_a1,z=0
+link cell_0030 U 97448 100198 color=colorco_a1,z=0
+colribboncap U 97448 100198 fill_color=colorco
+rowribboncap CO 0 2750 fill_color=coloru
+link cell_0031 CT 14226048 29571635 color=colorct_a1,z=8
+link cell_0031 D 175949143 191294730 color=colorct_a1,z=8
+colribboncap D 175949143 191294730 fill_color=colorct
+rowribboncap CT 14226048 29571635 fill_color=colord
+link cell_0032 CT 15017 33442 color=colorct_a1,z=0
+link cell_0032 I 741082 759507 color=colorct_a1,z=0
+colribboncap I 741082 759507 fill_color=colorct
+rowribboncap CT 15017 33442 fill_color=colori
+link cell_0033 CT 7867 15017 color=colorct_a1,z=0
+link cell_0033 L 366555 373705 color=colorct_a1,z=0
+colribboncap L 366555 373705 fill_color=colorct
+rowribboncap CT 7867 15017 fill_color=colorl
+link cell_0034 CT 33442 14226048 color=colorct_a1,z=8
+link cell_0034 R 236565788 250758394 color=colorct_a1,z=8
+colribboncap R 236565788 250758394 fill_color=colorct
+rowribboncap CT 33442 14226048 fill_color=colorr
+link cell_0035 CT 0 7867 color=colorct_a1,z=0
+link cell_0035 U 300398 308265 color=colorct_a1,z=0
+colribboncap U 300398 308265 fill_color=colorct
+rowribboncap CT 0 7867 fill_color=coloru
+link cell_0036 DC 74904735 263663961 color=colordc_a1,z=100
+link cell_0036 D 549494446 738253672 color=colordc_a1,z=100
+colribboncap D 549494446 738253672 fill_color=colordc
+rowribboncap DC 74904735 263663961 fill_color=colord
+link cell_0037 DC 60586 266719 color=colordc_a1,z=0
+link cell_0037 I 1282401 1488534 color=colordc_a1,z=0
+colribboncap I 1282401 1488534 fill_color=colordc
+rowribboncap DC 60586 266719 fill_color=colori
+link cell_0038 DC 3750 60586 color=colordc_a1,z=0
+link cell_0038 L 1143601 1200437 color=colordc_a1,z=0
+colribboncap L 1143601 1200437 fill_color=colordc
+rowribboncap DC 3750 60586 fill_color=colorl
+link cell_0039 DC 266719 74904735 color=colordc_a1,z=40
+link cell_0039 R 628396419 703034435 color=colordc_a1,z=40
+colribboncap R 628396419 703034435 fill_color=colordc
+rowribboncap DC 266719 74904735 fill_color=colorr
+link cell_0040 DC 0 3750 color=colordc_a1,z=0
+link cell_0040 U 546272 550022 color=colordc_a1,z=0
+colribboncap U 546272 550022 fill_color=colordc
+rowribboncap DC 0 3750 fill_color=coloru
+link cell_0041 DE 705670 2547885 color=colorde_a1,z=1
+link cell_0041 D 5226596 7068811 color=colorde_a1,z=1
+colribboncap D 5226596 7068811 fill_color=colorde
+rowribboncap DE 705670 2547885 fill_color=colord
+link cell_0042 DE 3701 4651 color=colorde_a1,z=0
+link cell_0042 I 101600 102550 color=colorde_a1,z=0
+colribboncap I 101600 102550 fill_color=colorde
+rowribboncap DE 3701 4651 fill_color=colori
+link cell_0043 DE 500 3701 color=colorde_a1,z=0
+link cell_0043 L 2500 5701 color=colorde_a1,z=0
+colribboncap L 2500 5701 fill_color=colorde
+rowribboncap DE 500 3701 fill_color=colorl
+link cell_0044 DE 4651 705670 color=colorde_a1,z=0
+link cell_0044 R 5462131 6163150 color=colorde_a1,z=0
+colribboncap R 5462131 6163150 fill_color=colorde
+rowribboncap DE 4651 705670 fill_color=colorr
+link cell_0045 DE 0 500 color=colorde_a1,z=0
+link cell_0045 U 6500 7000 color=colorde_a1,z=0
+colribboncap U 6500 7000 fill_color=colorde
+rowribboncap DE 0 500 fill_color=coloru
+link cell_0046 FL 43374180 73140623 color=colorfl_a1,z=16
+link cell_0046 D 241554602 271321045 color=colorfl_a1,z=16
+colribboncap D 241554602 271321045 fill_color=colorfl
+rowribboncap FL 43374180 73140623 fill_color=colord
+link cell_0047 FL 97034 124010 color=colorfl_a1,z=0
+link cell_0047 I 886384 913360 color=colorfl_a1,z=0
+colribboncap I 886384 913360 fill_color=colorfl
+rowribboncap FL 97034 124010 fill_color=colori
+link cell_0048 FL 27728 97034 color=colorfl_a1,z=0
+link cell_0048 L 443672 512978 color=colorfl_a1,z=0
+colribboncap L 443672 512978 fill_color=colorfl
+rowribboncap FL 27728 97034 fill_color=colorl
+link cell_0049 FL 124010 43374180 color=colorfl_a1,z=23
+link cell_0049 R 318425644 361675814 color=colorfl_a1,z=23
+colribboncap R 318425644 361675814 fill_color=colorfl
+rowribboncap FL 124010 43374180 fill_color=colorr
+link cell_0050 FL 0 27728 color=colorfl_a1,z=0
+link cell_0050 U 369817 397545 color=colorfl_a1,z=0
+colribboncap U 369817 397545 fill_color=colorfl
+rowribboncap FL 0 27728 fill_color=coloru
+link cell_0051 GA 15372162 20525706 color=colorga_a1,z=3
+link cell_0051 D 126191035 131344579 color=colorga_a1,z=3
+colribboncap D 126191035 131344579 fill_color=colorga
+rowribboncap GA 15372162 20525706 fill_color=colord
+link cell_0052 GA 35316 46766 color=colorga_a1,z=0
+link cell_0052 I 663607 675057 color=colorga_a1,z=0
+colribboncap I 663607 675057 fill_color=colorga
+rowribboncap GA 35316 46766 fill_color=colori
+link cell_0053 GA 5166 35316 color=colorga_a1,z=0
+link cell_0053 L 295012 325162 color=colorga_a1,z=0
+colribboncap L 295012 325162 fill_color=colorga
+rowribboncap GA 5166 35316 fill_color=colorl
+link cell_0054 GA 46766 15372162 color=colorga_a1,z=8
+link cell_0054 R 187181125 202506521 color=colorga_a1,z=8
+colribboncap R 187181125 202506521 fill_color=colorga
+rowribboncap GA 46766 15372162 fill_color=colorr
+link cell_0055 GA 0 5166 color=colorga_a1,z=0
+link cell_0055 U 107198 112364 color=colorga_a1,z=0
+colribboncap U 107198 112364 fill_color=colorga
+rowribboncap GA 0 5166 fill_color=coloru
+link cell_0056 GU 17502 123452 color=colorgu_a1,z=0
+link cell_0056 D 2200 108150 color=colorgu_a1,z=0
+colribboncap D 2200 108150 fill_color=colorgu
+rowribboncap GU 17502 123452 fill_color=colord
+link cell_0057 GU 750 17502 color=colorgu_a1,z=0
+link cell_0057 R 0 16752 color=colorgu_a1,z=0
+colribboncap R 0 16752 fill_color=colorgu
+rowribboncap GU 750 17502 fill_color=colorr
+link cell_0058 GU 0 750 color=colorgu_a1,z=0
+link cell_0058 U 0 750 color=colorgu_a1,z=0
+colribboncap U 0 750 fill_color=colorgu
+rowribboncap GU 0 750 fill_color=coloru
+link cell_0059 HI 1324535 5341211 color=colorhi_a1,z=2
+link cell_0059 D 22475814 26492490 color=colorhi_a1,z=2
+colribboncap D 22475814 26492490 fill_color=colorhi
+rowribboncap HI 1324535 5341211 fill_color=colord
+link cell_0060 HI 5317 7817 color=colorhi_a1,z=0
+link cell_0060 I 252943 255443 color=colorhi_a1,z=0
+colribboncap I 252943 255443 fill_color=colorhi
+rowribboncap HI 5317 7817 fill_color=colori
+link cell_0061 HI 1667 5317 color=colorhi_a1,z=0
+link cell_0061 L 15451 19101 color=colorhi_a1,z=0
+colribboncap L 15451 19101 fill_color=colorhi
+rowribboncap HI 1667 5317 fill_color=colorl
+link cell_0062 HI 7817 1324535 color=colorhi_a1,z=1
+link cell_0062 R 27092527 28409245 color=colorhi_a1,z=1
+colribboncap R 27092527 28409245 fill_color=colorhi
+rowribboncap HI 7817 1324535 fill_color=colorr
+link cell_0063 HI 0 1667 color=colorhi_a1,z=0
+link cell_0063 U 14250 15917 color=colorhi_a1,z=0
+colribboncap U 14250 15917 fill_color=colorhi
+rowribboncap HI 0 1667 fill_color=coloru
+link cell_0064 IA 3043181 6040957 color=coloria_a1,z=2
+link cell_0064 D 29360297 32358073 color=coloria_a1,z=2
+colribboncap D 29360297 32358073 fill_color=coloria
+rowribboncap IA 3043181 6040957 fill_color=colord
+link cell_0065 IA 3550 9200 color=coloria_a1,z=0
+link cell_0065 I 255443 261093 color=coloria_a1,z=0
+colribboncap I 255443 261093 fill_color=coloria
+rowribboncap IA 3550 9200 fill_color=colori
+link cell_0066 IA 2500 3550 color=coloria_a1,z=0
+link cell_0066 L 20101 21151 color=coloria_a1,z=0
+colribboncap L 20101 21151 fill_color=coloria
+rowribboncap IA 2500 3550 fill_color=colorl
+link cell_0067 IA 9200 3043181 color=coloria_a1,z=2
+link cell_0067 R 31575650 34609631 color=coloria_a1,z=2
+colribboncap R 31575650 34609631 fill_color=coloria
+rowribboncap IA 9200 3043181 fill_color=colorr
+link cell_0068 IA 0 2500 color=coloria_a1,z=0
+link cell_0068 U 21167 23667 color=coloria_a1,z=0
+colribboncap U 21167 23667 fill_color=coloria
+rowribboncap IA 0 2500 fill_color=coloru
+link cell_0069 ID 1649841 2232384 color=colorid_a1,z=0
+link cell_0069 D 2528944 3111487 color=colorid_a1,z=0
+colribboncap D 2528944 3111487 fill_color=colorid
+rowribboncap ID 1649841 2232384 fill_color=colord
+link cell_0070 ID 2750 3650 color=colorid_a1,z=0
+link cell_0070 I 100700 101600 color=colorid_a1,z=0
+colribboncap I 100700 101600 fill_color=colorid
+rowribboncap ID 2750 3650 fill_color=colori
+link cell_0071 ID 2000 2750 color=colorid_a1,z=0
+link cell_0071 L 1750 2500 color=colorid_a1,z=0
+colribboncap L 1750 2500 fill_color=colorid
+rowribboncap ID 2000 2750 fill_color=colorl
+link cell_0072 ID 3650 1649841 color=colorid_a1,z=1
+link cell_0072 R 3490585 5136776 color=colorid_a1,z=1
+colribboncap R 3490585 5136776 fill_color=colorid
+rowribboncap ID 3650 1649841 fill_color=colorr
+link cell_0073 ID 0 2000 color=colorid_a1,z=0
+link cell_0073 U 4500 6500 color=colorid_a1,z=0
+colribboncap U 4500 6500 fill_color=colorid
+rowribboncap ID 0 2000 fill_color=coloru
+link cell_0074 IL 24272480 84945376 color=coloril_a1,z=32
+link cell_0074 D 291605321 352278217 color=coloril_a1,z=32
+colribboncap D 291605321 352278217 fill_color=coloril
+rowribboncap IL 24272480 84945376 fill_color=colord
+link cell_0075 IL 31173 71408 color=coloril_a1,z=0
+link cell_0075 I 964775 1005010 color=coloril_a1,z=0
+colribboncap I 964775 1005010 fill_color=coloril
+rowribboncap IL 31173 71408 fill_color=colori
+link cell_0076 IL 2700 31173 color=coloril_a1,z=0
+link cell_0076 L 532755 561228 color=coloril_a1,z=0
+colribboncap L 532755 561228 fill_color=coloril
+rowribboncap IL 2700 31173 fill_color=colorl
+link cell_0077 IL 71408 24272480 color=coloril_a1,z=13
+link cell_0077 R 419250127 443451199 color=coloril_a1,z=13
+colribboncap R 419250127 443451199 fill_color=coloril
+rowribboncap IL 71408 24272480 fill_color=colorr
+link cell_0078 IL 0 2700 color=coloril_a1,z=0
+link cell_0078 U 403068 405768 color=coloril_a1,z=0
+colribboncap U 403068 405768 fill_color=coloril
+rowribboncap IL 0 2700 fill_color=coloru
+link cell_0079 IN 8488591 11517235 color=colorin_a1,z=2
+link cell_0079 D 55228798 58257442 color=colorin_a1,z=2
+colribboncap D 55228798 58257442 fill_color=colorin
+rowribboncap IN 8488591 11517235 fill_color=colord
+link cell_0080 IN 17746 29196 color=colorin_a1,z=0
+link cell_0080 I 364302 375752 color=colorin_a1,z=0
+colribboncap I 364302 375752 fill_color=colorin
+rowribboncap IN 17746 29196 fill_color=colori
+link cell_0081 IN 2500 17746 color=colorin_a1,z=0
+link cell_0081 L 128504 143750 color=colorin_a1,z=0
+colribboncap L 128504 143750 fill_color=colorin
+rowribboncap IN 2500 17746 fill_color=colorl
+link cell_0082 IN 29196 8488591 color=colorin_a1,z=4
+link cell_0082 R 75094685 83554080 color=colorin_a1,z=4
+colribboncap R 75094685 83554080 fill_color=colorin
+rowribboncap IN 29196 8488591 fill_color=colorr
+link cell_0083 IN 0 2500 color=colorin_a1,z=0
+link cell_0083 U 43189 45689 color=colorin_a1,z=0
+colribboncap U 43189 45689 fill_color=colorin
+rowribboncap IN 0 2500 fill_color=coloru
+link cell_0084 KS 4028416 4917504 color=colorks_a1,z=0
+link cell_0084 D 19977013 20866101 color=colorks_a1,z=0
+colribboncap D 19977013 20866101 fill_color=colorks
+rowribboncap KS 4028416 4917504 fill_color=colord
+link cell_0085 KS 3000 4760 color=colorks_a1,z=0
+link cell_0085 I 247758 249518 color=colorks_a1,z=0
+colribboncap I 247758 249518 fill_color=colorks
+rowribboncap KS 3000 4760 fill_color=colori
+link cell_0086 KS 1500 3000 color=colorks_a1,z=0
+link cell_0086 L 13001 14501 color=colorks_a1,z=0
+colribboncap L 13001 14501 fill_color=colorks
+rowribboncap KS 1500 3000 fill_color=colorl
+link cell_0087 KS 4760 4028416 color=colorks_a1,z=2
+link cell_0087 R 19567601 23591257 color=colorks_a1,z=2
+colribboncap R 19567601 23591257 fill_color=colorks
+rowribboncap KS 4760 4028416 fill_color=colorr
+link cell_0088 KS 0 1500 color=colorks_a1,z=0
+link cell_0088 U 11750 13250 color=colorks_a1,z=0
+colribboncap U 11750 13250 fill_color=colorks
+rowribboncap KS 0 1500 fill_color=coloru
+link cell_0089 KY 5354401 11752338 color=colorky_a1,z=3
+link cell_0089 D 58257442 64655379 color=colorky_a1,z=3
+colribboncap D 58257442 64655379 fill_color=colorky
+rowribboncap KY 5354401 11752338 fill_color=colord
+link cell_0090 KY 1000 6500 color=colorky_a1,z=0
+link cell_0090 I 375752 381252 color=colorky_a1,z=0
+colribboncap I 375752 381252 fill_color=colorky
+rowribboncap KY 1000 6500 fill_color=colori
+link cell_0091 KY 0 1000 color=colorky_a1,z=0
+link cell_0091 L 143750 144750 color=colorky_a1,z=0
+colribboncap L 143750 144750 fill_color=colorky
+rowribboncap KY 0 1000 fill_color=colorl
+link cell_0092 KY 6500 5354401 color=colorky_a1,z=3
+link cell_0092 R 83554080 88901981 color=colorky_a1,z=3
+colribboncap R 83554080 88901981 fill_color=colorky
+rowribboncap KY 6500 5354401 fill_color=colorr
+link cell_0093 LA 7733106 9935424 color=colorla_a1,z=1
+link cell_0093 D 42501773 44704091 color=colorla_a1,z=1
+colribboncap D 42501773 44704091 fill_color=colorla
+rowribboncap LA 7733106 9935424 fill_color=colord
+link cell_0094 LA 10651 62851 color=colorla_a1,z=0
+link cell_0094 I 282413 334613 color=colorla_a1,z=0
+colribboncap I 282413 334613 fill_color=colorla
+rowribboncap LA 10651 62851 fill_color=colori
+link cell_0095 LA 4300 10651 color=colorla_a1,z=0
+link cell_0095 L 108703 115054 color=colorla_a1,z=0
+colribboncap L 108703 115054 fill_color=colorla
+rowribboncap LA 4300 10651 fill_color=colorl
+link cell_0096 LA 62851 7733106 color=colorla_a1,z=4
+link cell_0096 R 56503379 64173634 color=colorla_a1,z=4
+colribboncap R 56503379 64173634 fill_color=colorla
+rowribboncap LA 62851 7733106 fill_color=colorr
+link cell_0097 LA 0 4300 color=colorla_a1,z=0
+link cell_0097 U 31539 35839 color=colorla_a1,z=0
+colribboncap U 31539 35839 fill_color=colorla
+rowribboncap LA 0 4300 fill_color=coloru
+link cell_0098 MA 15573731 41576873 color=colorma_a1,z=14
+link cell_0098 D 215551460 241554602 color=colorma_a1,z=14
+colribboncap D 215551460 241554602 fill_color=colorma
+rowribboncap MA 15573731 41576873 fill_color=colord
+link cell_0099 MA 22257 107067 color=colorma_a1,z=0
+link cell_0099 I 801574 886384 color=colorma_a1,z=0
+colribboncap I 801574 886384 fill_color=colorma
+rowribboncap MA 22257 107067 fill_color=colori
+link cell_0100 MA 5916 22257 color=colorma_a1,z=0
+link cell_0100 L 427331 443672 color=colorma_a1,z=0
+colribboncap L 427331 443672 fill_color=colorma
+rowribboncap MA 5916 22257 fill_color=colorl
+link cell_0101 MA 107067 15573731 color=colorma_a1,z=8
+link cell_0101 R 302958980 318425644 color=colorma_a1,z=8
+colribboncap R 302958980 318425644 fill_color=colorma
+rowribboncap MA 107067 15573731 fill_color=colorr
+link cell_0102 MA 0 5916 color=colorma_a1,z=0
+link cell_0102 U 363901 369817 color=colorma_a1,z=0
+colribboncap U 363901 369817 fill_color=colorma
+rowribboncap MA 0 5916 fill_color=coloru
+link cell_0103 MD 8943003 29382376 color=colormd_a1,z=11
+link cell_0103 D 155509770 175949143 color=colormd_a1,z=11
+colribboncap D 155509770 175949143 fill_color=colormd
+rowribboncap MD 8943003 29382376 fill_color=colord
+link cell_0104 MD 19382 65457 color=colormd_a1,z=0
+link cell_0104 I 695007 741082 color=colormd_a1,z=0
+colribboncap I 695007 741082 fill_color=colormd
+rowribboncap MD 19382 65457 fill_color=colori
+link cell_0105 MD 1000 19382 color=colormd_a1,z=0
+link cell_0105 L 348173 366555 color=colormd_a1,z=0
+colribboncap L 348173 366555 fill_color=colormd
+rowribboncap MD 1000 19382 fill_color=colorl
+link cell_0106 MD 65457 8943003 color=colormd_a1,z=5
+link cell_0106 R 227688242 236565788 color=colormd_a1,z=5
+colribboncap R 227688242 236565788 fill_color=colormd
+rowribboncap MD 65457 8943003 fill_color=colorr
+link cell_0107 MD 0 1000 color=colormd_a1,z=0
+link cell_0107 U 299398 300398 color=colormd_a1,z=0
+colribboncap U 299398 300398 fill_color=colormd
+rowribboncap MD 0 1000 fill_color=coloru
+link cell_0108 ME 1212733 3814497 color=colorme_a1,z=1
+link cell_0108 D 12946572 15548336 color=colorme_a1,z=1
+colribboncap D 12946572 15548336 fill_color=colorme
+rowribboncap ME 1212733 3814497 fill_color=colord
+link cell_0109 ME 500 2450 color=colorme_a1,z=0
+link cell_0109 I 236095 238045 color=colorme_a1,z=0
+colribboncap I 236095 238045 fill_color=colorme
+rowribboncap ME 500 2450 fill_color=colori
+link cell_0110 ME 0 500 color=colorme_a1,z=0
+link cell_0110 L 8751 9251 color=colorme_a1,z=0
+colribboncap L 8751 9251 fill_color=colorme
+rowribboncap ME 0 500 fill_color=colorl
+link cell_0111 ME 2450 1212733 color=colorme_a1,z=1
+link cell_0111 R 9900828 11111111 color=colorme_a1,z=1
+colribboncap R 9900828 11111111 fill_color=colorme
+rowribboncap ME 2450 1212733 fill_color=colorr
+link cell_0112 MI 14908572 25040451 color=colormi_a1,z=5
+link cell_0112 D 145377891 155509770 color=colormi_a1,z=5
+colribboncap D 145377891 155509770 fill_color=colormi
+rowribboncap MI 14908572 25040451 fill_color=colord
+link cell_0113 MI 16277 27527 color=colormi_a1,z=0
+link cell_0113 I 683757 695007 color=colormi_a1,z=0
+colribboncap I 683757 695007 fill_color=colormi
+rowribboncap MI 16277 27527 fill_color=colori
+link cell_0114 MI 3217 16277 color=colormi_a1,z=0
+link cell_0114 L 335113 348173 color=colormi_a1,z=0
+colribboncap L 335113 348173 fill_color=colormi
+rowribboncap MI 3217 16277 fill_color=colorl
+link cell_0115 MI 27527 14908572 color=colormi_a1,z=8
+link cell_0115 R 212807197 227688242 color=colormi_a1,z=8
+colribboncap R 212807197 227688242 fill_color=colormi
+rowribboncap MI 27527 14908572 fill_color=colorr
+link cell_0116 MI 0 3217 color=colormi_a1,z=0
+link cell_0116 U 296181 299398 color=colormi_a1,z=0
+colribboncap U 296181 299398 fill_color=colormi
+rowribboncap MI 0 3217 fill_color=coloru
+link cell_0117 MN 11012272 19129655 color=colormn_a1,z=4
+link cell_0117 D 118073652 126191035 color=colormn_a1,z=4
+colribboncap D 118073652 126191035 fill_color=colormn
+rowribboncap MN 11012272 19129655 fill_color=colord
+link cell_0118 MN 6350 60105 color=colormn_a1,z=0
+link cell_0118 I 609852 663607 color=colormn_a1,z=0
+colribboncap I 609852 663607 fill_color=colormn
+rowribboncap MN 6350 60105 fill_color=colori
+link cell_0119 MN 2250 6350 color=colormn_a1,z=0
+link cell_0119 L 290912 295012 color=colormn_a1,z=0
+colribboncap L 290912 295012 fill_color=colormn
+rowribboncap MN 2250 6350 fill_color=colorl
+link cell_0120 MN 60105 11012272 color=colormn_a1,z=6
+link cell_0120 R 176228958 187181125 color=colormn_a1,z=6
+colribboncap R 176228958 187181125 fill_color=colormn
+rowribboncap MN 60105 11012272 fill_color=colorr
+link cell_0121 MN 0 2250 color=colormn_a1,z=0
+link cell_0121 U 104948 107198 color=colormn_a1,z=0
+colribboncap U 104948 107198 fill_color=colormn
+rowribboncap MN 0 2250 fill_color=coloru
+link cell_0122 MO 11746079 18016012 color=colormo_a1,z=3
+link cell_0122 D 96038148 102308081 color=colormo_a1,z=3
+colribboncap D 96038148 102308081 fill_color=colormo
+rowribboncap MO 11746079 18016012 fill_color=colord
+link cell_0123 MO 7950 12550 color=colormo_a1,z=0
+link cell_0123 I 553195 557795 color=colormo_a1,z=0
+colribboncap I 553195 557795 fill_color=colormo
+rowribboncap MO 7950 12550 fill_color=colori
+link cell_0124 MO 750 7950 color=colormo_a1,z=0
+link cell_0124 L 241997 249197 color=colormo_a1,z=0
+colribboncap L 241997 249197 fill_color=colormo
+rowribboncap MO 750 7950 fill_color=colorl
+link cell_0125 MO 12550 11746079 color=colormo_a1,z=6
+link cell_0125 R 142328577 154062106 color=colormo_a1,z=6
+colribboncap R 142328577 154062106 fill_color=colormo
+rowribboncap MO 12550 11746079 fill_color=colorr
+link cell_0126 MO 0 750 color=colormo_a1,z=0
+link cell_0126 U 100198 100948 color=colormo_a1,z=0
+colribboncap U 100198 100948 fill_color=colormo
+rowribboncap MO 0 750 fill_color=coloru
+link cell_0127 MS 3620149 4231581 color=colorms_a1,z=0
+link cell_0127 D 15548336 16159768 color=colorms_a1,z=0
+colribboncap D 15548336 16159768 fill_color=colorms
+rowribboncap MS 3620149 4231581 fill_color=colord
+link cell_0128 MS 2550 7638 color=colorms_a1,z=0
+link cell_0128 I 238045 243133 color=colorms_a1,z=0
+colribboncap I 238045 243133 fill_color=colorms
+rowribboncap MS 2550 7638 fill_color=colori
+link cell_0129 MS 0 2550 color=colorms_a1,z=0
+link cell_0129 L 9251 11801 color=colorms_a1,z=0
+colribboncap L 9251 11801 fill_color=colorms
+rowribboncap MS 0 2550 fill_color=colorl
+link cell_0130 MS 7638 3620149 color=colorms_a1,z=2
+link cell_0130 R 11111111 14723622 color=colorms_a1,z=2
+colribboncap R 11111111 14723622 fill_color=colorms
+rowribboncap MS 7638 3620149 fill_color=colorr
+link cell_0131 MT 1995187 4420472 color=colormt_a1,z=1
+link cell_0131 D 17551728 19977013 color=colormt_a1,z=1
+colribboncap D 17551728 19977013 fill_color=colormt
+rowribboncap MT 1995187 4420472 fill_color=colord
+link cell_0132 MT 950 1950 color=colormt_a1,z=0
+link cell_0132 I 246758 247758 color=colormt_a1,z=0
+colribboncap I 246758 247758 fill_color=colormt
+rowribboncap MT 950 1950 fill_color=colori
+link cell_0133 MT 500 950 color=colormt_a1,z=0
+link cell_0133 L 12551 13001 color=colormt_a1,z=0
+colribboncap L 12551 13001 fill_color=colormt
+rowribboncap MT 500 950 fill_color=colorl
+link cell_0134 MT 1950 1995187 color=colormt_a1,z=1
+link cell_0134 R 17574364 19567601 color=colormt_a1,z=1
+colribboncap R 17574364 19567601 fill_color=colormt
+rowribboncap MT 1950 1995187 fill_color=colorr
+link cell_0135 MT 0 500 color=colormt_a1,z=0
+link cell_0135 U 11250 11750 color=colormt_a1,z=0
+colribboncap U 11250 11750 fill_color=colormt
+rowribboncap MT 0 500 fill_color=coloru
+link cell_0136 NC 7601678 13256205 color=colornc_a1,z=3
+link cell_0136 D 69168459 74822986 color=colornc_a1,z=3
+colribboncap D 69168459 74822986 fill_color=colornc
+rowribboncap NC 7601678 13256205 fill_color=colord
+link cell_0137 NC 13837 25162 color=colornc_a1,z=0
+link cell_0137 I 388346 399671 color=colornc_a1,z=0
+colribboncap I 388346 399671 fill_color=colornc
+rowribboncap NC 13837 25162 fill_color=colori
+link cell_0138 NC 2700 13837 color=colornc_a1,z=0
+link cell_0138 L 164102 175239 color=colornc_a1,z=0
+colribboncap L 164102 175239 fill_color=colornc
+rowribboncap NC 2700 13837 fill_color=colorl
+link cell_0139 NC 25162 7601678 color=colornc_a1,z=4
+link cell_0139 R 108267187 115843703 color=colornc_a1,z=4
+colribboncap R 108267187 115843703 fill_color=colornc
+rowribboncap NC 25162 7601678 fill_color=colorr
+link cell_0140 NC 0 2700 color=colornc_a1,z=0
+link cell_0140 U 66214 68914 color=colornc_a1,z=0
+colribboncap U 66214 68914 fill_color=colornc
+rowribboncap NC 0 2700 fill_color=coloru
+link cell_0141 ND 1310211 1986710 color=colornd_a1,z=0
+link cell_0141 D 1315737 1992236 color=colornd_a1,z=0
+colribboncap D 1315737 1992236 fill_color=colornd
+rowribboncap ND 1310211 1986710 fill_color=colord
+link cell_0142 ND 0 500 color=colornd_a1,z=0
+link cell_0142 L 1000 1500 color=colornd_a1,z=0
+colribboncap L 1000 1500 fill_color=colornd
+rowribboncap ND 0 500 fill_color=colorl
+link cell_0143 ND 500 1310211 color=colornd_a1,z=1
+link cell_0143 R 691548 2001259 color=colornd_a1,z=1
+colribboncap R 691548 2001259 fill_color=colornd
+rowribboncap ND 500 1310211 fill_color=colorr
+link cell_0144 NE 3172655 6040462 color=colorne_a1,z=2
+link cell_0144 D 26492490 29360297 color=colorne_a1,z=2
+colribboncap D 26492490 29360297 fill_color=colorne
+rowribboncap NE 3172655 6040462 fill_color=colord
+link cell_0145 NE 5250 6250 color=colorne_a1,z=0
+link cell_0145 L 19101 20101 color=colorne_a1,z=0
+colribboncap L 19101 20101 fill_color=colorne
+rowribboncap NE 5250 6250 fill_color=colorl
+link cell_0146 NE 6250 3172655 color=colorne_a1,z=2
+link cell_0146 R 28409245 31575650 color=colorne_a1,z=2
+colribboncap R 28409245 31575650 fill_color=colorne
+rowribboncap NE 6250 3172655 fill_color=colorr
+link cell_0147 NE 0 5250 color=colorne_a1,z=0
+link cell_0147 U 15917 21167 color=colorne_a1,z=0
+colribboncap U 15917 21167 fill_color=colorne
+rowribboncap NE 0 5250 fill_color=coloru
+link cell_0148 NH 8971319 11844290 color=colornh_a1,z=2
+link cell_0148 D 64655379 67528350 color=colornh_a1,z=2
+colribboncap D 64655379 67528350 fill_color=colornh
+rowribboncap NH 8971319 11844290 fill_color=colord
+link cell_0149 NH 34275 38825 color=colornh_a1,z=0
+link cell_0149 I 381252 385802 color=colornh_a1,z=0
+colribboncap I 381252 385802 fill_color=colornh
+rowribboncap NH 34275 38825 fill_color=colori
+link cell_0150 NH 20025 34275 color=colornh_a1,z=0
+link cell_0150 L 144750 159000 color=colornh_a1,z=0
+colribboncap L 144750 159000 fill_color=colornh
+rowribboncap NH 20025 34275 fill_color=colorl
+link cell_0151 NH 38825 8971319 color=colornh_a1,z=5
+link cell_0151 R 88901981 97834475 color=colornh_a1,z=5
+colribboncap R 88901981 97834475 fill_color=colornh
+rowribboncap NH 38825 8971319 fill_color=colorr
+link cell_0152 NH 0 20025 color=colornh_a1,z=0
+link cell_0152 U 45689 65714 color=colornh_a1,z=0
+colribboncap U 45689 65714 fill_color=colornh
+rowribboncap NH 0 20025 fill_color=coloru
+link cell_0153 NJ 10503144 24536456 color=colornj_a1,z=7
+link cell_0153 D 131344579 145377891 color=colornj_a1,z=7
+colribboncap D 131344579 145377891 fill_color=colornj
+rowribboncap NJ 10503144 24536456 fill_color=colord
+link cell_0154 NJ 193768 202468 color=colornj_a1,z=0
+link cell_0154 I 675057 683757 color=colornj_a1,z=0
+colribboncap I 675057 683757 fill_color=colornj
+rowribboncap NJ 193768 202468 fill_color=colori
+link cell_0155 NJ 183817 193768 color=colornj_a1,z=0
+link cell_0155 L 325162 335113 color=colornj_a1,z=0
+colribboncap L 325162 335113 fill_color=colornj
+rowribboncap NJ 183817 193768 fill_color=colorl
+link cell_0156 NJ 202468 10503144 color=colornj_a1,z=5
+link cell_0156 R 202506521 212807197 color=colornj_a1,z=5
+colribboncap R 202506521 212807197 fill_color=colornj
+rowribboncap NJ 202468 10503144 fill_color=colorr
+link cell_0157 NJ 0 183817 color=colornj_a1,z=0
+link cell_0157 U 112364 296181 color=colornj_a1,z=0
+colribboncap U 112364 296181 fill_color=colornj
+rowribboncap NJ 0 183817 fill_color=coloru
+link cell_0158 NM 3844751 7439792 color=colornm_a1,z=2
+link cell_0158 D 32358073 35953114 color=colornm_a1,z=2
+colribboncap D 32358073 35953114 fill_color=colornm
+rowribboncap NM 3844751 7439792 fill_color=colord
+link cell_0159 NM 74900 88350 color=colornm_a1,z=0
+link cell_0159 I 261093 274543 color=colornm_a1,z=0
+colribboncap I 261093 274543 fill_color=colornm
+rowribboncap NM 74900 88350 fill_color=colori
+link cell_0160 NM 0 74900 color=colornm_a1,z=0
+link cell_0160 L 21151 96051 color=colornm_a1,z=0
+colribboncap L 21151 96051 fill_color=colornm
+rowribboncap NM 0 74900 fill_color=colorl
+link cell_0161 NM 88350 3844751 color=colornm_a1,z=2
+link cell_0161 R 34609631 38366032 color=colornm_a1,z=2
+colribboncap R 34609631 38366032 fill_color=colornm
+rowribboncap NM 88350 3844751 fill_color=colorr
+link cell_0162 NV 6972095 15601403 color=colornv_a1,z=5
+link cell_0162 D 79099088 87728396 color=colornv_a1,z=5
+colribboncap D 79099088 87728396 fill_color=colornv
+rowribboncap NV 6972095 15601403 fill_color=colord
+link cell_0163 NV 34169 46119 color=colornv_a1,z=0
+link cell_0163 I 417961 429911 color=colornv_a1,z=0
+colribboncap I 417961 429911 fill_color=colornv
+rowribboncap NV 34169 46119 fill_color=colori
+link cell_0164 NV 21867 34169 color=colornv_a1,z=0
+link cell_0164 L 192150 204452 color=colornv_a1,z=0
+colribboncap L 192150 204452 fill_color=colornv
+rowribboncap NV 21867 34169 fill_color=colorl
+link cell_0165 NV 46119 6972095 color=colornv_a1,z=4
+link cell_0165 R 126749725 133675701 color=colornv_a1,z=4
+colribboncap R 126749725 133675701 fill_color=colornv
+rowribboncap NV 46119 6972095 fill_color=colorr
+link cell_0166 NV 0 21867 color=colornv_a1,z=0
+link cell_0166 U 75581 97448 color=colornv_a1,z=0
+colribboncap U 75581 97448 fill_color=colornv
+rowribboncap NV 0 21867 fill_color=coloru
+link cell_0167 NY 41955488 112490791 color=colorny_a1,z=37
+link cell_0167 D 352278217 422813520 color=colorny_a1,z=37
+colribboncap D 352278217 422813520 fill_color=colorny
+rowribboncap NY 41955488 112490791 fill_color=colord
+link cell_0168 NY 45607 125840 color=colorny_a1,z=0
+link cell_0168 I 1005010 1085243 color=colorny_a1,z=0
+colribboncap I 1005010 1085243 fill_color=colorny
+rowribboncap NY 45607 125840 fill_color=colori
+link cell_0169 NY 7684 45607 color=colorny_a1,z=0
+link cell_0169 L 561228 599151 color=colorny_a1,z=0
+colribboncap L 561228 599151 fill_color=colorny
+rowribboncap NY 7684 45607 fill_color=colorl
+link cell_0170 NY 125840 41955488 color=colorny_a1,z=22
+link cell_0170 R 443451199 485280847 color=colorny_a1,z=22
+colribboncap R 443451199 485280847 fill_color=colorny
+rowribboncap NY 125840 41955488 fill_color=colorr
+link cell_0171 NY 0 7684 color=colorny_a1,z=0
+link cell_0171 U 405768 413452 color=colorny_a1,z=0
+colribboncap U 405768 413452 fill_color=colorny
+rowribboncap NY 0 7684 fill_color=coloru
+link cell_0172 OH 31232171 39981744 color=coloroh_a1,z=5
+link cell_0172 D 206801887 215551460 color=coloroh_a1,z=5
+colribboncap D 206801887 215551460 fill_color=coloroh
+rowribboncap OH 31232171 39981744 fill_color=colord
+link cell_0173 OH 45675 69859 color=coloroh_a1,z=0
+link cell_0173 I 777390 801574 color=coloroh_a1,z=0
+colribboncap I 777390 801574 fill_color=coloroh
+rowribboncap OH 45675 69859 fill_color=colori
+link cell_0174 OH 6299 45675 color=coloroh_a1,z=0
+link cell_0174 L 387955 427331 color=coloroh_a1,z=0
+colribboncap L 387955 427331 fill_color=coloroh
+rowribboncap OH 6299 45675 fill_color=colorl
+link cell_0175 OH 69859 31232171 color=coloroh_a1,z=17
+link cell_0175 R 271796668 302958980 color=coloroh_a1,z=17
+colribboncap R 271796668 302958980 fill_color=coloroh
+rowribboncap OH 69859 31232171 fill_color=colorr
+link cell_0176 OH 0 6299 color=coloroh_a1,z=0
+link cell_0176 U 357602 363901 color=coloroh_a1,z=0
+colribboncap U 357602 363901 fill_color=coloroh
+rowribboncap OH 0 6299 fill_color=coloru
+link cell_0177 OK 6904200 8972713 color=colorok_a1,z=1
+link cell_0177 D 40433260 42501773 color=colorok_a1,z=1
+colribboncap D 40433260 42501773 fill_color=colorok
+rowribboncap OK 6904200 8972713 fill_color=colord
+link cell_0178 OK 9322 13642 color=colorok_a1,z=0
+link cell_0178 I 278093 282413 color=colorok_a1,z=0
+colribboncap I 278093 282413 fill_color=colorok
+rowribboncap OK 9322 13642 fill_color=colori
+link cell_0179 OK 4622 9322 color=colorok_a1,z=0
+link cell_0179 L 104003 108703 color=colorok_a1,z=0
+colribboncap L 104003 108703 fill_color=colorok
+rowribboncap OK 4622 9322 fill_color=colorl
+link cell_0180 OK 13642 6904200 color=colorok_a1,z=4
+link cell_0180 R 49612821 56503379 color=colorok_a1,z=4
+colribboncap R 49612821 56503379 fill_color=colorok
+rowribboncap OK 13642 6904200 fill_color=colorr
+link cell_0181 OK 0 4622 color=colorok_a1,z=0
+link cell_0181 U 26917 31539 color=colorok_a1,z=0
+colribboncap U 26917 31539 fill_color=colorok
+rowribboncap OK 0 4622 fill_color=coloru
+link cell_0182 OR 4524223 10026712 color=coloror_a1,z=3
+link cell_0182 D 44704091 50206580 color=coloror_a1,z=3
+colribboncap D 44704091 50206580 fill_color=coloror
+rowribboncap OR 4524223 10026712 fill_color=colord
+link cell_0183 OR 17300 30125 color=coloror_a1,z=0
+link cell_0183 I 334613 347438 color=coloror_a1,z=0
+colribboncap I 334613 347438 fill_color=coloror
+rowribboncap OR 17300 30125 fill_color=colori
+link cell_0184 OR 6600 17300 color=coloror_a1,z=0
+link cell_0184 L 115054 125754 color=coloror_a1,z=0
+colribboncap L 115054 125754 fill_color=coloror
+rowribboncap OR 6600 17300 fill_color=colorl
+link cell_0185 OR 30125 4524223 color=coloror_a1,z=2
+link cell_0185 R 64173634 68667732 color=coloror_a1,z=2
+colribboncap R 64173634 68667732 fill_color=coloror
+rowribboncap OR 30125 4524223 fill_color=colorr
+link cell_0186 OR 0 6600 color=coloror_a1,z=0
+link cell_0186 U 35839 42439 color=coloror_a1,z=0
+colribboncap U 35839 42439 fill_color=coloror
+rowribboncap OR 0 6600 fill_color=coloru
+link cell_0187 PA 21119744 36626901 color=colorpa_a1,z=8
+link cell_0187 D 191294730 206801887 color=colorpa_a1,z=8
+colribboncap D 191294730 206801887 fill_color=colorpa
+rowribboncap PA 21119744 36626901 fill_color=colord
+link cell_0188 PA 63587 81470 color=colorpa_a1,z=0
+link cell_0188 I 759507 777390 color=colorpa_a1,z=0
+colribboncap I 759507 777390 fill_color=colorpa
+rowribboncap PA 63587 81470 fill_color=colori
+link cell_0189 PA 49337 63587 color=colorpa_a1,z=0
+link cell_0189 L 373705 387955 color=colorpa_a1,z=0
+colribboncap L 373705 387955 fill_color=colorpa
+rowribboncap PA 49337 63587 fill_color=colorl
+link cell_0190 PA 81470 21119744 color=colorpa_a1,z=11
+link cell_0190 R 250758394 271796668 color=colorpa_a1,z=11
+colribboncap R 250758394 271796668 fill_color=colorpa
+rowribboncap PA 81470 21119744 fill_color=colorr
+link cell_0191 PA 0 49337 color=colorpa_a1,z=0
+link cell_0191 U 308265 357602 color=colorpa_a1,z=0
+colribboncap U 308265 357602 fill_color=colorpa
+rowribboncap PA 0 49337 fill_color=coloru
+link cell_0192 PR 325355 2440464 color=colorpr_a1,z=1
+link cell_0192 D 3111487 5226596 color=colorpr_a1,z=1
+colribboncap D 3111487 5226596 fill_color=colorpr
+rowribboncap PR 325355 2440464 fill_color=colord
+link cell_0193 PR 0 325355 color=colorpr_a1,z=0
+link cell_0193 R 5136776 5462131 color=colorpr_a1,z=0
+colribboncap R 5136776 5462131 fill_color=colorpr
+rowribboncap PR 0 325355 fill_color=colorr
+link cell_0194 RI 1205464 3617567 color=colorri_a1,z=1
+link cell_0194 D 10534469 12946572 color=colorri_a1,z=1
+colribboncap D 10534469 12946572 fill_color=colorri
+rowribboncap RI 1205464 3617567 fill_color=colord
+link cell_0195 RI 500 7725 color=colorri_a1,z=0
+link cell_0195 I 228870 236095 color=colorri_a1,z=0
+colribboncap I 228870 236095 fill_color=colorri
+rowribboncap RI 500 7725 fill_color=colori
+link cell_0196 RI 7725 1205464 color=colorri_a1,z=1
+link cell_0196 R 8703089 9900828 color=colorri_a1,z=1
+colribboncap R 8703089 9900828 fill_color=colorri
+rowribboncap RI 7725 1205464 fill_color=colorr
+link cell_0197 RI 0 500 color=colorri_a1,z=0
+link cell_0197 U 10250 10750 color=colorri_a1,z=0
+colribboncap U 10250 10750 fill_color=colorri
+rowribboncap RI 0 500 fill_color=coloru
+link cell_0198 SC 4964712 7590312 color=colorsc_a1,z=1
+link cell_0198 D 35953114 38578714 color=colorsc_a1,z=1
+colribboncap D 35953114 38578714 fill_color=colorsc
+rowribboncap SC 4964712 7590312 fill_color=colord
+link cell_0199 SC 2202 4502 color=colorsc_a1,z=0
+link cell_0199 I 274543 276843 color=colorsc_a1,z=0
+colribboncap I 274543 276843 fill_color=colorsc
+rowribboncap SC 2202 4502 fill_color=colori
+link cell_0200 SC 250 2202 color=colorsc_a1,z=0
+link cell_0200 L 96051 98003 color=colorsc_a1,z=0
+colribboncap L 96051 98003 fill_color=colorsc
+rowribboncap SC 250 2202 fill_color=colorl
+link cell_0201 SC 4502 4964712 color=colorsc_a1,z=3
+link cell_0201 R 38366032 43326242 color=colorsc_a1,z=3
+colribboncap R 38366032 43326242 fill_color=colorsc
+rowribboncap SC 4502 4964712 fill_color=colorr
+link cell_0202 SC 0 250 color=colorsc_a1,z=0
+link cell_0202 U 23667 23917 color=colorsc_a1,z=0
+colribboncap U 23667 23917 fill_color=colorsc
+rowribboncap SC 0 250 fill_color=coloru
+link cell_0203 SD 2245376 2907086 color=colorsd_a1,z=0
+link cell_0203 D 7068811 7730521 color=colorsd_a1,z=0
+colribboncap D 7068811 7730521 fill_color=colorsd
+rowribboncap SD 2245376 2907086 fill_color=colord
+link cell_0204 SD 250 1350 color=colorsd_a1,z=0
+link cell_0204 I 102550 103650 color=colorsd_a1,z=0
+colribboncap I 102550 103650 fill_color=colorsd
+rowribboncap SD 250 1350 fill_color=colori
+link cell_0205 SD 1350 2245376 color=colorsd_a1,z=1
+link cell_0205 R 6163150 8407176 color=colorsd_a1,z=1
+colribboncap R 6163150 8407176 fill_color=colorsd
+rowribboncap SD 1350 2245376 fill_color=colorr
+link cell_0206 SD 0 250 color=colorsd_a1,z=0
+link cell_0206 U 7000 7250 color=colorsd_a1,z=0
+colribboncap U 7000 7250 fill_color=colorsd
+rowribboncap SD 0 250 fill_color=coloru
+link cell_0207 TN 15831302 19091914 color=colortn_a1,z=2
+link cell_0207 D 114813040 118073652 color=colortn_a1,z=2
+colribboncap D 114813040 118073652 fill_color=colortn
+rowribboncap TN 15831302 19091914 fill_color=colord
+link cell_0208 TN 14200 35307 color=colortn_a1,z=0
+link cell_0208 I 588745 609852 color=colortn_a1,z=0
+colribboncap I 588745 609852 fill_color=colortn
+rowribboncap TN 14200 35307 fill_color=colori
+link cell_0209 TN 500 14200 color=colortn_a1,z=0
+link cell_0209 L 277212 290912 color=colortn_a1,z=0
+colribboncap L 277212 290912 fill_color=colortn
+rowribboncap TN 500 14200 fill_color=colorl
+link cell_0210 TN 35307 15831302 color=colortn_a1,z=8
+link cell_0210 R 160432963 176228958 color=colortn_a1,z=8
+colribboncap R 160432963 176228958 fill_color=colortn
+rowribboncap TN 35307 15831302 fill_color=colorr
+link cell_0211 TN 0 500 color=colortn_a1,z=0
+link cell_0211 U 104448 104948 color=colortn_a1,z=0
+colribboncap U 104448 104948 fill_color=colortn
+rowribboncap TN 0 500 fill_color=coloru
+link cell_0212 TX 86309819 112810474 color=colortx_a1,z=14
+link cell_0212 D 422813520 449314175 color=colortx_a1,z=14
+colribboncap D 422813520 449314175 fill_color=colortx
+rowribboncap TX 86309819 112810474 fill_color=colord
+link cell_0213 TX 314191 332116 color=colortx_a1,z=0
+link cell_0213 I 1085243 1103168 color=colortx_a1,z=0
+colribboncap I 1085243 1103168 fill_color=colortx
+rowribboncap TX 314191 332116 fill_color=colori
+link cell_0214 TX 117010 314191 color=colortx_a1,z=0
+link cell_0214 L 599151 796332 color=colortx_a1,z=0
+colribboncap L 599151 796332 fill_color=colortx
+rowribboncap TX 117010 314191 fill_color=colorl
+link cell_0215 TX 332116 86309819 color=colortx_a1,z=46
+link cell_0215 R 485280847 571258550 color=colortx_a1,z=46
+colribboncap R 485280847 571258550 fill_color=colortx
+rowribboncap TX 332116 86309819 fill_color=colorr
+link cell_0216 TX 0 117010 color=colortx_a1,z=0
+link cell_0216 U 413452 530462 color=colortx_a1,z=0
+colribboncap U 413452 530462 fill_color=colortx
+rowribboncap TX 0 117010 fill_color=coloru
+link cell_0217 UT 10440858 12080967 color=colorut_a1,z=1
+link cell_0217 D 67528350 69168459 color=colorut_a1,z=1
+colribboncap D 67528350 69168459 fill_color=colorut
+rowribboncap UT 10440858 12080967 fill_color=colord
+link cell_0218 UT 5602 8146 color=colorut_a1,z=0
+link cell_0218 I 385802 388346 color=colorut_a1,z=0
+colribboncap I 385802 388346 fill_color=colorut
+rowribboncap UT 5602 8146 fill_color=colori
+link cell_0219 UT 500 5602 color=colorut_a1,z=0
+link cell_0219 L 159000 164102 color=colorut_a1,z=0
+colribboncap L 159000 164102 fill_color=colorut
+rowribboncap UT 500 5602 fill_color=colorl
+link cell_0220 UT 8146 10440858 color=colorut_a1,z=6
+link cell_0220 R 97834475 108267187 color=colorut_a1,z=6
+colribboncap R 97834475 108267187 fill_color=colorut
+rowribboncap UT 8146 10440858 fill_color=colorr
+link cell_0221 UT 0 500 color=colorut_a1,z=0
+link cell_0221 U 65714 66214 color=colorut_a1,z=0
+colribboncap U 65714 66214 fill_color=colorut
+rowribboncap UT 0 500 fill_color=coloru
+link cell_0222 VA 57651028 77935304 color=colorva_a1,z=11
+link cell_0222 D 271321045 291605321 color=colorva_a1,z=11
+colribboncap D 271321045 291605321 fill_color=colorva
+rowribboncap VA 57651028 77935304 fill_color=colord
+link cell_0223 VA 25300 76715 color=colorva_a1,z=0
+link cell_0223 I 913360 964775 color=colorva_a1,z=0
+colribboncap I 913360 964775 fill_color=colorva
+rowribboncap VA 25300 76715 fill_color=colori
+link cell_0224 VA 5523 25300 color=colorva_a1,z=0
+link cell_0224 L 512978 532755 color=colorva_a1,z=0
+colribboncap L 512978 532755 fill_color=colorva
+rowribboncap VA 5523 25300 fill_color=colorl
+link cell_0225 VA 76715 57651028 color=colorva_a1,z=31
+link cell_0225 R 361675814 419250127 color=colorva_a1,z=31
+colribboncap R 361675814 419250127 fill_color=colorva
+rowribboncap VA 76715 57651028 fill_color=colorr
+link cell_0226 VA 0 5523 color=colorva_a1,z=0
+link cell_0226 U 397545 403068 color=colorva_a1,z=0
+colribboncap U 397545 403068 fill_color=colorva
+rowribboncap VA 0 5523 fill_color=coloru
+link cell_0227 VI 192191 715391 color=colorvi_a1,z=0
+link cell_0227 D 108150 631350 color=colorvi_a1,z=0
+colribboncap D 108150 631350 fill_color=colorvi
+rowribboncap VI 192191 715391 fill_color=colord
+link cell_0228 VI 500 192191 color=colorvi_a1,z=0
+link cell_0228 R 16752 208443 color=colorvi_a1,z=0
+colribboncap R 16752 208443 fill_color=colorvi
+rowribboncap VI 500 192191 fill_color=colorr
+link cell_0229 VI 0 500 color=colorvi_a1,z=0
+link cell_0229 U 750 1250 color=colorvi_a1,z=0
+colribboncap U 750 1250 fill_color=colorvi
+rowribboncap VI 0 500 fill_color=coloru
+link cell_0230 VT 427183 3231131 color=colorvt_a1,z=1
+link cell_0230 D 7730521 10534469 color=colorvt_a1,z=1
+colribboncap D 7730521 10534469 fill_color=colorvt
+rowribboncap VT 427183 3231131 fill_color=colord
+link cell_0231 VT 6050 131270 color=colorvt_a1,z=0
+link cell_0231 I 103650 228870 color=colorvt_a1,z=0
+colribboncap I 103650 228870 fill_color=colorvt
+rowribboncap VT 6050 131270 fill_color=colori
+link cell_0232 VT 3000 6050 color=colorvt_a1,z=0
+link cell_0232 L 5701 8751 color=colorvt_a1,z=0
+colribboncap L 5701 8751 fill_color=colorvt
+rowribboncap VT 3000 6050 fill_color=colorl
+link cell_0233 VT 131270 427183 color=colorvt_a1,z=0
+link cell_0233 R 8407176 8703089 color=colorvt_a1,z=0
+colribboncap R 8407176 8703089 fill_color=colorvt
+rowribboncap VT 131270 427183 fill_color=colorr
+link cell_0234 VT 0 3000 color=colorvt_a1,z=0
+link cell_0234 U 7250 10250 color=colorvt_a1,z=0
+colribboncap U 7250 10250 fill_color=colorvt
+rowribboncap VT 0 3000 fill_color=coloru
+link cell_0235 WA 6433322 18938281 color=colorwa_a1,z=7
+link cell_0235 D 102308081 114813040 color=colorwa_a1,z=7
+colribboncap D 102308081 114813040 fill_color=colorwa
+rowribboncap WA 6433322 18938281 fill_color=colord
+link cell_0236 WA 31515 62465 color=colorwa_a1,z=0
+link cell_0236 I 557795 588745 color=colorwa_a1,z=0
+colribboncap I 557795 588745 fill_color=colorwa
+rowribboncap WA 31515 62465 fill_color=colori
+link cell_0237 WA 3500 31515 color=colorwa_a1,z=0
+link cell_0237 L 249197 277212 color=colorwa_a1,z=0
+colribboncap L 249197 277212 fill_color=colorwa
+rowribboncap WA 3500 31515 fill_color=colorl
+link cell_0238 WA 62465 6433322 color=colorwa_a1,z=3
+link cell_0238 R 154062106 160432963 color=colorwa_a1,z=3
+colribboncap R 154062106 160432963 fill_color=colorwa
+rowribboncap WA 62465 6433322 fill_color=colorr
+link cell_0239 WA 0 3500 color=colorwa_a1,z=0
+link cell_0239 U 100948 104448 color=colorwa_a1,z=0
+colribboncap U 100948 104448 fill_color=colorwa
+rowribboncap WA 0 3500 fill_color=coloru
+link cell_0240 WI 6447317 11469535 color=colorwi_a1,z=3
+link cell_0240 D 50206580 55228798 color=colorwi_a1,z=3
+colribboncap D 50206580 55228798 fill_color=colorwi
+rowribboncap WI 6447317 11469535 fill_color=colord
+link cell_0241 WI 3500 20364 color=colorwi_a1,z=0
+link cell_0241 I 347438 364302 color=colorwi_a1,z=0
+colribboncap I 347438 364302 fill_color=colorwi
+rowribboncap WI 3500 20364 fill_color=colori
+link cell_0242 WI 750 3500 color=colorwi_a1,z=0
+link cell_0242 L 125754 128504 color=colorwi_a1,z=0
+colribboncap L 125754 128504 fill_color=colorwi
+rowribboncap WI 750 3500 fill_color=colorl
+link cell_0243 WI 20364 6447317 color=colorwi_a1,z=3
+link cell_0243 R 68667732 75094685 color=colorwi_a1,z=3
+colribboncap R 68667732 75094685 fill_color=colorwi
+rowribboncap WI 20364 6447317 fill_color=colorr
+link cell_0244 WI 0 750 color=colorwi_a1,z=0
+link cell_0244 U 42439 43189 color=colorwi_a1,z=0
+colribboncap U 42439 43189 fill_color=colorwi
+rowribboncap WI 0 750 fill_color=coloru
+link cell_0245 WV 2855617 4247577 color=colorwv_a1,z=1
+link cell_0245 D 16159768 17551728 color=colorwv_a1,z=1
+colribboncap D 16159768 17551728 fill_color=colorwv
+rowribboncap WV 2855617 4247577 fill_color=colord
+link cell_0246 WV 1250 4875 color=colorwv_a1,z=0
+link cell_0246 I 243133 246758 color=colorwv_a1,z=0
+colribboncap I 243133 246758 fill_color=colorwv
+rowribboncap WV 1250 4875 fill_color=colori
+link cell_0247 WV 500 1250 color=colorwv_a1,z=0
+link cell_0247 L 11801 12551 color=colorwv_a1,z=0
+colribboncap L 11801 12551 fill_color=colorwv
+rowribboncap WV 500 1250 fill_color=colorl
+link cell_0248 WV 4875 2855617 color=colorwv_a1,z=2
+link cell_0248 R 14723622 17574364 color=colorwv_a1,z=2
+colribboncap R 14723622 17574364 fill_color=colorwv
+rowribboncap WV 4875 2855617 fill_color=colorr
+link cell_0249 WV 0 500 color=colorwv_a1,z=0
+link cell_0249 U 10750 11250 color=colorwv_a1,z=0
+colribboncap U 10750 11250 fill_color=colorwv
+rowribboncap WV 0 500 fill_color=coloru
+link cell_0250 WY 1494076 2030784 color=colorwy_a1,z=0
+link cell_0250 D 1992236 2528944 color=colorwy_a1,z=0
+colribboncap D 1992236 2528944 fill_color=colorwy
+rowribboncap WY 1494076 2030784 fill_color=colord
+link cell_0251 WY 3000 4750 color=colorwy_a1,z=0
+link cell_0251 I 98950 100700 color=colorwy_a1,z=0
+colribboncap I 98950 100700 fill_color=colorwy
+rowribboncap WY 3000 4750 fill_color=colori
+link cell_0252 WY 2750 3000 color=colorwy_a1,z=0
+link cell_0252 L 1500 1750 color=colorwy_a1,z=0
+colribboncap L 1500 1750 fill_color=colorwy
+rowribboncap WY 2750 3000 fill_color=colorl
+link cell_0253 WY 4750 1494076 color=colorwy_a1,z=1
+link cell_0253 R 2001259 3490585 color=colorwy_a1,z=1
+colribboncap R 2001259 3490585 fill_color=colorwy
+rowribboncap WY 4750 1494076 fill_color=colorr
+link cell_0254 WY 0 2750 color=colorwy_a1,z=0
+link cell_0254 U 1750 4500 color=colorwy_a1,z=0
+colribboncap U 1750 4500 fill_color=colorwy
+rowribboncap WY 0 2750 fill_color=coloru

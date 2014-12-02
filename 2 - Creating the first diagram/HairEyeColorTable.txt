@@ -1,0 +1,5 @@
+X Blue_Eyes Brown_Eyes Green_Eyes Hazel_Eyes
+Black_Hair 20 68 5 15
+Blonde_Hair 94 7 15 11
+Brown_Hair 84 119 29 54
+Red_Hair 17 26 14 14

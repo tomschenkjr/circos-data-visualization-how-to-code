@@ -1,0 +1,8 @@
+chr - Brown_Hair Brown_Hair 0 286 colorbrown_hair
+chr - Brown_Eyes Brown_Eyes 0 220 colorbrown_eyes
+chr - Blue_Eyes Blue_Eyes 0 215 colorblue_eyes
+chr - Blonde_Hair Blonde_Hair 0 127 colorblonde_hair
+chr - Black_Hair Black_Hair 0 108 colorblack_hair
+chr - Hazel_Eyes Hazel_Eyes 0 94 colorhazel_eyes
+chr - Red_Hair Red_Hair 0 71 colorred_hair
+chr - Green_Eyes Green_Eyes 0 63 colorgreen_eyes
